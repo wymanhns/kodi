@@ -20,7 +20,7 @@ jobs:
         
     - name: Update paper list
       run: |
-        python 2.py
+        python3 2.py
         cat 3.m3u
         
     - name: commit
