@@ -19,7 +19,7 @@ jobs:
       run: |
         cd iptvm3u8
         cat 3.m3u
-        python 2.py
+        python3 2.py
         cat 3.m3u
         
     - name: commit
