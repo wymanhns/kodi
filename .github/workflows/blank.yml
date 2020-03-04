@@ -25,7 +25,7 @@ jobs:
         git config --global user.email wymanhns@gmail.com
         git config --global user.name wymanhns
         git add .
-        git commit -m "first commit" 
+        git commit -m "first commit"  -a
         
     - name: Push changes
       uses: ad-m/github-push-action@master
