@@ -18,10 +18,10 @@ jobs:
     - name: Update paper list
       run: |
         cd iptvm3u8
-        ls
+        
         cat 3.m3u
         python 2.py
-        
+        ls
         cat 3.m3u
         
     - name: commit
