@@ -21,6 +21,7 @@ jobs:
         ls
         cat 3.m3u
         python 2.py
+        
         cat 3.m3u
         
     - name: commit
