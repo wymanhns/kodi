@@ -9,9 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-      run: |
-        cd iptvm3u8
-        cat 3.m3u
 
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
@@ -20,6 +17,8 @@ jobs:
         
     - name: Update paper list
       run: |
+        cd iptvm3u8
+        cat 3.m3u
         python 2.py
         cat 3.m3u
         
