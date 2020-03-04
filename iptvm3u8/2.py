@@ -48,7 +48,7 @@ def foo(var):
 def ReadData():
   readlist = [1,3]
   #讀取網頁
-  '''
+  
   url = 'http://luotuo.oss-cn-beijing.aliyuncs.com/list.txt'
   html = urllib.request.urlopen(url).read()
   html = html.decode('utf-8')     #python3版本中需要加入
@@ -59,7 +59,7 @@ def ReadData():
   for line in lines:
     html = (line)
     f.close()
-    
+    '''
   html = unquote(bytes.decode(base64.b64decode(html))) #解編碼
   html = html.split('\n\n');  
   groupname=[]
