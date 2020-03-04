@@ -9,6 +9,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+      run: |
+        cd iptvm3u8
+        cat 3.m3u
+
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -16,16 +20,15 @@ jobs:
         
     - name: Update paper list
       run: |
-        cd iptvm3u8
-        ls
         python 2.py
+        cat 3.m3u
         
     - name: commit
       run: |
         git config --global user.email wymanhns@gmail.com
         git config --global user.name wymanhns
         git add .
-        git commit -m "first commit"  -a
+        git commit -m "first commit" 
         
     - name: Push changes
       uses: ad-m/github-push-action@master
