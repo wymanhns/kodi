@@ -1,8 +1,7 @@
 name: Python application
 
-on: [push]
-
-# 定时任务在utc的9点执行，换算北京时间需要 + 8也就是凌晨五点
+on:
+  push:
   schedule:
     - cron: "* */3 * * *"
 
