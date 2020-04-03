@@ -22,6 +22,7 @@ jobs:
       run: |
         cd iptvm3u8
         python 2.py
+        echo `date` > LasterRunTime.log
         
     - name: commit
       run: |
