@@ -3,6 +3,7 @@ import  re, urllib.request, base64
 from urllib.request import unquote
 
 def foo(var):                 # 大視界資源加入標題
+  #print (var)
   return {
    'CCTV1': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合',
    'CCTV2': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经',
@@ -37,18 +38,7 @@ def foo(var):                 # 大視界資源加入標題
    'CCTV4K超高清': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K',
    'CHC家庭影院': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-name="CHC高清电影" group-title="CCTV",CHC高清电影',
    '凤凰资讯': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台',
-   '星空卫视': '#EXTINF:-1 tvg-logo="" tvg-name="星空卫视" group-title="",星空卫视',
-   '星空音乐': '#EXTINF:-1 tvg-logo="" tvg-name="星空音乐" group-title="",星空音乐',
-   '莲花卫视': '#EXTINF:-1 tvg-logo="" tvg-name="莲花卫视" group-title="澳门电视台",莲花卫视',
-   '亚视本港': '#EXTINF:-1 tvg-logo="" tvg-name="亚视本港" group-title="香港电视台",亚视本港',
-   '有线电影': '#EXTINF:-1 tvg-logo="" tvg-name="有线电影" group-title="香港电视台",有线电影',
    '澳亚卫视': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" tvg-name="澳亚卫视" group-title="CCTV",澳亚卫视',
-   '澳视卫星': '#EXTINF:-1 tvg-logo="" tvg-name="澳视卫星" group-title="澳门电视台",澳视卫星',
-   '澳门卫视': '#EXTINF:-1 tvg-logo="" tvg-name="澳门卫视" group-title="澳门电视台",澳门卫视',
-   '澳视澳门': '#EXTINF:-1 tvg-logo="" tvg-name="澳视澳门" group-title="澳门电视台",澳视澳门',
-   '亚旅卫视': '#EXTINF:-1 tvg-logo="" tvg-name="亚旅卫视" group-title="",亚旅卫视',
-   '有线赛马': '#EXTINF:-1 tvg-logo="" tvg-name="有线赛马" group-title="香港电视台",有线赛马',
-   'NOW新闻台': '#EXTINF:-1 tvg-logo="" tvg-name="NOW新闻台" group-title="香港电视台",NOW新闻台',
    '凤凰中文': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文',
    '凤凰咨询': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰资讯',
    '凤凰香港': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 ',
@@ -65,7 +55,7 @@ def foo(var):                 # 大視界資源加入標題
    '有线财经': '#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" tvg-name="有线财经资讯台" group-title="香港电视台",有线财经资讯台',
    '': '',
    
-  }.get(var,'#EXTINF:-1 ')  #'error'為預設返回值，可自設定
+  }.get(var,'#EXTINF:-1 tvg-name="' + var + '" ,' +var )   #'error'為預設返回值，可自設定
 
 def WriteFile1(str):    # 寫入檔案
   #print (str)
