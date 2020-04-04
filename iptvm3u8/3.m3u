@@ -235,21 +235,21 @@ http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d
 http://qlive.fengshows.cn/live720p/PHK.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
 http://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="星空卫视" group-title="",星空卫视
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 http://www.fanmingming.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="星空卫视" group-title="",星空卫视
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-logo="" tvg-name="星空卫视" group-title="",星空卫视
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 http://s6800872.awhost.cn/888/xgtv.php?id=18
-#EXTINF:-1 tvg-logo="" tvg-name="星空音乐" group-title="",星空音乐
+#EXTINF:-1 tvg-name="星空音乐" ,星空音乐
 http://www.fanmingming.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="星空音乐" group-title="",星空音乐
+#EXTINF:-1 tvg-name="星空音乐" ,星空音乐
 rtmp://58.200.131.3:1935/livetv/channelv
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="星空体育" ,星空体育
 http://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="莲花卫视" group-title="澳门电视台",莲花卫视
+#EXTINF:-1 tvg-name="莲花卫视" ,莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -257,7 +257,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-logo="" tvg-name="亚视本港" group-title="香港电视台",亚视本港
+#EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://s6800872.awhost.cn/888/xgtv.php?id=31
@@ -267,9 +267,9 @@ http://hk.tv0668.com/dl/hk520.php?id=31
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://103.145.38.152/axg.php?id=31
-#EXTINF:-1 tvg-logo="" tvg-name="有线电影" group-title="香港电视台",有线电影
+#EXTINF:-1 tvg-name="有线电影" ,有线电影
 http://hk.tv0668.com/dl/hk520.php?id=30
-#EXTINF:-1 tvg-logo="" tvg-name="有线电影" group-title="香港电视台",有线电影
+#EXTINF:-1 tvg-name="有线电影" ,有线电影
 http://103.145.38.152/axg.php?id=30
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-name="翡翠台" group-title="香港电视台",無线翡翠台
 http://s6800872.awhost.cn/888/xgtv.php?id=1
@@ -291,19 +291,19 @@ http://s6800872.awhost.cn/888/xgtv.php?id=10
 http://103.145.38.152/axg.php?id=10
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
 http://hk.tv0668.com/dl/hk520.php?id=10
-#EXTINF:-1 tvg-logo="" tvg-name="澳视卫星" group-title="澳门电视台",澳视卫星
+#EXTINF:-1 tvg-name="澳视卫星" ,澳视卫星
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="澳视澳门" group-title="澳门电视台",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="澳门卫视" group-title="澳门电视台",澳门卫视
+#EXTINF:-1 tvg-name="澳门卫视" ,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" tvg-name="澳亚卫视" group-title="CCTV",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
 http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="亚旅卫视" group-title="",亚旅卫视
+#EXTINF:-1 tvg-name="亚旅卫视" ,亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="有线赛马" group-title="香港电视台",有线赛马
+#EXTINF:-1 tvg-name="有线赛马" ,有线赛马
 rtmp://112.30.135.40/live-zb.nanhailong.com/live/ch215
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港电视台",无线J2
 http://s6800872.awhost.cn/888/xgtv.php?id=12
@@ -311,9 +311,9 @@ http://s6800872.awhost.cn/888/xgtv.php?id=12
 http://hk.tv0668.com/dl/hk520.php?id=12
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港电视台",无线J2
 http://103.145.38.152/axg.php?id=12
-#EXTINF:-1 tvg-logo="" tvg-name="NOW新闻台" group-title="香港电视台",NOW新闻台
+#EXTINF:-1 tvg-name="NOW新闻台" ,NOW新闻台
 http://s6800872.awhost.cn/888/xgtv.php?id=16
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="VIU综合台" ,VIU综合台
 http://s6800872.awhost.cn/888/xgtv.php?id=8
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="RHK港视31" ,RHK港视31
 http://s6800872.awhost.cn/888/xgtv.php?id=20
