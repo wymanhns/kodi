@@ -275,10 +275,22 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-name="翡翠台" group-title="香港电视台",無线翡翠台
+http://pulltest.aircourses.com/live/638b934ad63dbd2cdee4efe1584f76c2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-name="翡翠台" group-title="香港电视台",無线翡翠台
+http://hdl0901.plures.net/onlive/758cb670c3a3116fa31f045c074e2829.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1586835706~exp=1586922106~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=e038af27e2ef37c6c187a49e6ed91b315813829d23a771d5bea3cd69e7363449
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
 http://www.dszbdq.cn/diao/wxtv.php?id=inews?is_hd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1586835762~exp=1586922162~acl=/newslive/smil:mobile_finance.smil/*~hmac=b1369c8ee424b058a122fdbe9432b1165927d657bdb4523b9b091a8b3c3f94c9
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
 http://www.dszbdq.cn/diao/wxtv.php?id=j5_ch85?is_hd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
+http://hdl0901.plures.net/onlive/60c11b59219712cd2b10f3ed2304c6a6.flv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Skdax1wlmiOnSvCkudVBwmC4YgU04n0cv0MWnMhtkvUxEKuW" tvg-name="有线娛樂台" group-title="香港电视台",有线娛樂台
 http://47.240.103.169:10080/vhls/8PcEynCZg/8PcEynCZg_live.m3u8
 #EXTINF:-1 tvg-name="英皇娱乐" ,英皇娱乐
