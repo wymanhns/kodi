@@ -194,9 +194,55 @@ http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" ,CHC动作电影
 http://117.156.28.60/270000001111/1110000005/index.m3u8
 #EXTINF:-1 tvg-name="CIBN综合频道" ,CIBN综合频道
-http://www.dszbdq.cn/diao/migu.php?id=661430547
+http://www.dszbdq.cn/play/cibn.php?id=zonghe
+#EXTINF:-1 tvg-name="CIBN电影频道" ,CIBN电影频道
+http://www.dszbdq.cn/play/cibn.php?id=dianyingzonghe
+#EXTINF:-1 tvg-name="CIBN生活频道" ,CIBN生活频道
+http://www.dszbdq.cn/play/cibn.php?id=shenghuo
+#EXTINF:-1 tvg-name="CIBN骄阳剧场" ,CIBN骄阳剧场
+http://www.dszbdq.cn/play/cibn.php?id=jiaoyangjuchang
+#EXTINF:-1 tvg-name="CIBN古装剧场" ,CIBN古装剧场
+http://www.dszbdq.cn/play/cibn.php?id=guzhuangjuchang
+#EXTINF:-1 tvg-name="CIBN经典剧场" ,CIBN经典剧场
+http://www.dszbdq.cn/play/cibn.php?id=jingdianjuchang
 #EXTINF:-1 tvg-name="CIBN院线大片" ,CIBN院线大片
 http://www.dszbdq.cn/diao/migu.php?id=661432899
+#EXTINF:-1 tvg-name="CIBN好莱坞台" ,CIBN好莱坞台
+http://www.dszbdq.cn/play/cibn.php?id=haolaiwu
+#EXTINF:-1 tvg-name="CIBN喜剧影院" ,CIBN喜剧影院
+http://www.dszbdq.cn/play/cibn.php?id=xijuyingyuan
+#EXTINF:-1 tvg-name="CIBN动作影院" ,CIBN动作影院
+http://www.dszbdq.cn/play/cibn.php?id=dongzuoyingyuan
+#EXTINF:-1 tvg-name="CIBN情感影院" ,CIBN情感影院
+http://www.dszbdq.cn/play/cibn.php?id=qingganyingyuan
+#EXTINF:-1 tvg-name="CIBN精品影院" ,CIBN精品影院
+http://www.dszbdq.cn/play/cibn.php?id=jingpinyingyuan
+#EXTINF:-1 tvg-name="CIBN文旅中国" ,CIBN文旅中国
+http://www.dszbdq.cn/play/cibn.php?id=wenlvzhongguo
+#EXTINF:-1 tvg-name="CIBN纪录片台" ,CIBN纪录片台
+http://www.dszbdq.cn/play/cibn.php?id=jilupian
+#EXTINF:-1 tvg-name="CIBN真人秀台" ,CIBN真人秀台
+http://www.dszbdq.cn/play/cibn.php?id=zhenrenxiu
+#EXTINF:-1 tvg-name="CIBN嗨播频道" ,CIBN嗨播频道
+http://www.dszbdq.cn/play/cibn.php?id=haibo
+#EXTINF:-1 tvg-name="CIBN映画频道" ,CIBN映画频道
+http://www.dszbdq.cn/play/cibn.php?id=yinghua
+#EXTINF:-1 tvg-name="CIBN军事频道" ,CIBN军事频道
+http://www.dszbdq.cn/play/cibn.php?id=junshi
+#EXTINF:-1 tvg-name="CIBN汽车频道" ,CIBN汽车频道
+http://www.dszbdq.cn/play/cibn.php?id=qiche
+#EXTINF:-1 tvg-name="CIBN童学世界" ,CIBN童学世界
+http://www.dszbdq.cn/play/cibn.php?id=tongxueshijie
+#EXTINF:-1 tvg-name="CIBN炫佳动漫" ,CIBN炫佳动漫
+http://www.dszbdq.cn/play/cibn.php?id=xuanjiadongman
+#EXTINF:-1 tvg-name="CIBN流金岁月" ,CIBN流金岁月
+http://www.dszbdq.cn/play/cibn.php?id=liujinsuiyue
+#EXTINF:-1 tvg-name="CIBN微电影台" ,CIBN微电影台
+http://www.dszbdq.cn/play/cibn.php?id=weidianying
+#EXTINF:-1 tvg-name="CIBN风尚运动" ,CIBN风尚运动
+http://www.dszbdq.cn/play/cibn.php?id=fengshangyundong
+#EXTINF:-1 tvg-name="CIBN健康频道" ,CIBN健康频道
+http://www.dszbdq.cn/play/cibn.php?id=jiankang
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://qlive.fengshows.cn/live720p/PCC.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
