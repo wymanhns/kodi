@@ -193,6 +193,10 @@ http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" ,CHC动作电影
 http://117.156.28.60/270000001111/1110000005/index.m3u8
+#EXTINF:-1 tvg-name="CIBN综合频道" ,CIBN综合频道
+http://www.dszbdq.cn/diao/migu.php?id=661430547
+#EXTINF:-1 tvg-name="CIBN院线大片" ,CIBN院线大片
+http://www.dszbdq.cn/diao/migu.php?id=661432899
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://qlive.fengshows.cn/live720p/PCC.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
@@ -248,7 +252,7 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
-https://pl0-hls.live.huajiao.com/live_huajiao_v2/1cc547f220751bc28ddecce9f4292a72/playlist.m3u8
+http://hdl0901.plures.net/onlive/123456789news.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
