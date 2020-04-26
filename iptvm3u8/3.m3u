@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
-http://www.itvi.vip/cctv.php?id=2000210102
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://112.50.243.4/PLTV/88888888/224/3221226489/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
+http://www.dszbdq.cn/diao/migu.php?id=608807420
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
+http://www.itvi.vip/cctv.php?id=2000210102
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://ocs2.xjitv.cn:5000/cctv1_hdcq.m3u8?protocal=hls&user=yoongoo&tid=WEB-91AE097F0DED319B&sid=cctv1_hd&quality=null&type=pc&token=guoziyun
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
@@ -22,6 +24,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
 http://112.50.243.4/PLTV/88888888/224/3221226795/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
+http://www.dszbdq.cn/diao/migu.php?id=672926537
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
 http://www.itvi.vip/cctv.php?id=2000203602
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
 http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -34,9 +38,13 @@ http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv2/online.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
 http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
+http://www.dszbdq.cn/diao/migu.php?id=624878270
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
 http://mrw.so/4o0eBX?dsjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
+http://www.dszbdq.cn/diao/migu.php?id=672924435
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
 http://www.itvi.vip/cctv.php?id=2000204802
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
@@ -48,17 +56,21 @@ http://mrw.so/4o0cip?dsjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
 http://umslive.hebyun.com.cn/live/cctv4/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
-http://www.itvi.vip/cctv.php?id=2000205102
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://112.50.243.4/PLTV/88888888/224/3221226560/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
+http://www.dszbdq.cn/diao/migu.php?id=641886681
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
+http://www.itvi.vip/cctv.php?id=2000205102
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://mrw.so/4uQuLo?dsjtv.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
+http://www.dszbdq.cn/diao/migu.php?id=624878393
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
 http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
@@ -72,13 +84,13 @@ http://112.50.243.4/PLTV/88888888/224/3221226803/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="CCTV",CCTV-7国防军事
 http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="CCTV",CCTV-7国防军事
-http://umslive.hebyun.com.cn/live/cctv7/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="CCTV",CCTV-7国防军事
 http://mrw.so/4CmIjh?dsjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
-http://www.itvi.vip/cctv.php?id=2000203902
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
 http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
+http://www.dszbdq.cn/diao/migu.php?id=624878355
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
+http://www.itvi.vip/cctv.php?id=2000203902
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
 http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="CCTV",CCTV-9纪录
@@ -88,13 +100,17 @@ http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="CCTV",CCTV-9纪录
 http://mrw.so/5dXJhe?dsjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
-http://www.itvi.vip/cctv.php?id=2000203502
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://www.dszbdq.cn/diao/migu.php?id=624878405
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
 http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
 http://mrw.so/4JSVUe?dsjtv.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
+http://www.itvi.vip/cctv.php?id=2000203502
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
+http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
+http://www.dszbdq.cn/diao/migu.php?id=672923822
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
 http://www.itvi.vip/cctv.php?id=2000204102
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
@@ -111,8 +127,8 @@ http://mrw.so/56rwLR?dsjtv.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="CCTV",CCTV-12社会与法
 http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="CCTV",CCTV-12社会与法
-http://umslive.hebyun.com.cn/live/cctv12/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="CCTV",CCTV-13新闻
+http://www.dszbdq.cn/play/ysp.php?id=0204602
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="CCTV",CCTV-13新闻
 http://www.itvi.vip/cctv.php?id=2000204602
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="CCTV",CCTV-13新闻
@@ -128,17 +144,19 @@ http://liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="CCTV",CCTV-13新闻
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
+http://www.dszbdq.cn/diao/migu.php?id=624878440
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
 http://www.itvi.vip/cctv.php?id=2000204402
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
 http://mrw.so/4o0gUd?dsjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
 http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
-http://www.itvi.vip/cctv.php?id=2000205002
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
+http://www.itvi.vip/cctv.php?id=2000205002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
 http://mrw.so/4o0h6D?dsjtv.m3u8
 #EXTINF:-1 tvg-name="CCTV16" ,CCTV16
@@ -166,15 +184,19 @@ http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" tvg-name="中国教育1台" group-title="CCTV",教育1台
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-name="CGTN" group-title="CCTV",CGTN国际频道
-http://www.itvi.vip/cctv.php?id=2001656803
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-name="CGTN" group-title="CCTV",CGTN国际频道
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" tvg-name="CGTNDocumentary" group-title="CCTV",CGTN记录频道
 http://live.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-name="CGTN法语频道" group-title="CCTV",CGTN法语频道
 http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
+http://www.itvi.vip/cctv.php?id=2000266303
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="怀旧剧场" group-title="CCTV",中数怀旧剧场
 http://mrw.so/4o0lst?dsjtv.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="风云剧场" group-title="CCTV",中数风云剧场
+http://www.dszbdq.cn/diao/hubei.php?id=094
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" tvg-name="风云音乐" group-title="CCTV",中数风云音乐
+http://www.dszbdq.cn/diao/hubei.php?id=090
 #EXTINF:-1 tvg-name="CCTV风云足球" ,CCTV风云足球
 http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=87&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-name="CCTV风云足球" ,CCTV风云足球
@@ -183,8 +205,8 @@ http://61.161.250.41:8114/hls/index.m3u8?FvSeid=1&Fsv_ctype=lives&Fsv_otype=1&Pr
 http://mrw.so/4o0lg3?dsjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" tvg-name="高尔夫网球" group-title="CCTV",中数高尔夫网球
 http://www.dszbdq.cn/diao/hubei.php?id=088
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
-http://www.itvi.vip/cctv.php?id=2000266303
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" tvg-name="世界地理" group-title="CCTV",中数世界地理
+http://www.dszbdq.cn/diao/hubei.php?id=092
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-name="CHC高清电影" group-title="CCTV",CHC高清电影
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-name="CHC高清电影" group-title="CCTV",CHC高清电影
