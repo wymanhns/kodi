@@ -248,15 +248,11 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
 http://www.dszbdq.cn/play/gz.php?id=fhdy
 #EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
-http://bd.228888888.xyz:8081/hls/ch110.m3u8
-#EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
 http://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-name="星空电影" ,星空电影
 http://www.dszbdq.cn/play/gz.php?id=xkyy
 #EXTINF:-1 tvg-name="星空电影" ,星空电影
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsgjdy
-#EXTINF:-1 tvg-name="星空电影" ,星空电影
-http://bd.228888888.xyz:8081/hls/ch111.m3u8
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 http://v.iisfu.top/live/gt/gat/xkws.m3u8
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
@@ -269,20 +265,14 @@ http://www.fanmingming.cn/hls/startv.m3u8
 http://www.dszbdq.cn/play/gz.php?id=channelv
 #EXTINF:-1 tvg-name="星空音乐" ,星空音乐
 rtmp://58.200.131.3:1935/livetv/channelv
-#EXTINF:-1 tvg-name="星空体育一台" ,星空体育一台
-http://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-name="星空体育二台" ,星空体育二台
-http://www.dszbdq.cn/play/gz.php?id=sports2
-#EXTINF:-1 tvg-name="莲花卫视" ,莲花卫视
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
 http://mrw.so/4ugI8e?DSJTV/HKTV/ATV/720p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="莲花卫视" ,莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 http://mrw.so/5sm9Ps?DSJTV/ATV/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
-http://bd.228888888.xyz:8081/hls/ch109.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://mrw.so/5djJNa?DSJTV/HKCNews/HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
@@ -290,17 +280,11 @@ http://pl0.live.huajiao.com/live_huajiao_v2/inews-mai-he-zi.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
 http://www.dszbdq.cn/diao/wxtv.php?id=inews?is_hd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
-http://bd.228888888.xyz:8081/hls/ch103.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
 http://www.dszbdq.cn/diao/wxtv.php?id=j5_ch85?is_hd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-name="翡翠台" group-title="香港电视台",無线翡翠台
 http://pl0.live.huajiao.com/live_huajiao_v2/jade-mai-he-zi.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-name="翡翠台" group-title="香港电视台",無线翡翠台
-http://bd.228888888.xyz:8081/hls/ch101.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" tvg-name="明珠台" group-title="香港电视台",明珠台
 http://pl0.live.huajiao.com/live_huajiao_v2/pearl-mai-he-zi.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" tvg-name="明珠台" group-title="香港电视台",明珠台
-http://bd.228888888.xyz:8081/hls/ch104.m3u8
 #EXTINF:-1 tvg-name="澳门卫视" ,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" tvg-name="澳亚卫视" group-title="CCTV",澳亚卫视
@@ -310,31 +294,15 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
-http://bd.228888888.xyz:8081/hls/ch108.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
 http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
-http://bd.228888888.xyz:8081/hls/ch105.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-name="惊悚频道" ,惊悚频道
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cinemax
 #EXTINF:-1 tvg-name="惊悚频道" ,惊悚频道
 http://www.dszbdq.cn/play/gz.php?id=cinemax
-#EXTINF:-1 tvg-name="惊悚频道" ,惊悚频道
-http://bd.228888888.xyz:8081/hls/ch112.m3u8
-#EXTINF:-1 tvg-name="港视32台" ,港视32台
-http://mrw.so/5soss2?DSJTV/RHK32/HD.m3u8
 #EXTINF:-1 tvg-name="MTV亚洲台" ,MTV亚洲台
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=mtv
-#EXTINF:-1 tvg-name="NOW新闻台" ,NOW新闻台
-http://bd.228888888.xyz:8081/hls/ch114.m3u8
-#EXTINF:-1 tvg-name="VIU综合台" ,VIU综合台
-http://bd.228888888.xyz:8081/hls/ch115.m3u8
-#EXTINF:-1 tvg-name="VIU六频道" ,VIU六频道
-http://47.240.60.73/xaors/mlxy.php?channel=20277db4537deab325dde76751e884f7
-#EXTINF:-1 tvg-name="VIU六频道" ,VIU六频道
-http://bd.228888888.xyz:8081/hls/ch116.m3u8
 #EXTINF:-1 tvg-name="AXN" ,AXN
 http://www.dszbdq.cn/play/gz.php?id=axn
 #EXTINF:-1 tvg-name="AXN" ,AXN
@@ -343,17 +311,13 @@ http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=axn
 http://mrw.so/6xZJlj?DSJTV/SCM/720P.m3u8
 #EXTINF:-1 tvg-name="天映经典" ,天映经典
 http://mrw.so/5souMe?DSJTV/CCM/720P.m3u8
-#EXTINF:-1 tvg-name="无线经典" ,无线经典
-http://bd.228888888.xyz:8081/hls/ch113.m3u8
+#EXTINF:-1 tvg-name="星空体育一台" ,星空体育一台
+http://www.fanmingming.cn/hls/starsports.m3u8
+#EXTINF:-1 tvg-name="星空体育二台" ,星空体育二台
+http://www.dszbdq.cn/play/gz.php?id=sports2
 #EXTINF:-1 tvg-name="澳门有线一台" ,澳门有线一台
 http://202.175.127.77/live/show/ch1/index.m3u8
 #EXTINF:-1 tvg-name="澳门互动新闻" ,澳门互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-name="澳门有线三台" ,澳门有线三台
 http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Skdax1wlmiOnSvCkudVBwmC4YgU04n0cv0MWnMhtkvUxEKuW" tvg-name="有线娛樂台" group-title="香港电视台",有线娛樂台
-http://bd.228888888.xyz:8081/hls/ch118.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Skdax1wlmiOnSvCkudVBwmC4YgU04n0cv0MWnMhtkvUxEKuW" tvg-name="有线娛樂台" group-title="香港电视台",有线娛樂台
-http://mrw.so/5Wtalc?DSJTV/HKCYuLe/HD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" tvg-name="有线财经资讯台" group-title="香港电视台",有线财经资讯台
-http://bd.228888888.xyz:8081/hls/ch117.m3u8
