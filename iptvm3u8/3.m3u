@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
-http://www.dszbdq.cn/diao/migu.php?id=608807420
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://ocs2.xjitv.cn:5000/cctv1_hdcq.m3u8?protocal=hls&user=yoongoo&tid=WEB-91AE097F0DED319B&sid=cctv1_hd&quality=null&type=pc&token=guoziyun
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://112.50.243.4/PLTV/88888888/224/3221226489/1.m3u8
@@ -14,8 +12,6 @@ http://umslive.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
-http://www.dszbdq.cn/diao/migu.php?id=672926537
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
 http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
 http://umslive.hebyun.com.cn/live/cctv2/1500k/tzwj_video.m3u8
@@ -24,27 +20,23 @@ http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv2/online.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
 http://112.50.243.4/PLTV/88888888/224/3221226795/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
-http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://121.31.30.91:8081/ysten-business/live/cctv-3/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
-http://www.dszbdq.cn/diao/migu.php?id=624878270
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
-http://www.dszbdq.cn/diao/migu.php?id=672924435
+http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
 http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
+http://121.31.30.91:8081/ysten-business/live/cctv-4/2.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
 http://umslive.hebyun.com.cn/live/cctv4/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
-http://www.dszbdq.cn/diao/migu.php?id=641886681
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://112.50.243.4/PLTV/88888888/224/3221226560/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
 http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
-http://www.dszbdq.cn/diao/migu.php?id=624878393
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
 http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
@@ -58,21 +50,23 @@ http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="CCTV",CCTV-7国防军事
 http://112.50.243.4/PLTV/88888888/224/3221226803/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
-http://www.dszbdq.cn/diao/migu.php?id=624878355
+http://121.31.30.91:8081/ysten-business/live/cctv-8/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
 http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="CCTV",CCTV-9纪录
 http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
-http://www.dszbdq.cn/diao/migu.php?id=624878405
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
 http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
-http://www.dszbdq.cn/diao/migu.php?id=672923822
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
+http://121.31.30.91:8081/ysten-business/live/cctv-10/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
+http://121.31.30.91:8081/ysten-business/live/cctv-11/2.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="CCTV",CCTV-12社会与法
+http://121.31.30.91:8081/ysten-business/live/cctv-12/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="CCTV",CCTV-12社会与法
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="CCTV",CCTV-12社会与法
@@ -88,7 +82,7 @@ http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="CCTV",CCTV-13新闻
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
-http://www.dszbdq.cn/diao/migu.php?id=624878440
+http://121.31.30.91:8081/ysten-business/live/cctv-14/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
 http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
@@ -117,10 +111,6 @@ http://live.cgtn.com/1000d/prog_index.m3u8
 http://live.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
 http://www.itvi.vip/cctv.php?id=2000266303
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="怀旧剧场" group-title="CCTV",中数怀旧剧场
-http://www.dszbdq.cn/diao/migu.php?id=623364608
-#EXTINF:-1 tvg-name="CCTV第一剧场" ,CCTV第一剧场
-http://www.dszbdq.cn/diao/migu.php?id=623338041
 #EXTINF:-1 tvg-name="CCTV风云足球" ,CCTV风云足球
 http://61.161.250.41:8114/hls/index.m3u8?FvSeid=1&Fsv_ctype=lives&Fsv_otype=1&Provider_id=&Pcontent_id=&Fsv_chan_hls_se_idx=50
 #EXTINF:-1 tvg-name="CCTV奥林匹克" ,CCTV奥林匹克
@@ -129,58 +119,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 #EXTINF:-1 tvg-name="CEC国际旅游" ,CEC国际旅游
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-name="CIBN综合频道" ,CIBN综合频道
-http://www.dszbdq.cn/play/cibn.php?id=zonghe
-#EXTINF:-1 tvg-name="CIBN电影频道" ,CIBN电影频道
-http://www.dszbdq.cn/play/cibn.php?id=dianyingzonghe
-#EXTINF:-1 tvg-name="CIBN生活频道" ,CIBN生活频道
-http://www.dszbdq.cn/play/cibn.php?id=shenghuo
-#EXTINF:-1 tvg-name="CIBN骄阳剧场" ,CIBN骄阳剧场
-http://www.dszbdq.cn/play/cibn.php?id=jiaoyangjuchang
-#EXTINF:-1 tvg-name="CIBN古装剧场" ,CIBN古装剧场
-http://www.dszbdq.cn/play/cibn.php?id=guzhuangjuchang
-#EXTINF:-1 tvg-name="CIBN经典剧场" ,CIBN经典剧场
-http://www.dszbdq.cn/play/cibn.php?id=jingdianjuchang
-#EXTINF:-1 tvg-name="CIBN院线大片" ,CIBN院线大片
-http://www.dszbdq.cn/diao/migu.php?id=661432899
-#EXTINF:-1 tvg-name="CIBN好莱坞台" ,CIBN好莱坞台
-http://www.dszbdq.cn/play/cibn.php?id=haolaiwu
-#EXTINF:-1 tvg-name="CIBN喜剧影院" ,CIBN喜剧影院
-http://www.dszbdq.cn/play/cibn.php?id=xijuyingyuan
-#EXTINF:-1 tvg-name="CIBN动作影院" ,CIBN动作影院
-http://www.dszbdq.cn/play/cibn.php?id=dongzuoyingyuan
-#EXTINF:-1 tvg-name="CIBN情感影院" ,CIBN情感影院
-http://www.dszbdq.cn/play/cibn.php?id=qingganyingyuan
-#EXTINF:-1 tvg-name="CIBN精品影院" ,CIBN精品影院
-http://www.dszbdq.cn/play/cibn.php?id=jingpinyingyuan
-#EXTINF:-1 tvg-name="CIBN文旅中国" ,CIBN文旅中国
-http://www.dszbdq.cn/play/cibn.php?id=wenlvzhongguo
-#EXTINF:-1 tvg-name="CIBN纪录片台" ,CIBN纪录片台
-http://www.dszbdq.cn/play/cibn.php?id=jilupian
-#EXTINF:-1 tvg-name="CIBN真人秀台" ,CIBN真人秀台
-http://www.dszbdq.cn/play/cibn.php?id=zhenrenxiu
-#EXTINF:-1 tvg-name="CIBN嗨播频道" ,CIBN嗨播频道
-http://www.dszbdq.cn/play/cibn.php?id=haibo
-#EXTINF:-1 tvg-name="CIBN映画频道" ,CIBN映画频道
-http://www.dszbdq.cn/play/cibn.php?id=yinghua
-#EXTINF:-1 tvg-name="CIBN军事频道" ,CIBN军事频道
-http://www.dszbdq.cn/play/cibn.php?id=junshi
-#EXTINF:-1 tvg-name="CIBN汽车频道" ,CIBN汽车频道
-http://www.dszbdq.cn/play/cibn.php?id=qiche
-#EXTINF:-1 tvg-name="CIBN童学世界" ,CIBN童学世界
-http://www.dszbdq.cn/play/cibn.php?id=tongxueshijie
-#EXTINF:-1 tvg-name="CIBN炫佳动漫" ,CIBN炫佳动漫
-http://www.dszbdq.cn/play/cibn.php?id=xuanjiadongman
-#EXTINF:-1 tvg-name="CIBN流金岁月" ,CIBN流金岁月
-http://www.dszbdq.cn/play/cibn.php?id=liujinsuiyue
-#EXTINF:-1 tvg-name="CIBN微电影台" ,CIBN微电影台
-http://www.dszbdq.cn/play/cibn.php?id=weidianying
-#EXTINF:-1 tvg-name="CIBN风尚运动" ,CIBN风尚运动
-http://www.dszbdq.cn/play/cibn.php?id=fengshangyundong
-#EXTINF:-1 tvg-name="CIBN健康频道" ,CIBN健康频道
-http://www.dszbdq.cn/play/cibn.php?id=jiankang
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
-http://qlive.fengshows.cn/live720p/PCC.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
@@ -189,8 +127,6 @@ rtmp://58.200.131.2:1935/livetv/fhzw
 http://www.fanmingming.cn/hls/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-http://qlive.fengshows.cn/live720p/PIN.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://mrw.so/55Nz7b?DSJTV/FHZX/ATV/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
@@ -201,10 +137,6 @@ http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
 http://www.fanmingming.cn/hls/fhzx.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
-http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
-http://qlive.fengshows.cn/live720p/PHK.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
 http://mrw.so/5sm9C4?DSJTV/FHHK/ATV/7200p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
@@ -234,8 +166,6 @@ http://mrw.so/5sm9Ps?DSJTV/ATV/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://mrw.so/5djJNa?DSJTV/HKCNews/HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
-http://pl0.live.huajiao.com/live_huajiao_v2/inews-mai-he-zi.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
 http://www.dszbdq.cn/play/wxtv.php?id=wxxwsd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
 http://www.dszbdq.cn/play/wxtv.php?id=wxcjsd
@@ -257,12 +187,8 @@ http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-name="惊悚频道" ,惊悚频道
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cinemax
-#EXTINF:-1 tvg-name="惊悚频道" ,惊悚频道
-http://www.dszbdq.cn/play/gz.php?id=cinemax
 #EXTINF:-1 tvg-name="MTV亚洲台" ,MTV亚洲台
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=mtv
-#EXTINF:-1 tvg-name="AXN" ,AXN
-http://www.dszbdq.cn/play/gz.php?id=axn
 #EXTINF:-1 tvg-name="AXN" ,AXN
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=axn
 #EXTINF:-1 tvg-name="卫视卡式" ,卫视卡式
