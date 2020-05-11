@@ -120,6 +120,8 @@ http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 #EXTINF:-1 tvg-name="CEC国际旅游" ,CEC国际旅游
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
+http://hlive.fengshows.cn/live/pcc_720p.flv?txSecret=c8be006ad9074c60916b13dcd3ec6c6f&txTime=5eb8b1f5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 rtmp://58.200.131.2:1935/livetv/fhzw
@@ -127,6 +129,8 @@ rtmp://58.200.131.2:1935/livetv/fhzw
 http://www.fanmingming.cn/hls/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+http://hlive.fengshows.cn/live/pin_720p.flv?txSecret=7fd566ea991d9a3d1c174df30035bfbd&txTime=5eb8b21c
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://mrw.so/55Nz7b?DSJTV/FHZX/ATV/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
@@ -138,7 +142,7 @@ http://www.fanmingming.cn/hls/fhzx.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
-http://mrw.so/5sm9C4?DSJTV/FHHK/ATV/7200p.m3u8
+http://mrw.so/5sm9C4?DSJTV/FHHK/ATV/720p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 #EXTINF:-1 tvg-name="星空电影" ,星空电影
