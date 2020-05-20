@@ -201,36 +201,48 @@ http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
+#EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
+http://iptv.zbhzi.xyz:8082/hls/ch101.m3u8
+#EXTINF:-1 tvg-name="TVB无线明珠" ,TVB无线明珠
+http://iptv.zbhzi.xyz:8082/hls/ch104.m3u8
+#EXTINF:-1 tvg-name="HKC有线新闻" ,HKC有线新闻
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+#EXTINF:-1 tvg-name="HKC有线新闻" ,HKC有线新闻
+http://iptv.zbhzi.xyz:8082/hls/ch109.m3u8
+#EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
 http://hk4-edge18-1.edgeware.tvb.com/session/d6b5043c-99ee-11ea-9fb6-005056b1026a/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=00034f17960dde20cb2083390b140313_1589992556_1589992556
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+#EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
+http://iptv.zbhzi.xyz:8082/hls/ch201.m3u8
+#EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
 http://www.liveviptv.xyz/tv/tvb.php
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
+#EXTINF:-1 tvg-name="TVB无线财经" ,TVB无线财经
 http://hk4-edge22-1.edgeware.tvb.com/session/023cc9be-99ef-11ea-947c-005056903a13/dtysfd/newslive/smil:mobilehd_finance.smil/playlist.m3u8?token=5c9c3867e0fca7f28769ec54d04f8996_1589992629_1589992629
+#EXTINF:-1 tvg-name="TVB无线财经" ,TVB无线财经
+http://iptv.zbhzi.xyz:8082/hls/ch103.m3u8
 #EXTINF:-1 tvg-name="澳门卫视" ,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" tvg-name="澳亚卫视" group-title="CCTV",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-name="澳视卫星" ,澳视卫星
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
-http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" tvg-name="TVB星河频道" group-title="香港电视台",TVB星河频道
-http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-name="亚洲频道" ,亚洲频道
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cinemax
-#EXTINF:-1 tvg-name="RHK港视31" ,RHK港视31
-http://live.zbjh.cc/live/ws102.m3u8
-#EXTINF:-1 tvg-name="RHK港视32" ,RHK港视32
-http://live.zbjh.cc/live/ws103.m3u8
-#EXTINF:-1 tvg-name="MTV亚洲台" ,MTV亚洲台
-http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=mtv
-#EXTINF:-1 tvg-name="FOX亚洲台" ,FOX亚洲台
-http://live.zbjh.cc/live/ws104.m3u8
 #EXTINF:-1 tvg-name="AXN" ,AXN
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=axn
+#EXTINF:-1 tvg-name="RHK港视31台" ,RHK港视31台
+http://live.zbjh.cc/live/ws102.m3u8
+#EXTINF:-1 tvg-name="RHK港视32台" ,RHK港视32台
+http://live.zbjh.cc/live/ws103.m3u8
+#EXTINF:-1 tvg-name="MTV亚洲频道" ,MTV亚洲频道
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=mtv
+#EXTINF:-1 tvg-name="FOX亚洲频道" ,FOX亚洲频道
+http://live.zbjh.cc/live/ws104.m3u8
+#EXTINF:-1 tvg-name="TVB星河频道" ,TVB星河频道
+http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+#EXTINF:-1 tvg-name="TVB星河频道" ,TVB星河频道
+http://iptv.zbhzi.xyz:8082/hls/ch105.m3u8
+#EXTINF:-1 tvg-name="TVB星河频道" ,TVB星河频道
+http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-name="卫视卡式" ,卫视卡式
 https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="天映频道" ,天映频道
@@ -245,3 +257,15 @@ http://202.175.127.77/live/show/ch1/index.m3u8
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-name="澳门有线三台" ,澳门有线三台
 http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 tvg-name="TVB无线J2台" ,TVB无线J2台
+http://iptv.zbhzi.xyz:8082/hls/ch102.m3u8
+#EXTINF:-1 tvg-name="HKC有线娱乐" ,HKC有线娱乐
+http://iptv.zbhzi.xyz:8082/hls/ch118.m3u8
+#EXTINF:-1 tvg-name="HKC有线娱乐" ,HKC有线娱乐
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
+#EXTINF:-1 tvg-name="HKC有线财经" ,HKC有线财经
+http://iptv.zbhzi.xyz:8082/hls/ch117.m3u8
+#EXTINF:-1 tvg-name="HKC有线财经" ,HKC有线财经
+https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-2.m3u8
+#EXTINF:-1 tvg-name="NOW新闻频道" ,NOW新闻频道
+http://iptv.zbhzi.xyz:8082/hls/ch114.m3u8
