@@ -200,8 +200,6 @@ http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="HKC有线新闻" ,HKC有线新闻
-http://danielwu.gz01.bdysite.com/iptv/?id=yxxw
-#EXTINF:-1 tvg-name="HKC有线新闻" ,HKC有线新闻
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
 #EXTINF:-1 tvg-name="NOW新闻频道" ,NOW新闻频道
 http://bbdd.228888888.xyz:8081/hls/ch114.m3u8
@@ -210,11 +208,9 @@ http://danielwu.gz01.bdysite.com/iptv/?id=wxxw
 #EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
 http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
-http://danielwu.gz01.bdysite.com/iptv/?id=tvb
-#EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
-http://bbdd.228888888.xyz:8081/hls/ch101.m3u8 
+http://danielwu.gz01.bdysite.com/iptv/?id=tvb
 #EXTINF:-1 tvg-name="TVB无线明珠" ,TVB无线明珠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-name="TVB无线财经" ,TVB无线财经
@@ -235,8 +231,6 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="卫视卡式" ,卫视卡式
 http://tvportal.site:8080/live/test-85ecea/cc33/157609.m3u8
-#EXTINF:-1 tvg-name="天映频道" ,天映频道
-http://bddb.228888888.xyz:8081/live/ws109.m3u8
 #EXTINF:-1 tvg-name="天映经典" ,天映经典
 https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="天映经典" ,天映经典
