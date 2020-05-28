@@ -183,6 +183,8 @@ http://192.154.103.75:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
 http://117.169.120.138:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港" group-title="香港电视台",凤凰香港高清 
 https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
@@ -209,6 +211,8 @@ http://danielwu.gz01.bdysite.com/iptv/?id=wxxw
 http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
+http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
 http://danielwu.gz01.bdysite.com/iptv/?id=tvb
 #EXTINF:-1 tvg-name="TVB无线明珠" ,TVB无线明珠
@@ -244,9 +248,13 @@ http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-name="澳门有线三台" ,澳门有线三台
 http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港电视台",无线J2
+http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港电视台",无线J2
 http://danielwu.gz01.bdysite.com/iptv/?id=j2
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港电视台",无线J2
 http://bbdd.228888888.xyz:8081/hls/ch102.m3u8 
+#EXTINF:-1 tvg-name="VIVTV" ,VIVTV
+http://ea.chaoniu2020.cn/hk/xg190.php?id=8
 #EXTINF:-1 tvg-name="HKC有线娱乐" ,HKC有线娱乐
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 #EXTINF:-1 tvg-name="HKC有线财经" ,HKC有线财经
