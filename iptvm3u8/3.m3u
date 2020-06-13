@@ -200,6 +200,8 @@ http://121.31.30.91:8085/ysten-business/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+http://221.6.85.150:9000/live/dfws_800/dfws_800.m3u8
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://cctvalih5ca.v.myalicdn.com/wstv/dongfang_2/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
@@ -273,12 +275,16 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/2300000/mnf.m3
 http://39.134.176.148/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
 http://117.59.8.4/PLTV/88888888/224/3221227418/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+http://221.6.85.150:9000/live/zjws_800/zjws_800.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
 http://117.59.8.4/PLTV/88888888/224/3221227406/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
 http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
 http://39.134.176.148/PLTV/88888888/224/3221226567/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+http://221.6.85.150:9000/live/jsws_800/jsws_800.m3u8
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jxwshd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
@@ -315,6 +321,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225537/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" ,内蒙古卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
+http://112.240.61.23/live2.wisetv.com.cn/TJIPTV/TJWSHD/playlist.m3u8?wsSession=-
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
 http://121.31.30.87:8085/ysten-business/live/hdtianjinstv/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
