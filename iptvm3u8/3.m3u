@@ -262,8 +262,6 @@ http://cctvalih5ca.v.myalicdn.com/wstv/guangdong_2/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" ,广东卫视
 http://39.134.176.148/PLTV/88888888/224/3221226408/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" ,广西卫视
-http://140.143.146.222/gz.php?id=gxwshd
-#EXTINF:-1 tvg-name="广西卫视" ,广西卫视
 http://121.31.30.87:8085/ysten-business/live/guangxistv/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" ,广西卫视
 http://39.134.176.148/PLTV/88888888/224/3221226211/index.m3u8
