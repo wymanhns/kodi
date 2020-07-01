@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
+http://39.130.215.166:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://112.50.243.8/PLTV/88888888/224/3221225922/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://120.221.5.105:8089/PLTV/88888888/224/3221225859/index.m3u8
@@ -36,6 +38,8 @@ http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://120.221.5.177:8089/PLTV/88888888/224/3221225589/index.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+http://39.130.215.166:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8?
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 http://39.134.176.148/PLTV/88888888/224/3221226217/index.m3u8
@@ -45,6 +49,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225827/2.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
 http://120.221.5.50:8089/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
+http://39.130.215.166:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8?
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
 http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
@@ -80,7 +86,11 @@ http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-name="广东卫视" ,广东卫视
 http://112.50.243.8/PLTV/88888888/224/3221225824/2.m3u8
 #EXTINF:-1 tvg-name="广东卫视" ,广东卫视
+http://39.130.215.166:6410/gitv_live/GDWS-HD/GDWS-HD.m3u8?
+#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
 http://117.169.120.160:8080/live/hdguangdongstv/1.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+http://39.130.215.166:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8?
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
 http://112.50.243.8/PLTV/88888888/224/3221225848/2.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
@@ -148,6 +158,8 @@ http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
 #EXTINF:-1 tvg-name="四川卫视" ,四川卫视
 http://101.71.255.229:6610/zjhs/2/10099/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+http://39.130.215.166:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8?
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
 http://117.169.120.160:8080/live/hdzhejiangstv/1.m3u8
@@ -177,6 +189,8 @@ http://117.169.120.160:8080/live/fhzixun/1.m3u8
 http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
 http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
+http://39.130.215.166:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
 http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
