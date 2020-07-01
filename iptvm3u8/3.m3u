@@ -188,11 +188,11 @@ http://117.169.120.160:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
-http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
 http://39.130.215.166:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
 http://stream4.jlntv.cn/cctv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
+http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
 http://live.massp.cn:5011/vod/video_hls/c03.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合频道" ,CCTV1综合频道
