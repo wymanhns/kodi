@@ -42,6 +42,8 @@ http://106.54.30.243/gz009/gz.php?id=cctv5hd
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://112.50.243.8/PLTV/88888888/224/3221225826/2.m3u8
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://39.135.19.142:18890/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://106.54.30.243/gz009/gz.php?id=bjwshd
@@ -67,6 +69,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225827/2.m3u8
 http://120.221.5.50:8089/PLTV/88888888/224/3221225767/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
 http://39.130.215.166:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8?
+#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
+http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
 http://39.135.19.142:18890/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
@@ -132,6 +136,8 @@ http://39.135.19.142:18890/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
 http://117.169.120.160:8080/live/hdjiangsustv/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
+http://39.130.206.213:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
 http://39.135.19.142:18890/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
 http://39.134.176.148/PLTV/88888888/224/3221226185/index.m3u8
@@ -166,6 +172,8 @@ http://120.221.5.111:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="CCTV",CCTV-17农村农业
 http://112.50.243.4/PLTV/88888888/224/3221226986/2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="CCTV",CCTV-17农村农业
+http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="CCTV",CCTV-17农村农业
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" ,山东卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225992/index.m3u8
@@ -187,6 +195,8 @@ http://101.71.255.229:6610/zjhs/2/10098/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://39.135.19.142:18890/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
 http://player.200877926.top/18/tv.php?tv=jxtv&id=jxwshd
+#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
+http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
 http://117.169.120.160:8080/live/hdjiangxistv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="CCTV",CCTV-5+体育赛事
@@ -245,6 +255,8 @@ http://117.169.120.160:8080/live/fhzixun/1.m3u8
 http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
 http://39.135.19.142:18890/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" tvg-name="中国教育1台" group-title="CCTV",教育1台
+http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" tvg-name="中国教育1台" group-title="CCTV",教育1台
 http://39.135.19.142:18890/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV电视指南" ,CCTV电视指南
@@ -390,9 +402,9 @@ http://120.221.5.111:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17农业农村" ,CCTV17农业农村
 http://112.50.243.4/PLTV/88888888/224/3221226986/2.m3u8
 #EXTINF:-1 tvg-name="CCTV17农业农村" ,CCTV17农业农村
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 #EXTINF:-1 tvg-name="CCTV17农业农村" ,CCTV17农业农村
-http://stream.cdjsxy.cn/lypd/sd/live.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
 http://www.itvi.vip/cctv.php?id=2000266303
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
@@ -405,6 +417,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?f
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" tvg-name="CGTNDocumentary" group-title="CCTV",CGTN记录频道
 http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" tvg-name="中国教育1台" group-title="CCTV",教育1台
+http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" tvg-name="中国教育1台" group-title="CCTV",教育1台
 http://39.135.19.142:18890/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV电视指南" ,CCTV电视指南
