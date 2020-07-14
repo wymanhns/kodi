@@ -168,6 +168,8 @@ http://121.31.30.91:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="CCTV",CCTV-5+体育赛事
 http://120.221.5.101:8089/PLTV/88888888/224/3221225781/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
 http://www.itvi.vip/cctv.php?id=2000266303
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
 http://106.54.30.243/gz009/gz.php?id=cctv4k
@@ -292,6 +294,8 @@ http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 #EXTINF:-1 tvg-name="CCTV17农业农村" ,CCTV17农业农村
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
 http://www.itvi.vip/cctv.php?id=2000266303
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="CCTV",CCTV4K
 http://106.54.30.243/gz009/gz.php?id=cctv4k
@@ -313,10 +317,16 @@ http://106.54.30.243/gz009/gz.php?id=fyzq
 http://106.54.30.243/gz009/gz.php?id=sjdl
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="怀旧剧场" group-title="CCTV",中数怀旧剧场
 http://106.54.30.243/gz009/gz.php?id=hjjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="怀旧剧场" group-title="CCTV",中数怀旧剧场
+http://live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-name="CCTV第一剧场" ,CCTV第一剧场
 http://106.54.30.243/gz009/gz.php?id=dyjc
+#EXTINF:-1 tvg-name="CCTV第一剧场" ,CCTV第一剧场
+http://live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="风云剧场" group-title="CCTV",中数风云剧场
 http://106.54.30.243/gz009/gz.php?id=fyjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-name="风云剧场" group-title="CCTV",中数风云剧场
+http://live.hcs.cmvideo.cn:8088/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-name="CCTV文化精品" ,CCTV文化精品
 http://106.54.30.243/gz009/gz.php?id=whjp
 #EXTINF:-1 tvg-name="CCTV女性时尚" ,CCTV女性时尚
