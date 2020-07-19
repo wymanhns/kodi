@@ -1,4 +1,56 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CCTV1综合‖HD" ,CCTV1综合‖HD
+http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
+#EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
+http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺‖SD" ,CCTV3综艺‖SD
+http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8
+#EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
+http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育‖SD" ,CCTV5体育‖SD
+http://221.6.85.150:9000/live/cctv5_800/cctv5_800.m3u8
+#EXTINF:-1 tvg-name="CCTV6电影‖HD" ,CCTV6电影‖HD
+http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
+#EXTINF:-1 tvg-name="CCTV7军事‖HD" ,CCTV7军事‖HD
+http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
+#EXTINF:-1 tvg-name="CCTV8视剧‖SD" ,CCTV8视剧‖SD
+http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
+#EXTINF:-1 tvg-name="CCTV9记录‖HD" ,CCTV9记录‖HD
+http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教‖HD" ,CCTV10科教‖HD
+http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
+#EXTINF:-1 tvg-name="CCTV11戏曲‖SD" ,CCTV11戏曲‖SD
+http://221.6.85.150:9000/live/cctv11_800/cctv11_800.m3u8
+#EXTINF:-1 tvg-name="CCTV12社会‖HD" ,CCTV12社会‖HD
+http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8
+#EXTINF:-1 tvg-name="CCTV13新闻‖SD" ,CCTV13新闻‖SD
+http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8
+#EXTINF:-1 tvg-name="CCTV14少儿‖HD" ,CCTV14少儿‖HD
+http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8
+#EXTINF:-1 tvg-name="CCTV15音乐‖SD" ,CCTV15音乐‖SD
+http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
+#EXTINF:-1 tvg-name="北京卫视‖SD" ,北京卫视‖SD
+http://stream.cdjsxy.cn/bjws/sd/live.m3u8
+#EXTINF:-1 tvg-name="上海卫视‖HD" ,上海卫视‖HD
+http://221.6.85.150:9000/live/dfws_800/dfws_800.m3u8
+#EXTINF:-1 tvg-name="重庆卫视‖HD" ,重庆卫视‖HD
+http://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
+#EXTINF:-1 tvg-name="浙江卫视‖HD" ,浙江卫视‖HD
+http://221.6.85.150:9000/live/zjws_800/zjws_800.m3u8
+#EXTINF:-1 tvg-name="江苏卫视‖HD" ,江苏卫视‖HD
+http://221.6.85.150:9000/live/jsws_800/jsws_800.m3u8
+#EXTINF:-1 tvg-name="安徽卫视‖HD" ,安徽卫视‖HD
+http://zbbf2.ahtv.cn/live/749.m3u8
+#EXTINF:-1 tvg-name="湖南卫视‖SD" ,湖南卫视‖SD
+http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+#EXTINF:-1 tvg-name="云南卫视‖HD" ,云南卫视‖HD
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-name="湖北卫视‖SD" ,湖北卫视‖SD
+http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
+#EXTINF:-1 tvg-name="河北卫视‖HD" ,河北卫视‖HD
+http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+#EXTINF:-1 tvg-name="吉林卫视‖HD" ,吉林卫视‖HD
+http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://39.130.215.166:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
@@ -223,71 +275,3 @@ http://106.54.30.243/gz009/gz.php?id=fyjc
 http://106.54.30.243/gz009/gz.php?id=whjp
 #EXTINF:-1 tvg-name="CCTV女性时尚" ,CCTV女性时尚
 http://106.54.30.243/gz009/gz.php?id=nxss
-#EXTINF:-1 tvg-name="CCTV1综合" ,CCTV1综合
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210102.m3u8
-#EXTINF:-1 tvg-name="CCTV2财经" ,CCTV2财经
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203602.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" ,CCTV3综艺
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203803.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" ,CCTV4国际
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204802.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" ,CCTV5体育
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205102.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" ,CCTV6电影
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203302.m3u8
-#EXTINF:-1 tvg-name="CCTV7军事" ,CCTV7军事
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000510003.m3u8
-#EXTINF:-1 tvg-name="CCTV8视剧" ,CCTV8视剧
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203902.m3u8
-#EXTINF:-1 tvg-name="CCTV9记录" ,CCTV9记录
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000499402.m3u8
-#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000272102.m3u8
-#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292402.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000297802.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296202.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295502.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295602.m3u8
-#EXTINF:-1 tvg-name="CCTV10科教" ,CCTV10科教
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203502.m3u8
-#EXTINF:-1 tvg-name="CCTV11戏曲" ,CCTV11戏曲
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204102.m3u8
-#EXTINF:-1 tvg-name="CCTV12社会" ,CCTV12社会
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000202603.m3u8
-#EXTINF:-1 tvg-name="CCTV13新闻" ,CCTV13新闻
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204602.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" ,CCTV14少儿
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204402.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" ,CCTV15音乐
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205002.m3u8
-#EXTINF:-1 tvg-name="CCTV17农业" ,CCTV17农业
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204202.m3u8
-#EXTINF:-1 tvg-name="CCTV5+赛事" ,CCTV5+赛事
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204503.m3u8
-#EXTINF:-1 tvg-name="CGTN国际新闻" ,CGTN国际新闻
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656802.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293903.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292202.m3u8
-#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292702.m3u8
-#EXTINF:-1 tvg-name="广西卫视" ,广西卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294202.m3u8
-#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294102.m3u8
-#EXTINF:-1 tvg-name="河南卫视" ,河南卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296102.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294502.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293302.m3u8
-#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295002.m3u8
-#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
-http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/20002925023.m3u8
