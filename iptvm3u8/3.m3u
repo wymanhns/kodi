@@ -1,150 +1,170 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1综合" ,CCTV1综合
-http://39.134.65.162/PLTV/88888888/224/3221225493/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1综合" ,CCTV1综合
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2财经" ,CCTV2财经
-http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2财经" ,CCTV2财经
-http://117.169.120.160:8080/live/cctv-2/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" ,CCTV3综艺
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229098/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" ,CCTV3综艺
-http://39.134.65.162/PLTV/88888888/224/3221225490/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" ,CCTV4国际
-http://39.134.65.162/PLTV/88888888/224/3221225487/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" ,CCTV4国际
-http://117.169.120.160:8080/live/cctv-4/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" ,CCTV5体育
-http://111.40.205.70/PLTV/88888888/224/3221225591/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" ,CCTV5体育
-http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" ,CCTV6电影
-http://39.134.65.162/PLTV/88888888/224/3221225488/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" ,CCTV6电影
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7军事" ,CCTV7军事
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV7军事" ,CCTV7军事
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229076/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8视剧" ,CCTV8视剧
+#EXTINF:-1 tvg-name="CCTV1综合‖HD" ,CCTV1综合‖HD
+http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1综合‖HD" ,CCTV1综合‖HD
+http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1综合‖HD" ,CCTV1综合‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1综合‖HD" ,CCTV1综合‖HD
+http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
+#EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
+http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
+http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
+http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
+http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8
+#EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
+http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
+http://120.221.5.102:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育‖HD" ,CCTV5体育‖HD
+http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育‖HD" ,CCTV5体育‖HD
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育‖HD" ,CCTV5体育‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6电影‖HD" ,CCTV6电影‖HD
+http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6电影‖HD" ,CCTV6电影‖HD
+http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
+#EXTINF:-1 tvg-name="CCTV6电影‖HD" ,CCTV6电影‖HD
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6电影‖HD" ,CCTV6电影‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7军事‖HD" ,CCTV7军事‖HD
+http://101.71.255.229:6610/zjhs/2/10067/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV7军事‖HD" ,CCTV7军事‖HD
+http://111.40.205.70/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7军事‖HD" ,CCTV7军事‖HD
+http://117.169.120.160:8080/live/cctv-7/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7军事‖HD" ,CCTV7军事‖HD
+http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
+#EXTINF:-1 tvg-name="CCTV8视剧‖HD" ,CCTV8视剧‖HD
+http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8视剧‖HD" ,CCTV8视剧‖HD
+http://39.134.176.148/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8视剧‖HD" ,CCTV8视剧‖HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8视剧" ,CCTV8视剧
-http://39.134.65.162/PLTV/88888888/224/3221225557/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9记录" ,CCTV9记录
-http://39.134.65.162/PLTV/88888888/224/3221225519/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9记录" ,CCTV9记录
-http://111.40.205.70/PLTV/88888888/224/3221225595/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
-http://39.134.65.162/PLTV/88888888/224/3221225564/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226160/1.m3u8
-#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
-http://111.40.205.70/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228519/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
-http://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
-http://117.156.28.21/PLTV/88888888/224/3221225688/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://39.130.215.166:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8?
-#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://39.134.65.162/PLTV/88888888/224/3221225532/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
-http://117.156.28.21/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV10科教" ,CCTV10科教
+#EXTINF:-1 tvg-name="CCTV9记录‖HD" ,CCTV9记录‖HD
+http://121.31.30.87:8085/ysten-business/live/cctv-news/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9记录‖HD" ,CCTV9记录‖HD
+http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV9记录‖HD" ,CCTV9记录‖HD
+http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9记录‖HD" ,CCTV9记录‖HD
+http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教‖HD" ,CCTV10科教‖HD
 http://117.156.28.21/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10科教" ,CCTV10科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10科教" ,CCTV10科教
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229082/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11戏曲" ,CCTV11戏曲
-http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12社会" ,CCTV12社会
-http://111.40.205.70/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12社会" ,CCTV12社会
-http://39.134.176.148/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12社会" ,CCTV12社会
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV13新闻" ,CCTV13新闻
+#EXTINF:-1 tvg-name="CCTV10科教‖HD" ,CCTV10科教‖HD
+http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教‖HD" ,CCTV10科教‖HD
+http://101.71.255.229:6610/zjhs/2/10072/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV10科教‖HD" ,CCTV10科教‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11戏曲‖HD" ,CCTV11戏曲‖HD
+http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV11戏曲‖HD" ,CCTV11戏曲‖HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-name="CCTV11戏曲‖HD" ,CCTV11戏曲‖HD
+http://117.169.120.160:8080/live/cctv-11/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12社会‖HD" ,CCTV12社会‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12社会‖HD" ,CCTV12社会‖HD
+http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8
+#EXTINF:-1 tvg-name="CCTV12社会‖HD" ,CCTV12社会‖HD
+http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV12社会‖HD" ,CCTV12社会‖HD
+http://120.221.5.102:8089/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13新闻‖SD" ,CCTV13新闻‖SD
+http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13新闻‖SD" ,CCTV13新闻‖SD
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+#EXTINF:-1 tvg-name="CCTV13新闻‖SD" ,CCTV13新闻‖SD
 http://lives.jnnews.tv/video/s10001-CCTV/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13新闻" ,CCTV13新闻
-http://39.134.65.162/PLTV/88888888/224/3221225515/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" ,CCTV14少儿
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229296/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" ,CCTV14少儿
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV15音乐" ,CCTV15音乐
-http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" ,CCTV15音乐
+#EXTINF:-1 tvg-name="CCTV13新闻‖SD" ,CCTV13新闻‖SD
+http://111.63.117.13:6060/030000001000/CCTV-13/CCTV-13.m3u8
+#EXTINF:-1 tvg-name="CCTV14少儿‖HD" ,CCTV14少儿‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14少儿‖HD" ,CCTV14少儿‖HD
+http://117.169.120.160:8080/live/cctv-14/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14少儿‖HD" ,CCTV14少儿‖HD
+http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV14少儿‖HD" ,CCTV14少儿‖HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225535/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14少儿‖HD" ,CCTV14少儿‖HD
+http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8
+#EXTINF:-1 tvg-name="CCTV15音乐‖HD" ,CCTV15音乐‖HD
+http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV15音乐‖HD" ,CCTV15音乐‖HD
 http://117.169.120.160:8080/live/cctv-15/1.m3u8
-#EXTINF:-1 tvg-name="CCTV17农业" ,CCTV17农业
-http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17农业" ,CCTV17农业
+#EXTINF:-1 tvg-name="CCTV15音乐‖HD" ,CCTV15音乐‖HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17农业‖HD" ,CCTV17农业‖HD
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17农业‖HD" ,CCTV17农业‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17农业‖HD" ,CCTV17农业‖HD
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+赛事" ,CCTV5+赛事
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228810/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+赛事" ,CCTV5+赛事
-http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
-http://39.134.65.162/PLTV/88888888/224/3221225537/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
-http://111.40.205.70/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
-http://39.134.65.162/PLTV/88888888/224/3221225551/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229113/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
-http://117.156.28.21/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://111.40.205.70/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://117.156.28.21/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" ,广西卫视
-http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
-#EXTINF:-1 tvg-name="广西卫视" ,广西卫视
-http://39.134.65.162/PLTV/88888888/224/3221225498/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
-http://39.134.65.162/PLTV/88888888/224/3221225512/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
-http://117.156.28.21/PLTV/88888888/224/3221225605/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" ,河南卫视
-http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
-http://117.156.28.21/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229107/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
-http://39.134.65.162/PLTV/88888888/224/3221225594/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
-http://112.50.243.4/PLTV/88888888/224/3221226827/2.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
-http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
-http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
-#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
-http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
-http://117.169.120.160:8080/live/dongnanstv/1.m3u8
-#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
-http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" ,厦门卫视
-http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17农业‖HD" ,CCTV17农业‖HD
+http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K超高清‖HD" ,CCTV4K超高清‖HD
+http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel51021/index.m3u8?k=2af92b3f98d12f46fc7b67ee9165fb5a&t=5F173310&UID=26BC179B
+#EXTINF:-1 tvg-name="CCTV4K超高清‖HD" ,CCTV4K超高清‖HD
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-name="CGTN环球国际‖SD" ,CGTN环球国际‖SD
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN记录频道‖SD" ,CGTN记录频道‖SD
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-name="CETV教育一台‖HD" ,CETV教育一台‖HD
+http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+#EXTINF:-1 tvg-name="CETV教育一台‖HD" ,CETV教育一台‖HD
+http://sk.live.otvcloud.com/otv/skcc/live/channel10001/index.m3u8?k=3cfd1c31debafe15d20794b635a56fa8&t=5F29B05A&UID=25F7DD50
+#EXTINF:-1 tvg-name="CCTV奥林匹克‖HD" ,CCTV奥林匹克‖HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-name="CCTV高夫网球‖HD" ,CCTV高夫网球‖HD
+http://106.54.30.243/gz009/gz.php?id=gefwq
+#EXTINF:-1 tvg-name="CCTV世界地理‖HD" ,CCTV世界地理‖HD
+http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel43057/index.m3u8?k=b64cfd5932b969e92f31635f4510ae44&t=5F173555&UID=8BBB8AAB
+#EXTINF:-1 tvg-name="CCTV世界地理‖HD" ,CCTV世界地理‖HD
+http://106.54.30.243/gz009/gz.php?id=sjdl
+#EXTINF:-1 tvg-name="CCTV怀旧剧场‖HD" ,CCTV怀旧剧场‖HD
+http://106.54.30.243/gz009/gz.php?id=hjjc
+#EXTINF:-1 tvg-name="CCTV第一剧场‖HD" ,CCTV第一剧场‖HD
+http://sk.live.otvcloud.com/otv/skcc/live/channel43056/index.m3u8?k=1e659043334d30733e882ec0ee8e95ec&t=5F2BA3A8&UID=C5DDC6A2
+#EXTINF:-1 tvg-name="CCTV第一剧场‖HD" ,CCTV第一剧场‖HD
+http://106.54.30.243/gz009/gz.php?id=dyjc
+#EXTINF:-1 tvg-name="CCTV风云剧场‖HD" ,CCTV风云剧场‖HD
+http://106.54.30.243/gz009/gz.php?id=fyjc
+#EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227472/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影‖HD" ,CHC动作电影‖HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影‖HD" ,CHC动作电影‖HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227493/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
+http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227490/index.m3u8
+#EXTINF:-1 tvg-name="CNC新华中文‖HD" ,CNC新华中文‖HD
+http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1 tvg-name="CNC新华英文‖HD" ,CNC新华英文‖HD
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
 http://39.130.215.166:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合
