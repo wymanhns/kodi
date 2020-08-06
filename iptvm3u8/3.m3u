@@ -14,11 +14,11 @@ http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
 http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
 #EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
+http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
 http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
-http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
@@ -129,22 +129,10 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 tvg-name="CETV教育一台‖HD" ,CETV教育一台‖HD
 http://sk.live.otvcloud.com/otv/skcc/live/channel10001/index.m3u8?k=3cfd1c31debafe15d20794b635a56fa8&t=5F29B05A&UID=25F7DD50
-#EXTINF:-1 tvg-name="CCTV奥林匹克‖HD" ,CCTV奥林匹克‖HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-name="CCTV高夫网球‖HD" ,CCTV高夫网球‖HD
-http://106.54.30.243/gz009/gz.php?id=gefwq
 #EXTINF:-1 tvg-name="CCTV世界地理‖HD" ,CCTV世界地理‖HD
-http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel43057/index.m3u8?k=b64cfd5932b969e92f31635f4510ae44&t=5F173555&UID=8BBB8AAB
-#EXTINF:-1 tvg-name="CCTV世界地理‖HD" ,CCTV世界地理‖HD
-http://106.54.30.243/gz009/gz.php?id=sjdl
-#EXTINF:-1 tvg-name="CCTV怀旧剧场‖HD" ,CCTV怀旧剧场‖HD
-http://106.54.30.243/gz009/gz.php?id=hjjc
+http://sk.live.otvcloud.com/otv/skcc/live/channel43057/index.m3u8?k=e99c98e71df4c0888dd25f8dfe6126ae&t=5F2BD594&UID=F5B90C5A
 #EXTINF:-1 tvg-name="CCTV第一剧场‖HD" ,CCTV第一剧场‖HD
 http://sk.live.otvcloud.com/otv/skcc/live/channel43056/index.m3u8?k=1e659043334d30733e882ec0ee8e95ec&t=5F2BA3A8&UID=C5DDC6A2
-#EXTINF:-1 tvg-name="CCTV第一剧场‖HD" ,CCTV第一剧场‖HD
-http://106.54.30.243/gz009/gz.php?id=dyjc
-#EXTINF:-1 tvg-name="CCTV风云剧场‖HD" ,CCTV风云剧场‖HD
-http://106.54.30.243/gz009/gz.php?id=fyjc
 #EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
