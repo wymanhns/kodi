@@ -10,15 +10,21 @@ http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
 #EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
+http://1016.jilu8.cn/yfy.php?id=2
+#EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
 http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV2财经‖HD" ,CCTV2财经‖HD
 http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
+http://1016.jilu8.cn/yfy.php?id=3
 #EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
 http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
 http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-name="CCTV3综艺‖HD" ,CCTV3综艺‖HD
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
+http://1016.jilu8.cn/yfy.php?id=4
 #EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4国际‖HD" ,CCTV4国际‖HD
@@ -118,7 +124,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17农业‖HD" ,CCTV17农业‖HD
 http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K超高清‖HD" ,CCTV4K超高清‖HD
-http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel51021/index.m3u8?k=2af92b3f98d12f46fc7b67ee9165fb5a&t=5F173310&UID=26BC179B
+http://1016.jilu8.cn/yfy.php?id=51021
 #EXTINF:-1 tvg-name="CCTV4K超高清‖HD" ,CCTV4K超高清‖HD
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-name="CGTN环球国际‖SD" ,CGTN环球国际‖SD
@@ -126,9 +132,9 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN记录频道‖SD" ,CGTN记录频道‖SD
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-name="CETV教育一台‖HD" ,CETV教育一台‖HD
-http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+http://1016.jilu8.cn/yfy.php?id=33
 #EXTINF:-1 tvg-name="CETV教育一台‖HD" ,CETV教育一台‖HD
-http://sk.live.otvcloud.com/otv/skcc/live/channel10001/index.m3u8?k=3cfd1c31debafe15d20794b635a56fa8&t=5F29B05A&UID=25F7DD50
+http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="CCTV",CCTV-5+体育赛事
 http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="CCTV",CCTV-5+体育赛事
@@ -137,18 +143,32 @@ http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 http://183.207.255.190/live/program/live/cctv5phd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="CCTV",CCTV-5+体育赛事
 http://117.169.120.160:8080/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" tvg-name="世界地理" group-title="CCTV",中数世界地理
+http://1016.jilu8.cn/yfy.php?id=43057
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" tvg-name="兵器科技" group-title="CCTV",中数兵器科技
+http://1016.jilu8.cn/yfy.php?id=43060
+#EXTINF:-1 tvg-name="CCTV女性时尚" ,CCTV女性时尚
+http://1016.jilu8.cn/yfy.php?id=51014
+#EXTINF:-1 tvg-name="CCTV第一剧场" ,CCTV第一剧场
+http://1016.jilu8.cn/yfy.php?id=43056
 #EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
+http://1016.jilu8.cn/yfy.php?id=43063
 #EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影‖HD" ,CHC高清电影‖HD
 http://ott.cqccn.com/PLTV/88888888/224/3221227472/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影‖HD" ,CHC动作电影‖HD
+http://1016.jilu8.cn/yfy.php?id=51011
 #EXTINF:-1 tvg-name="CHC动作电影‖HD" ,CHC动作电影‖HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影‖HD" ,CHC动作电影‖HD
 http://ott.cqccn.com/PLTV/88888888/224/3221227493/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
 http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
+http://1016.jilu8.cn/yfy.php?id=51010
 #EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院‖HD" ,CHC家庭影院‖HD
