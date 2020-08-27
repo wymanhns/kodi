@@ -289,10 +289,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 http://121.31.30.87:8085/ysten-business/live/shanxi1stv/1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视‖SD" ,陕西卫视‖SD
 http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="新传媒8‖HD新加坡" ,新传媒8‖HD新加坡
-http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
-#EXTINF:-1 tvg-name="新传媒8‖HD新加坡" ,新传媒8‖HD新加坡
-http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
 #EXTINF:-1 tvg-name="迪拜卫视‖HD阿联酋" ,迪拜卫视‖HD阿联酋
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-name="亚美卫视‖SD美国" ,亚美卫视‖SD美国
