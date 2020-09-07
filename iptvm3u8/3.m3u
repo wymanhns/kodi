@@ -187,10 +187,10 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229088/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视‖HD" ,广东卫视‖HD
 http://117.169.120.160:8080/live/hdguangdongstv/1.m3u8
-#EXTINF:-1 tvg-name="广西卫视‖SD" ,广西卫视‖SD
+#EXTINF:-1 tvg-name="广西卫视‖HD" ,广西卫视‖HD
 http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
-#EXTINF:-1 tvg-name="广西卫视‖SD" ,广西卫视‖SD
-http://121.31.30.87:8085/ysten-business/live/guangxistv/1.m3u8
+#EXTINF:-1 tvg-name="广西卫视‖HD" ,广西卫视‖HD
+rtmp://58.200.131.2:1935/livetv/gxhd
 #EXTINF:-1 tvg-name="深圳卫视‖HD" ,深圳卫视‖HD
 http://39.135.135.53/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视‖HD" ,深圳卫视‖HD
@@ -243,24 +243,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
 http://111.40.205.70/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视‖HD" ,内蒙古卫视‖HD
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-name="凤凰中文‖HD" ,凤凰中文‖HD
-rtmp://58.200.131.2:1935/livetv/fhzw
-#EXTINF:-1 tvg-name="凤凰中文‖HD" ,凤凰中文‖HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-name="凤凰中文‖HD" ,凤凰中文‖HD
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-name="凤凰中文‖HD" ,凤凰中文‖HD
-http://live.centerch.com/fhzw.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯‖HD" ,凤凰资讯‖HD
-https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯‖HD" ,凤凰资讯‖HD
-http://live.centerch.com/fhzx.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯‖HD" ,凤凰资讯‖HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-name="香港卫视‖HD" ,香港卫视‖HD
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="香港卫视‖HD" ,香港卫视‖HD
-https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="南方卫视‖SD" ,南方卫视‖SD
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-name="南方卫视‖SD" ,南方卫视‖SD
@@ -272,11 +256,15 @@ http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视‖HD" ,青海卫视‖HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-name="海南卫视‖HD" ,海南卫视‖HD
-http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+.rtmp://58.200.131.2:1935/livetv/lyhd
 #EXTINF:-1 tvg-name="海南卫视‖HD" ,海南卫视‖HD
 http://39.134.65.162/PLTV/88888888/224/3221225530/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视‖HD" ,海南卫视‖HD
+http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 tvg-name="海南卫视‖HD" ,海南卫视‖HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 tvg-name="三沙卫视‖SD" ,三沙卫视‖SD
+rtmp://58.200.131.2:1935/livetv/sstv
 #EXTINF:-1 tvg-name="甘肃卫视‖SD" ,甘肃卫视‖SD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视‖SD" ,甘肃卫视‖SD
