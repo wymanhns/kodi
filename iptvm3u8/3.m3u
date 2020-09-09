@@ -155,8 +155,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视‖HD" ,湖南卫视‖HD
 http://117.169.120.160:8080/live/hdhunanstv/1.m3u8
-#EXTINF:-1 tvg-name="CHTV中华卫视‖SD" ,CHTV中华卫视‖SD
-http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="贵州卫视‖HD" ,贵州卫视‖HD
 http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="四川卫视‖HD" ,四川卫视‖HD
@@ -169,9 +167,9 @@ https://www.fanmingming.cn/hls/startv.m3u8
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-name="星空卫视‖SD" ,星空卫视‖SD
 https://itv.ahcme.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-name="云南卫视‖SD" ,云南卫视‖SD
+#EXTINF:-1 tvg-name="云南卫视‖HD" ,云南卫视‖HD
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 tvg-name="云南卫视‖SD" ,云南卫视‖SD
+#EXTINF:-1 tvg-name="云南卫视‖HD" ,云南卫视‖HD
 http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="山东卫视‖HD" ,山东卫视‖HD
 http://111.40.205.70/PLTV/88888888/224/3221225737/index.m3u8
