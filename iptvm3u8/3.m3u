@@ -1,133 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="中央1台-综合" ,中央1台-综合
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8
-#EXTINF:-1 tvg-name="中央2台-财经" ,中央2台-财经
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000203602.m3u8
-#EXTINF:-1 tvg-name="中央3台-综艺" ,中央3台-综艺
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000203803.m3u8
-#EXTINF:-1 tvg-name="中央4台-国际" ,中央4台-国际
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204803.m3u8
-#EXTINF:-1 tvg-name="中央5台-体育" ,中央5台-体育
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000205102.m3u8
-#EXTINF:-1 tvg-name="中央6台-电影" ,中央6台-电影
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000203302.m3u8
-#EXTINF:-1 tvg-name="中央7台-军事" ,中央7台-军事
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000510003.m3u8
-#EXTINF:-1 tvg-name="中央8台-电视剧" ,中央8台-电视剧
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000203903.m3u8
-#EXTINF:-1 tvg-name="中央9台-记录" ,中央9台-记录
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000499402.m3u8
-#EXTINF:-1 tvg-name="中央10台-科教" ,中央10台-科教
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000203503.m3u8
-#EXTINF:-1 tvg-name="中央11台-戏曲" ,中央11台-戏曲
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204103.m3u8
-#EXTINF:-1 tvg-name="中央12台-社会与法" ,中央12台-社会与法
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000202602.m3u8
-#EXTINF:-1 tvg-name="中央13台-新闻" ,中央13台-新闻
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204602.m3u8
-#EXTINF:-1 tvg-name="中央14台-少儿" ,中央14台-少儿
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204403.m3u8
-#EXTINF:-1 tvg-name="中央15台-音乐" ,中央15台-音乐
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000205003.m3u8
-#EXTINF:-1 tvg-name="中央17台-农业农村" ,中央17台-农业农村
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204203.m3u8
-#EXTINF:-1 tvg-name="中央5+台-体育赛事" ,中央5+台-体育赛事
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000204503.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000296202.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000295502.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
-#EXTINF:-1 tvg-name="CGTN-环球国际新闻" ,CGTN-环球国际新闻
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
-#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000272103.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000297802.m3u8
-#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
-http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="东方卫视" ,东方卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000298002.m3u8
-#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000294103.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
-http://140.207.241.2:8080/live/program/live/lnwshd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" ,吉林卫视
-http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000293903.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" ,内蒙古卫视
-http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000294502.m3u8
-#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000292703.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000292202.m3u8
-#EXTINF:-1 tvg-name="东南卫视" ,东南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000292503.m3u8
-#EXTINF:-1 tvg-name="山东卫视" ,山东卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000294803.m3u8
-#EXTINF:-1 tvg-name="海南卫视" ,海南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000291502.m3u8
-#EXTINF:-1 tvg-name="河南卫视" ,河南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000296103.m3u8
-#EXTINF:-1 tvg-name="河北卫视" ,河北卫视
-http://live5.plus.hebtv.com/hbws/sd/live.m3u8
-#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000295002.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000293303.m3u8
-#EXTINF:-1 tvg-name="广西卫视" ,广西卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
-#EXTINF:-1 tvg-name="青海卫视" ,青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 tvg-name="台视" ,台视
-rtmp://161.202.204.248:1935/sat/tv071
-#EXTINF:-1 tvg-name="民视" ,民视
-rtmp://161.202.204.248:1935/sat/tv051
-#EXTINF:-1 tvg-name="中视" ,中视
-rtmp://161.202.204.248:1935/sat/tv091
-#EXTINF:-1 tvg-name="华视" ,华视
-rtmp://161.202.204.248:1935/sat/tv111
-#EXTINF:-1 tvg-name="中天新闻" ,中天新闻
-http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 tvg-name="中天新闻" ,中天新闻
-rtmp://161.202.204.248:1935/sat/tv521
-#EXTINF:-1 tvg-name="中天综合" ,中天综合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-name="博斯魅力" ,博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-name="中华卫视" ,中华卫视
-http://pull.leshantangjt.com/live/playlist.m3u8
-#EXTINF:-1 tvg-name="三立新闻" ,三立新闻
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-name="大爱一台" ,大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-name="大爱二台" ,大爱二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="大爱海外" ,大爱海外
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-name="GoodTV好消息台" ,GoodTV好消息台
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 tvg-name="GoodTV好消息二" ,GoodTV好消息二
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 tvg-name="GoodTV真情部落" ,GoodTV真情部落
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-#EXTINF:-1 tvg-name="GoodTV健康煮流" ,GoodTV健康煮流
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-#EXTINF:-1 tvg-name="GoodTV经典音乐" ,GoodTV经典音乐
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1 tvg-name="GoodTV爱旅行台" ,GoodTV爱旅行台
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1 tvg-name="GoodTV共享观点" ,GoodTV共享观点
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻频道" ,TVBS新闻频道
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻频道" ,TVBS新闻频道
-rtmp://161.202.204.248:1935/sat/tv551
-#EXTINF:-1 tvg-name="TVBS欢乐频道" ,TVBS欢乐频道
-rtmp://161.202.204.248:1935/sat/tv421
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
+rtmp://58.200.131.2:1935/livetv/fhzw
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+rtmp://58.200.131.2:1935/livetv/fhzx
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
+https://www.fanmingming.cn/hls/startv.m3u8
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="环球电视" ,环球电视
+http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 tvg-name="亚视本港" ,亚视本港
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1 tvg-name="TVB无线翡翠" ,TVB无线翡翠
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+#EXTINF:-1 tvg-name="TVB无线明珠" ,TVB无线明珠
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
+#EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
+http://45.93.217.106/jiuban/hg.php?id=1
+#EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
+http://tv.sason.xyz/proxy/tvb.php?id=xw
+#EXTINF:-1 tvg-name="TVB无线新闻" ,TVB无线新闻
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
+#EXTINF:-1 tvg-name="TVB无线财经" ,TVB无线财经
+http://45.93.217.106/jiuban/hg.php?id=2
+#EXTINF:-1 tvg-name="TVB无线财经" ,TVB无线财经
+http://tv.sason.xyz/proxy/tvb.php?id=cj
+#EXTINF:-1 tvg-name="星空体育" ,星空体育
+https://www.fanmingming.cn/hls/starsports.m3u8
+#EXTINF:-1 tvg-name="澳门体育" ,澳门体育
+http://61.244.22.5/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
+http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门卫星" ,澳门卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门资讯" ,澳门资讯
+http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门综艺" ,澳门综艺
+http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="新马‖亚洲新闻" ,新马‖亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="日本‖日本新闻" ,日本‖日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-name="日本‖NHK华语视界" ,日本‖NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="日本‖NHK日本国际" ,日本‖NHK日本国际
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-name="韩国‖韩国中央" ,韩国‖韩国中央
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国‖TJBSBS" ,韩国‖TJBSBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-name="韩国‖MBC韩国频道" ,韩国‖MBC韩国频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="新马‖RTM体育频道" ,新马‖RTM体育频道
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-name="韩国‖EBS第一频道" ,韩国‖EBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-name="韩国‖EBS第二频道" ,韩国‖EBS第二频道
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩国‖EBS加一频道" ,韩国‖EBS加一频道
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩国‖EBS加二频道" ,韩国‖EBS加二频道
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩国‖EBSE频道" ,韩国‖EBSE频道
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="卡塔尔‖半岛新闻" ,卡塔尔‖半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-name="阿联酋‖迪拜卫视" ,阿联酋‖迪拜卫视
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="阿联酋‖迪拜赛马" ,阿联酋‖迪拜赛马
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
