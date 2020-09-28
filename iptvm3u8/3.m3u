@@ -17,101 +17,111 @@ http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-name="NOW体育频道" ,NOW体育频道
+#EXTINF:-1 tvg-name="NOW_体育频道" ,NOW_体育频道
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93NjMw
-#EXTINF:-1 tvg-name="NOW新闻频道" ,NOW新闻频道
+#EXTINF:-1 tvg-name="NOW_新闻频道" ,NOW_新闻频道
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMy
-#EXTINF:-1 tvg-name="NOW直播频道" ,NOW直播频道
+#EXTINF:-1 tvg-name="NOW_直播频道" ,NOW_直播频道
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMx
+#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 https://www.fanmingming.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
+#EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2FuZXdz
-#EXTINF:-1 tvg-name="有线电影" ,有线电影
+#EXTINF:-1 tvg-name="HKC_有线电影" ,HKC_有线电影
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2Ftb3ZpZQ__
 #EXTINF:-1 tvg-name="环球电视" ,环球电视
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-name="翡翠台" ,翡翠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 tvg-name="翡翠台" ,翡翠台
+#EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmM_
-#EXTINF:-1 tvg-name="明珠台" ,明珠台
+#EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+#EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
+http://172.96.161.250/CCTV/crtv.php?id=30
+#EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibXo_
-#EXTINF:-1 tvg-name="明珠台" ,明珠台
+#EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+#EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibmV3cw__
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+#EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
+http://172.96.161.250/CCTV/crtv.php?id=45
+#EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+#EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-name="无线新闻" group-title="香港电视台",無线新闻台
+#EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
+#EXTINF:-1 tvg-name="TVB_无线财经" ,TVB_无线财经
+http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmluYW5jZQ__
+#EXTINF:-1 tvg-name="TVB_无线财经" ,TVB_无线财经
 http://45.93.217.106/jiuban/hg.php?id=2
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经" group-title="香港电视台",无线财经资讯台
+#EXTINF:-1 tvg-name="TVB_无线财经" ,TVB_无线财经
 http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港电视台",无线J2
+#EXTINF:-1 tvg-name="TVB_J2" ,TVB_J2
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiajI_
 #EXTINF:-1 tvg-name="星空体育" ,星空体育
 https://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-name="澳门体育" ,澳门体育
-http://61.244.22.5/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门卫星" ,澳门卫星
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门资讯" ,澳门资讯
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门综艺" ,澳门综艺
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-name="RHK港视31" ,RHK港视31
+#EXTINF:-1 tvg-name="VIU_TV" ,VIU_TV
+http://172.96.161.250/CCTV/crtv.php?id=72
+#EXTINF:-1 tvg-name="RHK_港视31" ,RHK_港视31
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMx
-#EXTINF:-1 tvg-name="RHK港视32" ,RHK港视32
+#EXTINF:-1 tvg-name="RHK_港视32" ,RHK_港视32
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMy
 #EXTINF:-1 tvg-name="美亚电影" ,美亚电影
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXlkeQ__
 #EXTINF:-1 tvg-name="天映经典" ,天映经典
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHlqZA__
+#EXTINF:-1 tvg-name="莲花卫视" ,莲花卫视
+http://172.96.161.250/CCTV/crtv.php?id=70
 #EXTINF:-1 tvg-name="卫视卡式台" ,卫视卡式台
 http://gat.589ys.top:9889/tvzb.php?nn34&play&line=293tv&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxMDg1
-#EXTINF:-1 tvg-name="新马‖亚洲新闻" ,新马‖亚洲新闻
+#EXTINF:-1 tvg-name="开放电视" ,开放电视
+http://172.96.161.250/CCTV/crtv.php?id=17
+#EXTINF:-1 tvg-name="新马-亚洲新闻" ,新马-亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="日本‖日本新闻" ,日本‖日本新闻
+#EXTINF:-1 tvg-name="新马-8频道" ,新马-8频道
+http://172.96.161.250/CCTV/crtv.php?id=142
+#EXTINF:-1 tvg-name="日本-日本新闻" ,日本-日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-name="日本‖NHK华语视界" ,日本‖NHK华语视界
+#EXTINF:-1 tvg-name="日本-NHK_华语视界" ,日本-NHK_华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-name="日本‖NHK日本国际" ,日本‖NHK日本国际
+#EXTINF:-1 tvg-name="日本-NHK_日本国际" ,日本-NHK_日本国际
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-name="韩国‖韩国中央" ,韩国‖韩国中央
+#EXTINF:-1 tvg-name="韩国-韩国中央" ,韩国-韩国中央
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国‖TJBSBS" ,韩国‖TJBSBS
+#EXTINF:-1 tvg-name="韩国-TJB_SBS" ,韩国-TJB_SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-name="韩国‖MBC韩国频道" ,韩国‖MBC韩国频道
+#EXTINF:-1 tvg-name="韩国-MBC_韩国频道" ,韩国-MBC_韩国频道
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="新马‖RTM体育频道" ,新马‖RTM体育频道
+#EXTINF:-1 tvg-name="新马-RTM_体育频道" ,新马-RTM_体育频道
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-name="韩国‖EBS第一频道" ,韩国‖EBS第一频道
+#EXTINF:-1 tvg-name="韩国-EBS_第一频道" ,韩国-EBS_第一频道
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 tvg-name="韩国‖EBS第二频道" ,韩国‖EBS第二频道
+#EXTINF:-1 tvg-name="韩国-EBS_第二频道" ,韩国-EBS_第二频道
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国‖EBS加一频道" ,韩国‖EBS加一频道
+#EXTINF:-1 tvg-name="韩国-EBS_加一频道" ,韩国-EBS_加一频道
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国‖EBS加二频道" ,韩国‖EBS加二频道
+#EXTINF:-1 tvg-name="韩国-EBS_加二频道" ,韩国-EBS_加二频道
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国‖EBSE频道" ,韩国‖EBSE频道
+#EXTINF:-1 tvg-name="韩国-EBS_E频道" ,韩国-EBS_E频道
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="卡塔尔‖半岛新闻" ,卡塔尔‖半岛新闻
+#EXTINF:-1 tvg-name="卡塔尔-半岛新闻" ,卡塔尔-半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="阿联酋‖迪拜卫视" ,阿联酋‖迪拜卫视
+#EXTINF:-1 tvg-name="阿联酋-迪拜卫视" ,阿联酋-迪拜卫视
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="阿联酋‖迪拜赛马" ,阿联酋‖迪拜赛马
+#EXTINF:-1 tvg-name="阿联酋-迪拜赛马" ,阿联酋-迪拜赛马
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
