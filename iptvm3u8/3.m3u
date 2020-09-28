@@ -4,15 +4,21 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
+http://zyj520ljzfjzfx.xyz/ifeed.php?id=2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+http://zyj520ljzfjzfx.xyz/ifeed.php?id=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 rtmp://58.200.131.2:1935/livetv/fhzx
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
+http://live.vpnyun.tk:8080/demo/456321/25
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
@@ -21,8 +27,12 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93NjMw
 #EXTINF:-1 tvg-name="NOW_新闻频道" ,NOW_新闻频道
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMy
+#EXTINF:-1 tvg-name="NOW_新闻频道" ,NOW_新闻频道
+http://live.vpnyun.tk:8080/demo/456321/06
 #EXTINF:-1 tvg-name="NOW_直播频道" ,NOW_直播频道
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMx
+#EXTINF:-1 tvg-name="NOW_直播频道" ,NOW_直播频道
+http://live.vpnyun.tk:8080/demo/456321/17
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
 #EXTINF:-1 tvg-name="星空卫视" ,星空卫视
@@ -33,10 +43,10 @@ https://www.fanmingming.cn/hls/startv.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2FuZXdz
+#EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
+http://live.vpnyun.tk:8080/demo/456321/05
 #EXTINF:-1 tvg-name="HKC_有线电影" ,HKC_有线电影
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2Ftb3ZpZQ__
-#EXTINF:-1 tvg-name="环球电视" ,环球电视
-http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
@@ -44,15 +54,17 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEd
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
-http://172.96.161.250/CCTV/crtv.php?id=30
+http://live.vpnyun.tk:8080/demo/456321/01
 #EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibXo_
 #EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
+#EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
+http://live.vpnyun.tk:8080/demo/456321/02
 #EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibmV3cw__
 #EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
-http://172.96.161.250/CCTV/crtv.php?id=45
+http://live.vpnyun.tk:8080/demo/456321/03
 #EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
 #EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
@@ -65,8 +77,12 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEd
 http://45.93.217.106/jiuban/hg.php?id=2
 #EXTINF:-1 tvg-name="TVB_无线财经" ,TVB_无线财经
 http://tv.sason.xyz/proxy/tvb.php?id=cj
+#EXTINF:-1 tvg-name="TVB_无线财经" ,TVB_无线财经
+http://live.vpnyun.tk:8080/demo/456321/04
 #EXTINF:-1 tvg-name="TVB_J2" ,TVB_J2
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiajI_
+#EXTINF:-1 tvg-name="TVB_J2" ,TVB_J2
+http://live.vpnyun.tk:8080/demo/456321/07
 #EXTINF:-1 tvg-name="星空体育" ,星空体育
 https://www.fanmingming.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
@@ -76,25 +92,39 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门资讯" ,澳门资讯
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="VIU_TV" ,VIU_TV
+http://live.vpnyun.tk:8080/demo/456321/15
+#EXTINF:-1 tvg-name="VIU_TV" ,VIU_TV
 http://172.96.161.250/CCTV/crtv.php?id=72
 #EXTINF:-1 tvg-name="RHK_港视31" ,RHK_港视31
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMx
+#EXTINF:-1 tvg-name="RHK_港视31" ,RHK_港视31
+http://live.vpnyun.tk:8080/demo/456321/18
 #EXTINF:-1 tvg-name="RHK_港视32" ,RHK_港视32
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMy
+#EXTINF:-1 tvg-name="RHK_港视32" ,RHK_港视32
+http://live.vpnyun.tk:8080/demo/456321/19
 #EXTINF:-1 tvg-name="美亚电影" ,美亚电影
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXlkeQ__
+#EXTINF:-1 tvg-name="美亚电影" ,美亚电影
+http://live.vpnyun.tk:8080/demo/456321/265
 #EXTINF:-1 tvg-name="天映经典" ,天映经典
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHlqZA__
-#EXTINF:-1 tvg-name="莲花卫视" ,莲花卫视
-http://172.96.161.250/CCTV/crtv.php?id=70
+#EXTINF:-1 tvg-name="天映经典" ,天映经典
+http://live.vpnyun.tk:8080/demo/456321/266
 #EXTINF:-1 tvg-name="卫视卡式台" ,卫视卡式台
 http://gat.589ys.top:9889/tvzb.php?nn34&play&line=293tv&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxMDg1
+#EXTINF:-1 tvg-name="卫视卡式台" ,卫视卡式台
+http://live.vpnyun.tk:8080/demo/456321/23
+#EXTINF:-1 tvg-name="TVB_星河频道" ,TVB_星河频道
+http://live.vpnyun.tk:8080/demo/456321/20
+#EXTINF:-1 tvg-name="HKC_有线综合娱乐" ,HKC_有线综合娱乐
+http://live.vpnyun.tk:8080/demo/456321/12
+#EXTINF:-1 tvg-name="开放电视" ,开放电视
+http://live.vpnyun.tk:8080/demo/456321/14
 #EXTINF:-1 tvg-name="开放电视" ,开放电视
 http://172.96.161.250/CCTV/crtv.php?id=17
 #EXTINF:-1 tvg-name="新马-亚洲新闻" ,新马-亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="新马-8频道" ,新马-8频道
-http://172.96.161.250/CCTV/crtv.php?id=142
 #EXTINF:-1 tvg-name="日本-日本新闻" ,日本-日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-name="日本-NHK_华语视界" ,日本-NHK_华语视界
@@ -105,8 +135,14 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国-TJB_SBS" ,韩国-TJB_SBS
 http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-name="韩国-OCN" ,韩国-OCN
+http://live.yingtaotvapp.com/OCN/index.m3u8
+#EXTINF:-1 tvg-name="韩国-SBS_综合频道" ,韩国-SBS_综合频道
+http://live.yingtaotvapp.com/SBS/index.m3u8
 #EXTINF:-1 tvg-name="韩国-MBC_韩国频道" ,韩国-MBC_韩国频道
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国-MBC_韩国频道" ,韩国-MBC_韩国频道
+http://live.yingtaotvapp.com/MBC/index.m3u8
 #EXTINF:-1 tvg-name="新马-RTM_体育频道" ,新马-RTM_体育频道
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-name="韩国-EBS_第一频道" ,韩国-EBS_第一频道
@@ -125,3 +161,11 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-name="阿联酋-迪拜赛马" ,阿联酋-迪拜赛马
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="韩国-KBS_1" ,韩国-KBS_1
+http://live.yingtaotvapp.com/KBS1/index.m3u8
+#EXTINF:-1 tvg-name="韩国-KBS_2" ,韩国-KBS_2
+http://live.yingtaotvapp.com/KBS2/index.m3u8
+#EXTINF:-1 tvg-name="韩国-SBS_Plus" ,韩国-SBS_Plus
+http://live.yingtaotvapp.com/SBSplus/index.m3u8
+#EXTINF:-1 tvg-name="新马-Astro_翡翠台" ,新马-Astro_翡翠台
+http://live.vpnyun.tk:8080/demo/456321/22
