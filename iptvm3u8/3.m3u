@@ -1,135 +1,227 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
-rtmp://58.200.131.2:1935/livetv/fhzw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
-http://zyj520ljzfjzfx.xyz/ifeed.php?id=2
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="香港电视台",凤凰卫视中文
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-http://zyj520ljzfjzfx.xyz/ifeed.php?id=1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-rtmp://58.200.131.2:1935/livetv/fhzx
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-http://live.vpnyun.tk:8080/demo/456321/25
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="香港电视台",凤凰卫视资讯台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 tvg-name="凤凰电影" ,凤凰电影
-rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-name="美亚电影" ,美亚电影
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXlkeQ__
-#EXTINF:-1 tvg-name="NOW_新闻频道" ,NOW_新闻频道
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMy
-#EXTINF:-1 tvg-name="NOW_体育频道" ,NOW_体育频道
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93NjMw
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-https://www.fanmingming.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="阳光卫视" ,阳光卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_SunShineTV.m3u8
-#EXTINF:-1 tvg-name="亚视本港" ,亚视本港
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmM_
-#EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 tvg-name="TVB_翡翠台(备)" ,TVB_翡翠台(备)
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibXo_
-#EXTINF:-1 tvg-name="TVB_明珠台" ,TVB_明珠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-#EXTINF:-1 tvg-name="TVB_明珠台(备)" ,TVB_明珠台(备)
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-#EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TVB_无线新闻" ,TVB_无线新闻
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibmV3cw__
-#EXTINF:-1 tvg-name="TVB_无线新闻(备)" ,TVB_无线新闻(备)
-http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 tvg-name="TVB_无线新闻(备)" ,TVB_无线新闻(备)
-http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-name="TVB_无线新闻(备)" ,TVB_无线新闻(备)
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
-#EXTINF:-1 tvg-name="TVB_无线财经" ,TVB_无线财经
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmluYW5jZQ__
-#EXTINF:-1 tvg-name="TVB_无线财经(备)" ,TVB_无线财经(备)
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 tvg-name="TVB_无线财经(备)" ,TVB_无线财经(备)
-http://45.93.217.106/jiuban/hg.php?id=2
-#EXTINF:-1 tvg-name="星空体育" ,星空体育
-https://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-name="天映经典" ,天映经典
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHlqZA__
-#EXTINF:-1 tvg-name="卫视卡式台" ,卫视卡式台
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&line=293tv&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxMDg1
-#EXTINF:-1 tvg-name="澳门卫星" ,澳门卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门资讯" ,澳门资讯
-http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2FuZXdz
-#EXTINF:-1 tvg-name="TVB_J2" ,TVB_J2
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiajI_
-#EXTINF:-1 tvg-name="RHK_港视31" ,RHK_港视31
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMx
-#EXTINF:-1 tvg-name="RHK_港视32" ,RHK_港视32
-http://gat.589ys.top:9889/tvzb.php?nn3494651&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMy
-#EXTINF:-1 tvg-name="新马-亚洲新闻" ,新马-亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="日本-日本新闻" ,日本-日本新闻
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-name="日本-NHK_华语视界" ,日本-NHK_华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-name="日本-NHK_日本国际" ,日本-NHK_日本国际
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-name="韩国-韩国中央" ,韩国-韩国中央
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国-TJB_SBS" ,韩国-TJB_SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-name="韩国-OCN" ,韩国-OCN
-http://live.yingtaotvapp.com/OCN/index.m3u8
-#EXTINF:-1 tvg-name="韩国-SBS_综合频道" ,韩国-SBS_综合频道
-http://live.yingtaotvapp.com/SBS/index.m3u8
-#EXTINF:-1 tvg-name="韩国-MBC_韩国频道" ,韩国-MBC_韩国频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国-MBC_韩国频道" ,韩国-MBC_韩国频道
-http://live.yingtaotvapp.com/MBC/index.m3u8
-#EXTINF:-1 tvg-name="新马-RTM_体育频道" ,新马-RTM_体育频道
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS_第一频道" ,韩国-EBS_第一频道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS_第二频道" ,韩国-EBS_第二频道
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS_加一频道" ,韩国-EBS_加一频道
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS_加二频道" ,韩国-EBS_加二频道
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS_E频道" ,韩国-EBS_E频道
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="卡塔尔-半岛新闻" ,卡塔尔-半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="阿联酋-迪拜卫视" ,阿联酋-迪拜卫视
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="阿联酋-迪拜赛马" ,阿联酋-迪拜赛马
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="韩国-KBS_1" ,韩国-KBS_1
-http://live.yingtaotvapp.com/KBS1/index.m3u8
-#EXTINF:-1 tvg-name="韩国-KBS_2" ,韩国-KBS_2
-http://live.yingtaotvapp.com/KBS2/index.m3u8
-#EXTINF:-1 tvg-name="韩国-SBS_Plus" ,韩国-SBS_Plus
-http://live.yingtaotvapp.com/SBSplus/index.m3u8
-#EXTINF:-1 tvg-name="新马-Astro_翡翠台" ,新马-Astro_翡翠台
-http://live.vpnyun.tk:8080/demo/456321/22
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+p8p://0198.02686.cc:16871/5d1a699a0001165b11bd76f8cbcb11f4.ts
+#EXTINF:-1 tvg-name="CCTV2_财经" ,CCTV2_财经
+p8p://0198.02686.cc:16871/5d1a699a000bdb0c11bd79ba05109953.ts
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+p8p://0198.02686.cc:16871/5d1a699b0007cb1411bd7c98c852c8c7.ts
+#EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
+p8p://0198.02686.cc:16871/5d1a699c0003f57011bd7f840080582d.ts
+#EXTINF:-1 tvg-name="CCTV5_体育" ,CCTV5_体育
+p8p://0198.02686.cc:16871/5d1a699e00076fa011bd88384bd1ad68.ts
+#EXTINF:-1 tvg-name="CCTV6_电影" ,CCTV6_电影
+p8p://0198.02686.cc:16871/5d1a699f0003833d11bd8b1f616c63aa.ts
+#EXTINF:-1 tvg-name="CCTV7_军事" ,CCTV7_军事
+p8p://0198.02686.cc:16871/5d1a699f000ef29711bd8e0c759f39d9.ts
+#EXTINF:-1 tvg-name="CCTV8_电视剧" ,CCTV8_电视剧
+p8p://0198.02686.cc:16871/5d1a69a0000a771d11bd90cfd32cd7e2.ts
+#EXTINF:-1 tvg-name="CCTV9_记录" ,CCTV9_记录
+p8p://0198.02686.cc:16871/5d1a69a10005e2bf11bd938ba0a96775.ts
+#EXTINF:-1 tvg-name="CCTV10_科教" ,CCTV10_科教
+p8p://0198.02686.cc:16871/5d1a69950001d55b11bd63a1a7412eff.ts
+#EXTINF:-1 tvg-name="CCTV11_戏曲" ,CCTV11_戏曲
+p8p://0198.02686.cc:16871/5d1a6995000d2d4411bd6688405637b9.ts
+#EXTINF:-1 tvg-name="CCTV12_社会" ,CCTV12_社会
+p8p://0198.02686.cc:16871/5d1a69960008e5c611bd69582e7284c5.ts
+#EXTINF:-1 tvg-name="CCTV13_新闻" ,CCTV13_新闻
+p8p://0198.02686.cc:16871/5d1a69970004daf011bd6c37579e1c02.ts
+#EXTINF:-1 tvg-name="CCTV14_少儿" ,CCTV14_少儿
+p8p://0198.02686.cc:16871/5d1a699800010bf711bd6f251fac0a34.ts
+#EXTINF:-1 tvg-name="CCTV15_音乐" ,CCTV15_音乐
+p8p://0198.02686.cc:16871/5d1a6998000c859211bd7215e54eb404.ts
+#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
+p8p://0198.02686.cc:16871/5d1a69cb0006b92b11be37d1bd1557cf.ts
+#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
+p8p://0198.02686.cc:16871/5d1a69d300069bdb11be570acce403b8.ts
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+p8p://0198.02686.cc:16871/5d1a69b1000c1e9311bdd3a31a688a40.ts
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+p8p://0198.02686.cc:16871/5d1a69c8000771a811be2c4919c0f84c.ts
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+p8p://0198.02686.cc:16871/5d1a69c6000506b711be23da7205472e.ts
+#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
+p8p://0198.02686.cc:16871/5d1a69c7000118dd11be26c131299bb6.ts
+#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
+p8p://0198.02686.cc:16871/5d1a69b400098f3411bddeb3ff50162b.ts
+#EXTINF:-1 tvg-name="南方卫视" ,南方卫视
+p8p://0198.02686.cc:16871/5d1a69b30003ab5511bdd949a4730deb.ts
+#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+p8p://0198.02686.cc:16871/5d1a69d1000e847711be51408076990f.ts
+#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
+p8p://0198.02686.cc:16871/5d1a69d7000b9c9a11be67f2d66140d2.ts
+#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
+p8p://0198.02686.cc:16871/5d1a69b8000eeead11bdefb3d7551e89.ts
+#EXTINF:-1 tvg-name="珠江频道" ,珠江频道
+p8p://0198.02686.cc:16871/5d1a69cc0002c11611be3ab59efd0c09.ts
+#EXTINF:-1 tvg-name="东方卫视" ,东方卫视
+p8p://0198.02686.cc:16871/5dbc317c000014e4d3429bae6350e7df.ts
+#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
+p8p://0198.02686.cc:16871/5d1a69be0001729e11be03b099071e29.ts
+#EXTINF:-1 tvg-name="广东新闻" ,广东新闻
+p8p://0198.02686.cc:16871/5f44be3f000af3cf1470d850ed540479.ts
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+p8p://0198.02686.cc:16871/5d1a69c9000ec48911be3211b872a891.ts
+#EXTINF:-1 tvg-name="CCTV5+_体育赛事" ,CCTV5+_体育赛事
+p8p://0198.02686.cc:16871/5d1a699d000b786b11bd85591a37419d.ts
+#EXTINF:-1 tvg-name="广东体育" ,广东体育
+p8p://0198.02686.cc:16871/5d1a69bc000974fd11bdfdedd4967d61.ts
+#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
+p8p://0198.02686.cc:16871/5d1a69ca000aab2e11be34ec8f51752f.ts
+#EXTINF:-1 tvg-name="河北卫视" ,河北卫视
+p8p://0198.02686.cc:16871/5d1a69c7000bf64e11be298959e31717.ts
+#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
+p8p://0198.02686.cc:16871/5d1a69cd000a2ae111be4083db3c2b82.ts
+#EXTINF:-1 tvg-name="广西卫视" ,广西卫视
+p8p://0198.02686.cc:16871/5d1a69bf0008cdae11be097a09df2a20.ts
+#EXTINF:-1 tvg-name="民视" ,民视
+p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
+#EXTINF:-1 tvg-name="台视" ,台视
+p8p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
+#EXTINF:-1 tvg-name="中视" ,中视
+p8p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
+#EXTINF:-1 tvg-name="三立综合" ,三立综合
+p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
+#EXTINF:-1 tvg-name="三立都会" ,三立都会
+p8p://0198.02686.cc:16871/5f5464510006128c135ae3031d7bb649.ts
+#EXTINF:-1 tvg-name="三立台湾" ,三立台湾
+p8p://0198.02686.cc:16871/5f2e5ac20001f0ec1d8bb39b46c4cc49.ts
+#EXTINF:-1 tvg-name="三立新闻" ,三立新闻
+p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+#EXTINF:-1 tvg-name="TVBS_新闻台" ,TVBS_新闻台
+p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+#EXTINF:-1 tvg-name="TVBS_欢乐台" ,TVBS_欢乐台
+p8p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
+#EXTINF:-1 tvg-name="龙华戏剧" ,龙华戏剧
+p8p://user3.shusongw.mobi:16871/5f380947000effbb435d6e7b21bc4ac1
+#EXTINF:-1 tvg-name="龙华洋片" ,龙华洋片
+p8p://user3.shusongw.mobi:16871/5f380822000f29a54358f5fe211c161a
+#EXTINF:-1 tvg-name="纬来戏剧" ,纬来戏剧
+p8p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
+#EXTINF:-1 tvg-name="纬来戏剧" ,纬来戏剧
+p8p://user3.shusongw.mobi:16871/5e0f37bd00040a5217930a9af969bce1
+#EXTINF:-1 tvg-name="纬来电影" ,纬来电影
+p8p://user3.shusongw.mobi:16871/5d1a69ce0005e8e911be435423cf0509
+#EXTINF:-1 tvg-name="纬来电影" ,纬来电影
+p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
+#EXTINF:-1 tvg-name="纬来日本" ,纬来日本
+p8p://0198.02686.cc:16871/5d8b6caa00035a0b14c1c834b40e4885.ts
+#EXTINF:-1 tvg-name="纬来体育" ,纬来体育
+p8p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
+#EXTINF:-1 tvg-name="博斯魅力" ,博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-name="博斯无限" ,博斯无限
+p8p://0198.02686.cc:16871/5f37dd090006077242b099ff9590d5b0.ts
+#EXTINF:-1 tvg-name="博斯网球" ,博斯网球
+p8p://user3.shusongw.mobi:16871/5d4c07370004e10e9fd599bbf1aae42b
+#EXTINF:-1 tvg-name="博斯高球" ,博斯高球
+p8p://user3.shusongw.mobi:16871/5f37df8b0005a04e42ba65b5768af3d6
+#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
+p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+#EXTINF:-1 tvg-name="中天综合" ,中天综合
+p8p://0198.02686.cc:16871/5f2e5d8000072f111d966b23e859debb.ts
+#EXTINF:-1 tvg-name="中天娱乐" ,中天娱乐
+p8p://0198.02686.cc:16871/5f2e5e8d0000e5811d9a844fa7cb37a6.ts
+#EXTINF:-1 tvg-name="中天新闻" ,中天新闻
+p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
+#EXTINF:-1 tvg-name="中天亚洲" ,中天亚洲
+p8p://0198.02686.cc:16871/5f37ff41000e4fa2433646de603aa487.ts
+#EXTINF:-1 tvg-name="探索频道" ,探索频道
+p8p://user3.shusongw.mobi:16871/5f2e56190004729f1d7980176b355250
+#EXTINF:-1 tvg-name="探索亚洲" ,探索亚洲
+p8p://user3.shusongw.mobi:16871/5f37d15a000efba84282f8b2e586739c
+#EXTINF:-1 tvg-name="探索科学" ,探索科学
+p8p://user3.shusongw.mobi:16871/5f37d1f3000dbded42854e09147e692f
+#EXTINF:-1 tvg-name="东森综合" ,东森综合
+p8p://0198.02686.cc:16871/5f2e5cb3000e7cf41d934c39cec3dfb2.ts
+#EXTINF:-1 tvg-name="东森新闻" ,东森新闻
+p8p://user3.shusongw.mobi:16871/5d1a69c2000a678211be159b7e5802a8
+#EXTINF:-1 tvg-name="东森新闻" ,东森新闻
+p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+#EXTINF:-1 tvg-name="东森超视" ,东森超视
+p8p://0198.02686.cc:16871/5e68c8be000191b2047d9630d32efe6b.ts
+#EXTINF:-1 tvg-name="东森戏剧" ,东森戏剧
+p8p://user3.shusongw.mobi:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576
+#EXTINF:-1 tvg-name="东森电影" ,东森电影
+p8p://user3.shusongw.mobi:16871/5f2fa872000eac4522a32e5e005f67a9
+#EXTINF:-1 tvg-name="东森电影" ,东森电影
+p8p://0198.02686.cc:16871/5f2fa872000eac4522a32e5e005f67a9
+#EXTINF:-1 tvg-name="东森幼幼" ,东森幼幼
+p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
+#EXTINF:-1 tvg-name="迪士尼儿童" ,迪士尼儿童
+p8p://0198.02686.cc:16871/5f2e56c60009eeab1d7c254786d1c06b.ts
+#EXTINF:-1 tvg-name="好莱坞电影" ,好莱坞电影
+p8p://0198.02686.cc:16871/5f2fabea000ac62722b0ba1e30f6fc2a.ts
+#EXTINF:-1 tvg-name="动物星球" ,动物星球
+p8p://user3.shusongw.mobi:16871/5d1a69da000a2acf11be734ba3f44eda
+#EXTINF:-1 tvg-name="动物星球" ,动物星球
+p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
+#EXTINF:-1 tvg-name="国家地理" ,国家地理
+p8p://user3.shusongw.mobi:16871/5f34ca1f000a502236aeb9084d9c2802
+#EXTINF:-1 tvg-name="地理悠人" ,地理悠人
+p8p://user3.shusongw.mobi:16871/5f37d0fb00088f51428183f5a24c108a
+#EXTINF:-1 tvg-name="地理野生" ,地理野生
+p8p://user3.shusongw.mobi:16871/5f37cf4000053244427ac0a15f6658f1
+#EXTINF:-1 tvg-name="EYETV_旅游台" ,EYETV_旅游台
+p8p://0198.02686.cc:16871/5f37d838000ad036429dcad101035470.ts
+#EXTINF:-1 tvg-name="EYETV_戏剧台" ,EYETV_戏剧台
+p8p://user3.shusongw.mobi:16871/5f37d8dc00062aca42a04a40e5f66359
+#EXTINF:-1 tvg-name="EYETV_戏剧台" ,EYETV_戏剧台
+p8p://0198.02686.cc:16871/5f37d8dc00062aca42a04a40e5f66359
+#EXTINF:-1 tvg-name="靖洋戏剧" ,靖洋戏剧
+p8p://user3.shusongw.mobi:16871/5f380b85000d3460436630353478adac
+#EXTINF:-1 tvg-name="靖天电影" ,靖天电影
+p8p://user3.shusongw.mobi:16871/5d1a69d4000d791711be5cb4cbc75c73
+#EXTINF:-1 tvg-name="靖天电影" ,靖天电影
+p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
+#EXTINF:-1 tvg-name="龙祥电影" ,龙祥电影
+p8p://user3.shusongw.mobi:16871/5f2faa42000d119a22aa4274ab45b649
+#EXTINF:-1 tvg-name="非凡新闻" ,非凡新闻
+p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
+p8p://user3.shusongw.mobi:16871/5f37f9150000be1a431e27852b683e83
+#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
+p8p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83
+#EXTINF:-1 tvg-name="环宇综合" ,环宇综合
+p8p://0198.02686.cc:16871/5f3802c0000567f14343ecae4c29c3d5.ts
+#EXTINF:-1 tvg-name="八大综合台" ,八大综合台
+p8p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
+#EXTINF:-1 tvg-name="八大第一台" ,八大第一台
+p8p://0198.02686.cc:16871/5f2e57da0005d0d41d805a59362e19d4.ts
+#EXTINF:-1 tvg-name="八大戏剧台" ,八大戏剧台
+p8p://0198.02686.cc:16871/5f2e6b2c000be7251dcbd438b8c78bf1.ts
+#EXTINF:-1 tvg-name="大爱一台" ,大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-name="卫视中文" ,卫视中文
+p8p://user3.shusongw.mobi:16871/5f2e5c380006bb4b1d9169c58f9b4abe
+#EXTINF:-1 tvg-name="卫视电影" ,卫视电影
+p8p://user3.shusongw.mobi:16871/5f2fa80600019b1b22a18525902e8b26
+#EXTINF:-1 tvg-name="卫视电影" ,卫视电影
+p8p://0198.02686.cc:16871/5f2fa80600019b1b22a18525902e8b26
+#EXTINF:-1 tvg-name="星卫电影" ,星卫电影
+p8p://user3.shusongw.mobi:16871/5f37c890000d9cd54260a3480355f72a
+#EXTINF:-1 tvg-name="星卫娱乐" ,星卫娱乐
+p8p://user3.shusongw.mobi:16871/5f37c3ba000066bb424dbbf647a52d9f
+#EXTINF:-1 tvg-name="爱尔达综合" ,爱尔达综合
+p8p://0198.02686.cc:16871/5f34c37c000e25333694cd4b4587389c.ts
+#EXTINF:-1 tvg-name="爱尔达影剧" ,爱尔达影剧
+p8p://user3.shusongw.mobi:16871/5f2e4f610009a2011d5f42ab61370430
+#EXTINF:-1 tvg-name="霹雳台湾台" ,霹雳台湾台
+p8p://0198.02686.cc:16871/5f2e545000015de51d72862642b4f8ab.ts
+#EXTINF:-1 tvg-name="民视新闻" ,民视新闻
+p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+#EXTINF:-1 tvg-name="年代新闻" ,年代新闻
+p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+#EXTINF:-1 tvg-name="年代新闻" ,年代新闻
+p6p://23.237.42.6:8080/5ee996ac00064b6202a0b64824a71497.ts
+#EXTINF:-1 tvg-name="壹新闻" ,壹新闻
+p8p://user3.shusongw.mobi:16871/5d1a69b6000b8d0a11bde706a99c146a
+#EXTINF:-1 tvg-name="国兴卫视" ,国兴卫视
+p8p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d.ts
+#EXTINF:-1 tvg-name="MoMo亲子台" ,MoMo亲子台
+p8p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
+#EXTINF:-1 tvg-name="FOX_亚洲频道" ,FOX_亚洲频道
+p8p://0198.02686.cc:16871/5f380ae10009d7fe4363aeb910bc02d4.ts
+#EXTINF:-1 tvg-name="FOX_电影频道" ,FOX_电影频道
+p8p://0198.02686.cc:16871/5f2facfc000be0b622b4e8b621e53cca.ts
+#EXTINF:-1 tvg-name="GoodTV_好消息台" ,GoodTV_好消息台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
