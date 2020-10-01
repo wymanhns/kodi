@@ -87,9 +87,9 @@ p8p://0198.02686.cc:16871/5f5464510006128c135ae3031d7bb649.ts
 p8p://0198.02686.cc:16871/5f2e5ac20001f0ec1d8bb39b46c4cc49.ts
 #EXTINF:-1 tvg-name="三立新闻" ,三立新闻
 p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
-#EXTINF:-1 tvg-name="TVBS_新闻台" ,TVBS_新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" ,TVBS新闻台
 p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-#EXTINF:-1 tvg-name="TVBS_欢乐台" ,TVBS_欢乐台
+#EXTINF:-1 tvg-name="TVBS欢乐台" ,TVBS欢乐台
 p8p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
 #EXTINF:-1 tvg-name="龙华戏剧" ,龙华戏剧
 p8p://user3.shusongw.mobi:16871/5f380947000effbb435d6e7b21bc4ac1
@@ -115,8 +115,8 @@ p8p://0198.02686.cc:16871/5f37dd090006077242b099ff9590d5b0.ts
 p8p://user3.shusongw.mobi:16871/5d4c07370004e10e9fd599bbf1aae42b
 #EXTINF:-1 tvg-name="博斯高球" ,博斯高球
 p8p://user3.shusongw.mobi:16871/5f37df8b0005a04e42ba65b5768af3d6
-#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
-p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+#EXTINF:-1 tvg-name="MoMo亲子台" ,MoMo亲子台
+p8p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
 #EXTINF:-1 tvg-name="中天综合" ,中天综合
 p8p://0198.02686.cc:16871/5f2e5d8000072f111d966b23e859debb.ts
 #EXTINF:-1 tvg-name="中天娱乐" ,中天娱乐
@@ -131,12 +131,14 @@ p8p://user3.shusongw.mobi:16871/5f2e56190004729f1d7980176b355250
 p8p://user3.shusongw.mobi:16871/5f37d15a000efba84282f8b2e586739c
 #EXTINF:-1 tvg-name="探索科学" ,探索科学
 p8p://user3.shusongw.mobi:16871/5f37d1f3000dbded42854e09147e692f
-#EXTINF:-1 tvg-name="东森综合" ,东森综合
-p8p://0198.02686.cc:16871/5f2e5cb3000e7cf41d934c39cec3dfb2.ts
+#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
+p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 p8p://user3.shusongw.mobi:16871/5d1a69c2000a678211be159b7e5802a8
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+#EXTINF:-1 tvg-name="东森综合" ,东森综合
+p8p://0198.02686.cc:16871/5f2e5cb3000e7cf41d934c39cec3dfb2.ts
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 p8p://0198.02686.cc:16871/5e68c8be000191b2047d9630d32efe6b.ts
 #EXTINF:-1 tvg-name="东森戏剧" ,东森戏剧
@@ -161,11 +163,11 @@ p8p://user3.shusongw.mobi:16871/5f34ca1f000a502236aeb9084d9c2802
 p8p://user3.shusongw.mobi:16871/5f37d0fb00088f51428183f5a24c108a
 #EXTINF:-1 tvg-name="地理野生" ,地理野生
 p8p://user3.shusongw.mobi:16871/5f37cf4000053244427ac0a15f6658f1
-#EXTINF:-1 tvg-name="EYETV_旅游台" ,EYETV_旅游台
+#EXTINF:-1 tvg-name="EYETV旅游台" ,EYETV旅游台
 p8p://0198.02686.cc:16871/5f37d838000ad036429dcad101035470.ts
-#EXTINF:-1 tvg-name="EYETV_戏剧台" ,EYETV_戏剧台
+#EXTINF:-1 tvg-name="EYETV戏剧台" ,EYETV戏剧台
 p8p://user3.shusongw.mobi:16871/5f37d8dc00062aca42a04a40e5f66359
-#EXTINF:-1 tvg-name="EYETV_戏剧台" ,EYETV_戏剧台
+#EXTINF:-1 tvg-name="EYETV戏剧台" ,EYETV戏剧台
 p8p://0198.02686.cc:16871/5f37d8dc00062aca42a04a40e5f66359
 #EXTINF:-1 tvg-name="靖洋戏剧" ,靖洋戏剧
 p8p://user3.shusongw.mobi:16871/5f380b85000d3460436630353478adac
@@ -217,11 +219,9 @@ p6p://23.237.42.6:8080/5ee996ac00064b6202a0b64824a71497.ts
 p8p://user3.shusongw.mobi:16871/5d1a69b6000b8d0a11bde706a99c146a
 #EXTINF:-1 tvg-name="国兴卫视" ,国兴卫视
 p8p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d.ts
-#EXTINF:-1 tvg-name="MoMo亲子台" ,MoMo亲子台
-p8p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
-#EXTINF:-1 tvg-name="FOX_亚洲频道" ,FOX_亚洲频道
+#EXTINF:-1 tvg-name="FOX亚洲频道" ,FOX亚洲频道
 p8p://0198.02686.cc:16871/5f380ae10009d7fe4363aeb910bc02d4.ts
-#EXTINF:-1 tvg-name="FOX_电影频道" ,FOX_电影频道
+#EXTINF:-1 tvg-name="FOX电影频道" ,FOX电影频道
 p8p://0198.02686.cc:16871/5f2facfc000be0b622b4e8b621e53cca.ts
-#EXTINF:-1 tvg-name="GoodTV_好消息台" ,GoodTV_好消息台
+#EXTINF:-1 tvg-name="好消息台" ,好消息台
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
