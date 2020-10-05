@@ -1,69 +1,271 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="凤凰中文台" ,凤凰中文台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯台" ,凤凰资讯台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-https://www.fanmingming.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-name="星空卫视" ,星空卫视
-rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-name="TVB翡翠台" ,TVB翡翠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 tvg-name="TVB明珠台" ,TVB明珠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-#EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门卫星" ,澳门卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门资讯" ,澳门资讯
-http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="亚视本港" ,亚视本港
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-name="新马-亚洲新闻" ,新马-亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="日本-日本新闻" ,日本-日本新闻
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-name="韩国-OCN" ,韩国-OCN
-http://live.yingtaotvapp.com/OCN/index.m3u8
-#EXTINF:-1 tvg-name="日本-NHK华语视界" ,日本-NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-name="日本-NHK日本国际" ,日本-NHK日本国际
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-name="韩国-韩国中央" ,韩国-韩国中央
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国-TJB_SBS" ,韩国-TJB_SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-name="韩国-SBS综合频道" ,韩国-SBS综合频道
-http://live.yingtaotvapp.com/SBS/index.m3u8
-#EXTINF:-1 tvg-name="韩国-MBC韩国频道" ,韩国-MBC韩国频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国-MBC韩国频道" ,韩国-MBC韩国频道
-http://live.yingtaotvapp.com/MBC/index.m3u8
-#EXTINF:-1 tvg-name="新马-RTM体育频道" ,新马-RTM体育频道
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS第一频道" ,韩国-EBS第一频道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS第二频道" ,韩国-EBS第二频道
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS加一频道" ,韩国-EBS加一频道
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS加二频道" ,韩国-EBS加二频道
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="韩国-EBS_E频道" ,韩国-EBS_E频道
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="卡塔尔-半岛新闻" ,卡塔尔-半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="阿联酋-迪拜卫视" ,阿联酋-迪拜卫视
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="阿联酋-迪拜赛马" ,阿联酋-迪拜赛马
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="韩国-KBS_1" ,韩国-KBS_1
-http://live.yingtaotvapp.com/KBS1/index.m3u8
-#EXTINF:-1 tvg-name="韩国-KBS_2" ,韩国-KBS_2
-http://live.yingtaotvapp.com/KBS2/index.m3u8
-#EXTINF:-1 tvg-name="韩国-SBS_Plus" ,韩国-SBS_Plus
-http://live.yingtaotvapp.com/SBSplus/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+https://www.fanmingming.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV2_财经" ,CCTV2_财经
+https://www.fanmingming.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2_财经" ,CCTV2_财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+https://www.fanmingming.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
+https://www.fanmingming.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5_体育" ,CCTV5_体育
+https://www.fanmingming.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5_体育" ,CCTV5_体育
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV6_电影" ,CCTV6_电影
+http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6_电影" ,CCTV6_电影
+https://www.fanmingming.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV6_电影" ,CCTV6_电影
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV7_军事" ,CCTV7_军事
+https://www.fanmingming.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7_军事" ,CCTV7_军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8_视剧" ,CCTV8_视剧
+https://www.fanmingming.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8_视剧" ,CCTV8_视剧
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV9_记录" ,CCTV9_记录
+https://www.fanmingming.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10_科教" ,CCTV10_科教
+http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+#EXTINF:-1 tvg-name="CCTV10_科教" ,CCTV10_科教
+https://www.fanmingming.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10_科教" ,CCTV10_科教
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV12_社会" ,CCTV12_社会
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12_社会" ,CCTV12_社会
+https://www.fanmingming.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12_社会" ,CCTV12_社会
+http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+#EXTINF:-1 tvg-name="CCTV14_少儿" ,CCTV14_少儿
+https://www.fanmingming.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14_少儿" ,CCTV14_少儿
+http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+https://www.fanmingming.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="北京文艺台" ,北京文艺台
+https://www.fanmingming.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京影视台" ,北京影视台
+https://www.fanmingming.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="北京新闻台" ,北京新闻台
+https://www.fanmingming.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实台" ,北京纪实台
+https://www.fanmingming.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+https://www.fanmingming.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="上海综合台" ,上海综合台
+http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="上海影视台" ,上海影视台
+http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="上海外语台" ,上海外语台
+http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="上海都市台" ,上海都市台
+http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
+https://www.fanmingming.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
+http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
+https://www.fanmingming.cn/hls/tjhd.m3u8
+#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8https://www.fanmingming.cn/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="柯桥综合台" ,柯桥综合台
+http://live.scbtv.cn/hls/news/index.m3u8
+#EXTINF:-1 tvg-name="柯桥时尚台" ,柯桥时尚台
+http://live.scbtv.cn/hls/qfc/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+https://www.fanmingming.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
+https://www.fanmingming.cn/hls/jxhd.m3u8
+#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
+https://www.fanmingming.cn/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
+http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
+http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
+https://www.fanmingming.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" ,快乐垂钓
+http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
+#EXTINF:-1 tvg-name="CGTN_环球国际" ,CGTN_环球国际
+https://www.fanmingming.cn/hls/cgtnhd.m3u8
+#EXTINF:-1 tvg-name="CETV_教育一台" ,CETV_教育一台
+http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+#EXTINF:-1 tvg-name="CETV_教育一台" ,CETV_教育一台
+https://www.fanmingming.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-name="CETV_教育一台" ,CETV_教育一台
+rtmp://58.200.131.2:1935/livetv/cetv1hd
+#EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
+http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
+http://ivi.bupt.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
+https://www.fanmingming.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-name="四川卫视" ,四川卫视
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+#EXTINF:-1 tvg-name="亚洲新闻-新加坡" ,亚洲新闻-新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="云南卫视" ,云南卫视
+http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-name="云南卫视" ,云南卫视
+http://39.130.215.158:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1 tvg-name="云南都市台" ,云南都市台
+http://39.130.215.166:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+#EXTINF:-1 tvg-name="云南影视台" ,云南影视台
+http://39.130.215.166:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1 tvg-name="云南娱乐台" ,云南娱乐台
+http://39.130.215.166:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1 tvg-name="云南公共台" ,云南公共台
+http://39.130.215.166:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1 tvg-name="云南少儿台" ,云南少儿台
+http://39.130.206.132:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+#EXTINF:-1 tvg-name="山东卫视" ,山东卫视
+https://www.fanmingming.cn/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视" ,山东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="山东卫视" ,山东卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/1.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁台" ,山东齐鲁台
+http://120.221.5.102:8089/PLTV/88888888/224/3221226045/index.m3u8
+#EXTINF:-1 tvg-name="山东影视台" ,山东影视台
+http://120.221.44.101:8089/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-name="山东教育台" ,山东教育台
+http://120.221.5.102:8089/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
+https://www.fanmingming.cn/hls/gdhd.m3u8
+#EXTINF:-1 tvg-name="广东卫视" ,广东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+https://www.fanmingming.cn/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+http://39.135.135.53/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="全纪实" ,全纪实
+http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="新视觉" ,新视觉
+http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV_怀旧剧场" ,CCTV_怀旧剧场
+https://www.fanmingming.cn/hls/hjjctv.m3u8
+#EXTINF:-1 tvg-name="CCTV_第一剧场" ,CCTV_第一剧场
+https://www.fanmingming.cn/hls/dyjctv.m3u8
+#EXTINF:-1 tvg-name="CCTV_兵器科技" ,CCTV_兵器科技
+https://www.fanmingming.cn/hls/gfjstv.m3u8
+#EXTINF:-1 tvg-name="CCTV_风云足球" ,CCTV_风云足球
+https://www.fanmingming.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 tvg-name="狗狗宠物-美国" ,狗狗宠物-美国
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-name="红牛运动-美国" ,红牛运动-美国
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
+https://www.fanmingming.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="河北卫视" ,河北卫视
+https://www.fanmingming.cn/hls/hebhd.m3u8
+#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
+http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
+https://www.fanmingming.cn/hls/dnhd.m3u8
+#EXTINF:-1 tvg-name="福州综合台" ,福州综合台
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" ,厦门卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+https://www.fanmingming.cn/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/1.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CHC_高清电影" ,CHC_高清电影
+https://www.fanmingming.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
+https://www.fanmingming.cn/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" ,内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 tvg-name="内蒙古综合" ,内蒙古综合
+http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+#EXTINF:-1 tvg-name="内蒙古农牧" ,内蒙古农牧
+http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+#EXTINF:-1 tvg-name="内蒙古娱乐" ,内蒙古娱乐
+http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语" ,内蒙古蒙语
+http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
+#EXTINF:-1 tvg-name="青海卫视" ,青海卫视
+http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-name="海南卫视" ,海南卫视
+http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" ,哈哈炫动
+http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" ,动漫秀场
+http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="纯享4K" ,纯享4K
+http://112.50.243.4/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-name="纯享4K" ,纯享4K
+http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="博斯魅力" ,博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-name="大爱一台" ,大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-name="大爱二台" ,大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="大爱海外" ,大爱海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-name="好消息台" ,好消息台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="民视新闻" ,民视新闻
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-name="民视新闻" ,民视新闻
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-name="探索频道" ,探索频道
+https://www.fanmingming.cn/hls/discovery.m3u8
+#EXTINF:-1 tvg-name="国家地理" ,国家地理
+https://www.fanmingming.cn/hls/natlgeo.m3u8
