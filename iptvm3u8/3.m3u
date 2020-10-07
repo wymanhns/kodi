@@ -253,31 +253,21 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="大爱海外" ,大爱海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-name="东森新闻" ,东森新闻
+p8p://user3.shusongw.mobi:16871/5d1a69c2000a678211be159b7e5802a8
+#EXTINF:-1 tvg-name="三立新闻" ,三立新闻
+p8p://user3.shusongw.mobi:16871/5d1a69ad0006fe8711bdc2b3f14f64be
+#EXTINF:-1 tvg-name="三立新闻" ,三立新闻
+p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 #EXTINF:-1 tvg-name="好消息台" ,好消息台
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 tvg-name="世新综合" ,世新综合
-http://61.58.60.230:9319/live/49.m3u8
-#EXTINF:-1 tvg-name="居家幸福" ,居家幸福
-http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1 tvg-name="民视新闻" ,民视新闻
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻" ,民视新闻
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-name="靖洋戏剧" ,靖洋戏剧
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-name="靖洋卡通" ,靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 tvg-name="靖天卡通" ,靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 tvg-name="靖天欢乐" ,靖天欢乐
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 tvg-name="靖天映画" ,靖天映画
-http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-name="靖天资讯" ,靖天资讯
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 tvg-name="靖天育乐" ,靖天育乐
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 tvg-name="靖天日本" ,靖天日本
-http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 tvg-name="靖天国际" ,靖天国际
-http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-name="中天新闻" ,中天新闻
+p8p://user3.shusongw.mobi:16871/5f2f9178000c4ec022496d33f280ef95
+#EXTINF:-1 tvg-name="TVBS新闻" ,TVBS新闻
+p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+#EXTINF:-1 tvg-name="TVBS新闻" ,TVBS新闻
+p8p://user3.shusongw.mobi:16871/5db05ca40003699da50b30c835589bf5
