@@ -287,3 +287,7 @@ p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 p8p://user3.shusongw.mobi:16871/5db05ca40003699da50b30c835589bf5
 #EXTINF:-1 tvg-name="TVBS欢乐台" ,TVBS欢乐台
 p8p://user3.shusongw.mobi:16871/5dbad7cb0007c9accdfc423fb19c38d1
+#EXTINF:-1 tvg-name="卫视中文台" ,卫视中文台
+p8p://user3.shusongw.mobi:16871/5f2e5c380006bb4b1d9169c58f9b4abe
+#EXTINF:-1 tvg-name="卫视电影台" ,卫视电影台
+p8p://user3.shusongw.mobi:16871/5f2fa80600019b1b22a18525902e8b26
