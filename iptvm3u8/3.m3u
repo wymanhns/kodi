@@ -56,6 +56,8 @@ http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225975/
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225600/2/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
@@ -69,6 +71,8 @@ http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海外语台" ,上海外语台
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
+#EXTINF:-1 tvg-name="上海外语台" ,上海外语台
+http://keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海外语台" ,上海外语台
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海都市台" ,上海都市台
@@ -245,6 +249,12 @@ http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 http://112.50.243.4/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-name="纯享4K" ,纯享4K
 http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="民视" ,民视
+http://45.11.2.138:25461/live/live/look/930.m3u8
+#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
+http://45.11.2.138:25461/live/live/look/931.m3u8
+#EXTINF:-1 tvg-name="民视第一台" ,民视第一台
+http://45.11.2.138:25461/live/live/look/936.m3u8
 #EXTINF:-1 tvg-name="博斯魅力" ,博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-name="大爱一台" ,大爱一台
@@ -265,6 +275,8 @@ p8p://user3.shusongw.mobi:16871/5f2fa872000eac4522a32e5e005f67a9
 p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 #EXTINF:-1 tvg-name="东森幼幼" ,东森幼幼
 p8p://user3.shusongw.mobi:16871/5d416a580007131b7660d3322e8b0a5f
+#EXTINF:-1 tvg-name="壹新闻" ,壹新闻
+http://45.11.2.138:25461/live/live/look/914.m3u8
 #EXTINF:-1 tvg-name="三立新闻" ,三立新闻
 p8p://user3.shusongw.mobi:16871/5d1a69ad0006fe8711bdc2b3f14f64be
 #EXTINF:-1 tvg-name="三立新闻" ,三立新闻
@@ -275,6 +287,8 @@ https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1
 p8p://user3.shusongw.mobi:16871/5e0f37bd00040a5217930a9af969bce1
 #EXTINF:-1 tvg-name="纬来电影" ,纬来电影
 p8p://user3.shusongw.mobi:16871/5d1a69ce0005e8e911be435423cf0509
+#EXTINF:-1 tvg-name="民视新闻" ,民视新闻
+http://45.11.2.138:25461/live/live/look/933.m3u8
 #EXTINF:-1 tvg-name="民视新闻" ,民视新闻
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻" ,民视新闻
@@ -287,7 +301,15 @@ p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 p8p://user3.shusongw.mobi:16871/5db05ca40003699da50b30c835589bf5
 #EXTINF:-1 tvg-name="TVBS欢乐台" ,TVBS欢乐台
 p8p://user3.shusongw.mobi:16871/5dbad7cb0007c9accdfc423fb19c38d1
+#EXTINF:-1 tvg-name="民视影剧台" ,民视影剧台
+http://45.11.2.138:25461/live/live/look/932.m3u8
+#EXTINF:-1 tvg-name="民视旅游台" ,民视旅游台
+http://45.11.2.138:25461/live/live/look/935.m3u8
+#EXTINF:-1 tvg-name="民视综艺台" ,民视综艺台
+http://45.11.2.138:25461/live/live/look/937.m3u8
 #EXTINF:-1 tvg-name="卫视中文台" ,卫视中文台
 p8p://user3.shusongw.mobi:16871/5f2e5c380006bb4b1d9169c58f9b4abe
 #EXTINF:-1 tvg-name="卫视电影台" ,卫视电影台
 p8p://user3.shusongw.mobi:16871/5f2fa80600019b1b22a18525902e8b26
+#EXTINF:-1 tvg-name="星卫电影台" ,星卫电影台
+p8p://user3.shusongw.mobi:16871/5f37c890000d9cd54260a3480355f72a
