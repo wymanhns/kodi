@@ -1,18 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226125/2.m3u8
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226030/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV2_财经" ,CCTV2_财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2_财经" ,CCTV2_财经
 http://39.134.185.234/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
-http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
