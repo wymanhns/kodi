@@ -171,6 +171,12 @@ rtmp://58.200.131.2:1935/livetv/hjjctv
 http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 tvg-name="CETV_教育一台" ,CETV_教育一台
 rtmp://58.200.131.2:1935/livetv/cetv1hd
+#EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
+http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
+#EXTINF:-1 tvg-name="①群233575667" ,①群233575667
+http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
+#EXTINF:-1 tvg-name="②群460178919" ,②群460178919
+http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
 #EXTINF:-1 tvg-name="上海◆" ,上海◆
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-name="上海‖点掌财经台" ,上海‖点掌财经台
