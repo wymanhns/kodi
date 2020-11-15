@@ -311,6 +311,8 @@ http://szlive.grtn.cn/lnxq/sd/live.m3u8
 http://player.200877926.top/1786/gd/gztv2m3u8.php?id=gzzh
 #EXTINF:-1 tvg-name="广东‖广州影视台" ,广东‖广州影视台
 http://player.200877926.top/1786/gd/gztv2m3u8.php?id=gzys
+#EXTINF:-1 tvg-name="广东‖南国都市台" ,广东‖南国都市台
+http://120.221.226.226/aplay.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-name="广东‖韶关综合台" ,广东‖韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-name="广东‖韶关公共台" ,广东‖韶关公共台
