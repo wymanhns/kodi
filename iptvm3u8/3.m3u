@@ -221,6 +221,8 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1 tvg-name="美亚电影(外网)" ,美亚电影(外网)
+http://50.7.75.18:61980/myplay/cn_1_11001/index.m3u8
 #EXTINF:-1 tvg-name="开放电视(外网)" ,开放电视(外网)
 http://livetv.dnsfor.me/channel.9.m3u8
 #EXTINF:-1 tvg-name="RHK_港视31台(外网)" ,RHK_港视31台(外网)
