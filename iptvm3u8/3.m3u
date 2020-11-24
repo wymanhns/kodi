@@ -209,9 +209,9 @@ rtmp://58.200.131.2:1935/livetv/startv
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-name="TVB_新闻台(外网)" ,TVB_新闻台(外网)
+#EXTINF:-1 tvg-name="TVB_新闻台_(外网)" ,TVB_新闻台_(外网)
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-name="TVB_财经台(外网)" ,TVB_财经台(外网)
+#EXTINF:-1 tvg-name="TVB_财经台_(外网)" ,TVB_财经台_(外网)
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" ,澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
@@ -221,21 +221,19 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-name="美亚电影(外网)" ,美亚电影(外网)
-http://50.7.75.18:61980/myplay/cn_1_11001/index.m3u8
-#EXTINF:-1 tvg-name="开放电视(外网)" ,开放电视(外网)
+#EXTINF:-1 tvg-name="开放电视_(外网)" ,开放电视_(外网)
 http://livetv.dnsfor.me/channel.9.m3u8
-#EXTINF:-1 tvg-name="RHK_港视31台(外网)" ,RHK_港视31台(外网)
+#EXTINF:-1 tvg-name="RHK_港视31台_(外网)" ,RHK_港视31台_(外网)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-name="RHK_港视32台(外网)" ,RHK_港视32台(外网)
+#EXTINF:-1 tvg-name="RHK_港视32台_(外网)" ,RHK_港视32台_(外网)
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-name="HKC_有线新闻(外网)" ,HKC_有线新闻(外网)
+#EXTINF:-1 tvg-name="HKC_有线新闻_(外网)" ,HKC_有线新闻_(外网)
 http://livetv.dnsfor.me/channel.5.m3u8
-#EXTINF:-1 tvg-name="HKC_有线财经(外网)" ,HKC_有线财经(外网)
+#EXTINF:-1 tvg-name="HKC_有线财经_(外网)" ,HKC_有线财经_(外网)
 http://livetv.dnsfor.me/channel.6.m3u8
-#EXTINF:-1 tvg-name="HKC_有线综合(外网)" ,HKC_有线综合(外网)
+#EXTINF:-1 tvg-name="HKC_有线综合_(外网)" ,HKC_有线综合_(外网)
 http://livetv.dnsfor.me/channel.7.m3u8
-#EXTINF:-1 tvg-name="NOW_新闻台(外网)" ,NOW_新闻台(外网)
+#EXTINF:-1 tvg-name="NOW_新闻台_(外网)" ,NOW_新闻台_(外网)
 http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-name="NOW_直播台(外网)" ,NOW_直播台(外网)
+#EXTINF:-1 tvg-name="NOW_直播台_(外网)" ,NOW_直播台_(外网)
 http://livetv.dnsfor.me/channel.3.m3u8
