@@ -230,9 +230,9 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-name="TVB_翡翠台_(临时)" ,TVB_翡翠台_(临时)
-https://ws.matchupstream.tuboshu.com/live/0ed605bcda82678fa7dc4be141dd2228.flv
+https://ws.matchupstream.tuboshu.com/live/e57f726553aefdf07f4dfbd5e901c5c5.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(临时)" ,TVB_新闻台_(临时)
-https://ws.matchupstream.tuboshu.com/live/0364aca95a7b429db14d00126d3308a3.flv
+https://ws.matchupstream.tuboshu.com/live/d2aee6baba6c7790f51336a0df4d2d8f.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(外网)" ,TVB_新闻台_(外网)
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-name="TVB_财经台_(外网)" ,TVB_财经台_(外网)
@@ -246,13 +246,13 @@ http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="TVB_J2台_(临时)" ,TVB_J2台_(临时)
-https://ws.matchupstream.tuboshu.com/live/ba2b178366c1b1665f3b562cca4057d4.flv
+https://ws.matchupstream.tuboshu.com/live/670b2e774c96b10088ef8d56eefb5f4d.flv
 #EXTINF:-1 tvg-name="港视31台_(外网)" ,港视31台_(外网)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-name="港视32台_(外网)" ,港视32台_(外网)
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-name="有线新闻_(临时)" ,有线新闻_(临时)
-https://ws.matchupstream.tuboshu.com/live/090b7890edb579ece505287453f7a747.flv
+https://ws.matchupstream.tuboshu.com/live/8b7596e8bfd0dd4dbe65a8450b9fc328.flv
 #EXTINF:-1 tvg-name="有线新闻_(外网)" ,有线新闻_(外网)
 http://livetv.dnsfor.me/channel.5.m3u8
 #EXTINF:-1 tvg-name="有线财经_(外网)" ,有线财经_(外网)
@@ -262,7 +262,7 @@ http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 tvg-name="开放电视_(外网)" ,开放电视_(外网)
 http://livetv.dnsfor.me/channel.9.m3u8
 #EXTINF:-1 tvg-name="有线603_(临时)" ,有线603_(临时)
-https://ws.matchupstream.tuboshu.com/live/1c5c0df33ba5ba3bc67aa64ed8780b66.flv
+https://ws.matchupstream.tuboshu.com/live/42c8fab30846d86b7dc871f4af37575c.flv
 #EXTINF:-1 tvg-name="NOW新闻台_(临时)" ,NOW新闻台_(临时)
 https://ws.matchupstream.tuboshu.com/live/851b1da86fd3de0b4c7d66cd56f98034.flv
 #EXTINF:-1 tvg-name="NOW新闻台_(外网)" ,NOW新闻台_(外网)
@@ -270,4 +270,4 @@ http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:-1 tvg-name="NOW直播台_(外网)" ,NOW直播台_(外网)
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-name="VIU_TV_(临时)" ,VIU_TV_(临时)
-https://ws.matchupstream.tuboshu.com/live/b5603adfa9d26250e915ba9325806022.flv
+https://ws.matchupstream.tuboshu.com/live/7ce0ae0c45d3e9af2e5f756cc1b1521a.flv
