@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
@@ -13,20 +15,32 @@ http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
 http://121.31.30.91:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3_综艺" ,CCTV3_综艺
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=4493204828580187354&AuthInfo=zmDeINsczUw+XOm6icTIplPJYM0PdJZ7nyJeCqAhmgD4h2W12vkSCe+w8qoQi5/j1BMuqFcEHMRAJlgQD47XRVqqHN3O4Si9Wv7MjAX+8AK0eHLMDmPByGK0oSB43DB7
+#EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
+http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4_国际" ,CCTV4_国际
 http://121.31.30.87:8085/ysten-business/live/cctv-4/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5_体育" ,CCTV5_体育
 http://121.31.30.91:8085/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5_体育" ,CCTV5_体育
+http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV6_电影" ,CCTV6_电影
 http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6_电影" ,CCTV6_电影
+http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV7_军事" ,CCTV7_军事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7_军事" ,CCTV7_军事
+http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-name="CCTV8_视剧" ,CCTV8_视剧
 http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8_视剧" ,CCTV8_视剧
+http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-name="CCTV9_记录" ,CCTV9_记录
 http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10_科教" ,CCTV10_科教
@@ -182,17 +196,23 @@ http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
 #EXTINF:-1 tvg-name="凤凰中文台" ,凤凰中文台
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1 tvg-name="凤凰中文台" ,凤凰中文台
+https://player.ggiptv.com/v/ifeng.php?id=2
+#EXTINF:-1 tvg-name="凤凰中文台" ,凤凰中文台
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-name="凤凰中文台(备)" ,凤凰中文台(备)
+#EXTINF:-1 tvg-name="凤凰中文台(备用)" ,凤凰中文台(备用)
 http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯台" ,凤凰资讯台
 https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯台" ,凤凰资讯台
 rtmp://58.200.131.2:1935/livetv/fhzx
-#EXTINF:-1 tvg-name="凤凰资讯台(备)" ,凤凰资讯台(备)
+#EXTINF:-1 tvg-name="凤凰资讯台" ,凤凰资讯台
+https://player.ggiptv.com/v/ifeng.php?id=1
+#EXTINF:-1 tvg-name="凤凰资讯台(备用)" ,凤凰资讯台(备用)
 http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
 http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-2.m3u8
+#EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
+http://player.ggiptv.com:13164/v/hkcxw.m3u8
 #EXTINF:-1 tvg-name="HKC_财经资讯" ,HKC_财经资讯
 http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
 #EXTINF:-1 tvg-name="HKC_有线娱乐" ,HKC_有线娱乐
@@ -209,6 +229,10 @@ rtmp://58.200.131.2:1935/livetv/startv
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-name="TVB_翡翠台_(临时)" ,TVB_翡翠台_(临时)
+https://ws.matchupstream.tuboshu.com/live/0ed605bcda82678fa7dc4be141dd2228.flv
+#EXTINF:-1 tvg-name="TVB_新闻台_(临时)" ,TVB_新闻台_(临时)
+https://ws.matchupstream.tuboshu.com/live/0364aca95a7b429db14d00126d3308a3.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(外网)" ,TVB_新闻台_(外网)
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-name="TVB_财经台_(外网)" ,TVB_财经台_(外网)
@@ -223,16 +247,22 @@ http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="开放电视_(外网)" ,开放电视_(外网)
 http://livetv.dnsfor.me/channel.9.m3u8
+#EXTINF:-1 tvg-name="TVB_J2台_(临时)" ,TVB_J2台_(临时)
+https://ws.matchupstream.tuboshu.com/live/ba2b178366c1b1665f3b562cca4057d4.flv
 #EXTINF:-1 tvg-name="RHK_港视31台_(外网)" ,RHK_港视31台_(外网)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-name="RHK_港视32台_(外网)" ,RHK_港视32台_(外网)
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 tvg-name="HKC_有线新闻_(临时)" ,HKC_有线新闻_(临时)
+https://ws.matchupstream.tuboshu.com/live/090b7890edb579ece505287453f7a747.flv
 #EXTINF:-1 tvg-name="HKC_有线新闻_(外网)" ,HKC_有线新闻_(外网)
 http://livetv.dnsfor.me/channel.5.m3u8
 #EXTINF:-1 tvg-name="HKC_有线财经_(外网)" ,HKC_有线财经_(外网)
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-name="HKC_有线综合_(外网)" ,HKC_有线综合_(外网)
 http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 tvg-name="NOW_新闻台_(临时)" ,NOW_新闻台_(临时)
+https://ws.matchupstream.tuboshu.com/live/851b1da86fd3de0b4c7d66cd56f98034.flv
 #EXTINF:-1 tvg-name="NOW_新闻台_(外网)" ,NOW_新闻台_(外网)
 http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:-1 tvg-name="NOW_直播台_(外网)" ,NOW_直播台_(外网)
