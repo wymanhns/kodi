@@ -209,13 +209,13 @@ rtmp://58.200.131.2:1935/livetv/fhzx
 https://player.ggiptv.com/v/ifeng.php?id=1
 #EXTINF:-1 tvg-name="凤凰资讯台(备用)" ,凤凰资讯台(备用)
 http://live.centerch.com/fhzx.m3u8
-#EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-2.m3u8
-#EXTINF:-1 tvg-name="HKC_有线新闻" ,HKC_有线新闻
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-name="有线新闻台" group-title="香港电视台",有线新闻台
 http://player.ggiptv.com:13164/v/hkcxw.m3u8
-#EXTINF:-1 tvg-name="HKC_财经资讯" ,HKC_财经资讯
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" tvg-name="有线财经资讯台" group-title="香港电视台",有线财经资讯台
 http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
-#EXTINF:-1 tvg-name="HKC_有线娱乐" ,HKC_有线娱乐
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Skdax1wlmiOnSvCkudVBwmC4YgU04n0cv0MWnMhtkvUxEKuW" tvg-name="有线娛樂台" group-title="香港电视台",有线娛樂台
 http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="HKS" group-title="香港电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -245,25 +245,29 @@ http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-name="开放电视_(外网)" ,开放电视_(外网)
-http://livetv.dnsfor.me/channel.9.m3u8
 #EXTINF:-1 tvg-name="TVB_J2台_(临时)" ,TVB_J2台_(临时)
 https://ws.matchupstream.tuboshu.com/live/ba2b178366c1b1665f3b562cca4057d4.flv
-#EXTINF:-1 tvg-name="RHK_港视31台_(外网)" ,RHK_港视31台_(外网)
+#EXTINF:-1 tvg-name="港视31台_(外网)" ,港视31台_(外网)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-name="RHK_港视32台_(外网)" ,RHK_港视32台_(外网)
+#EXTINF:-1 tvg-name="港视32台_(外网)" ,港视32台_(外网)
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-name="HKC_有线新闻_(临时)" ,HKC_有线新闻_(临时)
+#EXTINF:-1 tvg-name="有线新闻_(临时)" ,有线新闻_(临时)
 https://ws.matchupstream.tuboshu.com/live/090b7890edb579ece505287453f7a747.flv
-#EXTINF:-1 tvg-name="HKC_有线新闻_(外网)" ,HKC_有线新闻_(外网)
+#EXTINF:-1 tvg-name="有线新闻_(外网)" ,有线新闻_(外网)
 http://livetv.dnsfor.me/channel.5.m3u8
-#EXTINF:-1 tvg-name="HKC_有线财经_(外网)" ,HKC_有线财经_(外网)
+#EXTINF:-1 tvg-name="有线财经_(外网)" ,有线财经_(外网)
 http://livetv.dnsfor.me/channel.6.m3u8
-#EXTINF:-1 tvg-name="HKC_有线综合_(外网)" ,HKC_有线综合_(外网)
+#EXTINF:-1 tvg-name="有线综合_(外网)" ,有线综合_(外网)
 http://livetv.dnsfor.me/channel.7.m3u8
-#EXTINF:-1 tvg-name="NOW_新闻台_(临时)" ,NOW_新闻台_(临时)
+#EXTINF:-1 tvg-name="开放电视_(外网)" ,开放电视_(外网)
+http://livetv.dnsfor.me/channel.9.m3u8
+#EXTINF:-1 tvg-name="有线603_(临时)" ,有线603_(临时)
+https://ws.matchupstream.tuboshu.com/live/1c5c0df33ba5ba3bc67aa64ed8780b66.flv
+#EXTINF:-1 tvg-name="NOW新闻台_(临时)" ,NOW新闻台_(临时)
 https://ws.matchupstream.tuboshu.com/live/851b1da86fd3de0b4c7d66cd56f98034.flv
-#EXTINF:-1 tvg-name="NOW_新闻台_(外网)" ,NOW_新闻台_(外网)
+#EXTINF:-1 tvg-name="NOW新闻台_(外网)" ,NOW新闻台_(外网)
 http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-name="NOW_直播台_(外网)" ,NOW_直播台_(外网)
+#EXTINF:-1 tvg-name="NOW直播台_(外网)" ,NOW直播台_(外网)
 http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 tvg-name="VIU_TV_(临时)" ,VIU_TV_(临时)
+https://ws.matchupstream.tuboshu.com/live/b5603adfa9d26250e915ba9325806022.flv
