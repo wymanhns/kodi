@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
-http://player.200877926.top/1786/fj/fjtvm3u8.php?id=212
-#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://stream4.jlntv.cn/cctv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
+http://player.200877926.top/1786/fj/fjtvm3u8.php?id=212
 #EXTINF:-1 tvg-name="CCTV1_综合" ,CCTV1_综合
 http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2_财经" ,CCTV2_财经
@@ -169,8 +169,8 @@ http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
 http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" ,甘肃卫视
-http://stream.gstv.com.cn/gsws/playlist.m3u8
+#EXTINF:-1 tvg-name="海南卫视" ,海南卫视
+http://hdtv.haust.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-name="海南卫视" ,海南卫视
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" ,三沙卫视
@@ -186,11 +186,11 @@ http://39.134.186.42/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-name="CCTV_4K超高清" ,CCTV_4K超高清
 http://112.17.40.211/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV_怀旧剧场" ,CCTV_怀旧剧场
-rtmp://58.200.131.2:1935/livetv/hjjctv
+http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
 #EXTINF:-1 tvg-name="CETV_教育一台" ,CETV_教育一台
 http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 tvg-name="CETV_教育一台" ,CETV_教育一台
-rtmp://58.200.131.2:1935/livetv/cetv1hd
+http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
@@ -234,11 +234,11 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-name="TVB_翡翠台_(临时)" ,TVB_翡翠台_(临时)
-https://ws.matchupstream.tuboshu.com/live/5725c4b127331717c6adb4d1b41401ff.flv
+https://ws.matchupstream.tuboshu.com/live/2490dd95523ccf51eed95d77d6454109.flv
 #EXTINF:-1 tvg-name="TVB_明珠台_(临时)" ,TVB_明珠台_(临时)
-https://ws.matchupstream.tuboshu.com/live/22008d75be2701322308b086c5c1edb6.flv
+https://ws.matchupstream.tuboshu.com/live/9e191a2321db3ff3338198dcfde2399a.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(临时)" ,TVB_新闻台_(临时)
-https://ws.matchupstream.tuboshu.com/live/ed5bff48c03e373116836edf5771036a.flv
+https://ws.matchupstream.tuboshu.com/live/35e9a605cebddaa43f4703fdb8b76e51.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(外网)" ,TVB_新闻台_(外网)
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-name="TVB_财经台_(外网)" ,TVB_财经台_(外网)
@@ -252,7 +252,7 @@ http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="TVB_J2台_(临时)" ,TVB_J2台_(临时)
-https://ws.matchupstream.tuboshu.com/live/34aa83317b12018bbf11d5d156acd2ef.flv
+https://ws.matchupstream.tuboshu.com/live/8f1df0c727bc35d288cccae7bde6d9f9.flv
 #EXTINF:-1 tvg-name="港视31台_(外网)" ,港视31台_(外网)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-name="港视32台_(外网)" ,港视32台_(外网)
