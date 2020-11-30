@@ -234,11 +234,11 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-name="TVB_翡翠台" ,TVB_翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-name="TVB_翡翠台_(临时)" ,TVB_翡翠台_(临时)
-https://ws.matchupstream.tuboshu.com/live/2490dd95523ccf51eed95d77d6454109.flv
+https://ws.matchupstream.tuboshu.com/live/997760bb62aaf66ab5acc6d30bf88835.flv
 #EXTINF:-1 tvg-name="TVB_明珠台_(临时)" ,TVB_明珠台_(临时)
-https://ws.matchupstream.tuboshu.com/live/9e191a2321db3ff3338198dcfde2399a.flv
+https://ws.matchupstream.tuboshu.com/live/85bdfb9c441c8789400284ad46cdfc62.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(临时)" ,TVB_新闻台_(临时)
-https://ws.matchupstream.tuboshu.com/live/35e9a605cebddaa43f4703fdb8b76e51.flv
+https://ws.matchupstream.tuboshu.com/live/8976e0def79c76d115b2afa9e7daceda.flv
 #EXTINF:-1 tvg-name="TVB_新闻台_(外网)" ,TVB_新闻台_(外网)
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-name="TVB_财经台_(外网)" ,TVB_财经台_(外网)
@@ -252,7 +252,7 @@ http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="亚视本港" ,亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-name="TVB_J2台_(临时)" ,TVB_J2台_(临时)
-https://ws.matchupstream.tuboshu.com/live/8f1df0c727bc35d288cccae7bde6d9f9.flv
+https://ws.matchupstream.tuboshu.com/live/32490f5ca8d00afc9ded8843b221e4f2.flv
 #EXTINF:-1 tvg-name="港视31台_(外网)" ,港视31台_(外网)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-name="港视32台_(外网)" ,港视32台_(外网)
@@ -266,7 +266,7 @@ http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 tvg-name="开放电视_(外网)" ,开放电视_(外网)
 http://livetv.dnsfor.me/channel.9.m3u8
 #EXTINF:-1 tvg-name="NOW新闻台_(临时)" ,NOW新闻台_(临时)
-https://ws.matchupstream.tuboshu.com/live/6847d8ce2388064d8949ab229508ef93.flv
+https://ws.matchupstream.tuboshu.com/live/3273a44261fdb30e5cd5c482e0a27fb9.flv
 #EXTINF:-1 tvg-name="NOW新闻台_(外网)" ,NOW新闻台_(外网)
 http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:-1 tvg-name="NOW直播台_(外网)" ,NOW直播台_(外网)
