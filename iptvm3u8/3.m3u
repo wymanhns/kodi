@@ -45,8 +45,6 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u
 http://hw-m-l.cztv.com/channels/lantian/channel01/720p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
 http://121.31.30.87:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://111.40.205.70/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-name="福建卫视" ,福建卫视
 http://player.200877926.top/1786/fj/fjtvm3u8.php?id=5
 #EXTINF:-1 tvg-name="福建卫视" ,福建卫视
@@ -165,7 +163,7 @@ http://182.138.51.71/PLTV/88888920/224/3221225605/index.m3u8
 http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+#EXTINF:-1 tvg-name="吉林卫视" ,吉林卫视
 http://101.71.255.229:6610/zjhs/2/10149/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
 http://stream3.hljtv.com/hljws2/sd/live.m3u8
@@ -175,8 +173,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
 http://101.71.255.229:6610/zjhs/2/10151/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
-#EXTINF:-1 tvg-name="海南卫视" ,海南卫视
-http://hdtv.haust.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-name="海南卫视" ,海南卫视
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-name="海南卫视" ,海南卫视
