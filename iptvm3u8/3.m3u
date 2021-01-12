@@ -189,8 +189,6 @@ http://ivi.bupt.edu.cn/hls/sstv.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱二台" ,大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="博斯魅力" ,博斯魅力
-rtmp://59.124.75.157/sat/md021
 #EXTINF:-1 tvg-name="民视" ,民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-name="台视" ,台视
@@ -206,9 +204,9 @@ rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻" ,中视新闻
-https://ws.matchupstream.tuboshu.com/live/f7fd925be39144b2f4037b9666b09dec.flv
+https://ws.matchupstream.tuboshu.com/live/394478e726c19298c16ea38787d31f0e.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-https://ws.matchupstream.tuboshu.com/live/29a1cadbd90f5a02edbd0d13211609f0.flv
+https://ws.matchupstream.tuboshu.com/live/9f59a1fbc9c940677a42b082d077ac19.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
