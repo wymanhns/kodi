@@ -202,9 +202,9 @@ rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻" ,中视新闻
-https://ws.matchupstream.tuboshu.com/live/041801fec2045158c5c71c418d8a5995.flv
+https://ws.matchupstream.tuboshu.com/live/15fe3b1ecb5431a1ea1eebfa34341736.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-https://ws.matchupstream.tuboshu.com/live/09116a07e60535e88073854b34c7457e.flv
+https://ws.matchupstream.tuboshu.com/live/9e42bb71eea1cbfebeaeab677256269a.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
