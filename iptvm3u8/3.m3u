@@ -188,6 +188,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱二台" ,大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="民视" ,民视
+http://cdn.elibei.com/pull/index/pinyin/twms
+#EXTINF:-1 tvg-name="民视" ,民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-name="台视" ,台视
 rtmp://59.124.75.156/sat/tv071
@@ -195,14 +197,14 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
-https://ws.matchupstream.tuboshu.com/live/c9370c475f95f5be1d3f8d56d6f9df42.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
+https://ws.matchupstream.tuboshu.com/live/c9370c475f95f5be1d3f8d56d6f9df42.flv
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
 https://ws.matchupstream.tuboshu.com/live/a37c2d0c6bab4eeb2a371264b3de8b27.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
@@ -218,17 +220,23 @@ https://ws.matchupstream.tuboshu.com/live/a1c625782a9110c1c746dce6775f4a94.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾台" ,三立台湾台
-https://ws.matchupstream.tuboshu.com/live/5dbef294d46d0cd07aff2754deec18cc.flv
+https://ws.matchupstream.tuboshu.com/live/c26f3a3fe3155668a315a24600291d1b.flv
+#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
+http://cdn.elibei.com/pull/index/pinyin/twmstw
+#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
+rtmp://59.124.75.157/sat/md051
+#EXTINF:-1 tvg-name="民视第一台" ,民视第一台
+http://cdn.elibei.com/pull/index/pinyin/twmsdy
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 tvg-name="纬来体育" ,纬来体育
+https://ws.matchupstream.tuboshu.com/live/28e2271992810a94e3f0dd6f48c707b9.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
 rtmp://59.124.75.157/sat/tv761
-#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
-rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-name="东森新闻·" ,东森新闻·
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
@@ -238,7 +246,11 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
+https://ws.matchupstream.tuboshu.com/live/0f8210ce7d6f3a04539a3c4ffa8d561c.flv
+#EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
 http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
+http://cdn.elibei.com/pull/index/pinyin/twmsxw
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
