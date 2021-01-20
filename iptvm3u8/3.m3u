@@ -195,16 +195,18 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
+#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
+https://ws.matchupstream.tuboshu.com/live/c9370c475f95f5be1d3f8d56d6f9df42.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-name="中视新闻" ,中视新闻
-https://ws.matchupstream.tuboshu.com/live/31cd0cb15386be614818c48b36b624a9.flv
+#EXTINF:-1 tvg-name="中天新闻" ,中天新闻
+https://ws.matchupstream.tuboshu.com/live/a37c2d0c6bab4eeb2a371264b3de8b27.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-https://ws.matchupstream.tuboshu.com/live/951089c2fb8d0290179ea4d3caf40f85.flv
+https://ws.matchupstream.tuboshu.com/live/caf5c79fc611df706aa57a0a702f8cf0.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
@@ -212,9 +214,11 @@ rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
+https://ws.matchupstream.tuboshu.com/live/a1c625782a9110c1c746dce6775f4a94.flv
+#EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾台" ,三立台湾台
-https://ws.matchupstream.tuboshu.com/live/7a7e818dab2b7b0fbe671ff1e8e81120.flv
+https://ws.matchupstream.tuboshu.com/live/5dbef294d46d0cd07aff2754deec18cc.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
@@ -228,6 +232,8 @@ rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-name="东森新闻·" ,东森新闻·
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
+https://ws.matchupstream.tuboshu.com/live/21b08f781e17460b40c1c7741229ad30.flv
+#EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
 http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -239,6 +245,8 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
+https://ws.matchupstream.tuboshu.com/live/c86a655470e6ea4b79234d3e1053a995.flv
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
