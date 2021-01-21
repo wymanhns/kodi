@@ -197,6 +197,8 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
+#EXTINF:-1 tvg-name="TVBS·综合台" ,TVBS·综合台
+http://cdn.elibei.com/pull/index/pinyin/twtvbs
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
@@ -214,7 +216,11 @@ http://cdn.elibei.com/pull/index/pinyin/twdsxw
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
+http://cdn.elibei.com/pull/index/pinyin/twdscjxw
+#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
+http://cdn.elibei.com/pull/index/pinyin/twslinews
 #EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
