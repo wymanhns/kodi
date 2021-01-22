@@ -197,6 +197,8 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
+#EXTINF:-1 tvg-name="公视" ,公视
+https://ws.matchupstream.tuboshu.com/live/fae44619ea6f80f93a5584e096608f65.flv
 #EXTINF:-1 tvg-name="TVBS·综合台" ,TVBS·综合台
 http://cdn.elibei.com/pull/index/pinyin/twtvbs
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
@@ -228,7 +230,7 @@ http://cdn.elibei.com/pull/index/pinyin/twsllive
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾台" ,三立台湾台
-https://ws.matchupstream.tuboshu.com/live/1a81fb9febf50c42541bdfc8e05988ff.flv
+https://ws.matchupstream.tuboshu.com/live/14314dceeeb189aa277de93b102e455f.flv
 #EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
 http://cdn.elibei.com/pull/index/pinyin/twmstw
 #EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
@@ -238,7 +240,7 @@ http://cdn.elibei.com/pull/index/pinyin/twmsdy
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
-https://ws.matchupstream.tuboshu.com/live/25285754644debbf353a381514fce831.flv
+https://ws.matchupstream.tuboshu.com/live/61f3464d27d27e43133f52d21a1acecc.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
