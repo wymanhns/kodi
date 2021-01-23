@@ -215,6 +215,8 @@ http://cdn.elibei.com/pull/index/pinyin/twhyxw
 http://cdn.elibei.com/pull/index/pinyin/twztxw
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 http://cdn.elibei.com/pull/index/pinyin/twdsxw
+#EXTINF:-1 tvg-name="东森新闻" ,东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
@@ -229,13 +231,13 @@ http://seb.sason.top/sc/slinews_fhd.m3u8
 http://cdn.elibei.com/pull/index/pinyin/twsllive
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-name="三立台湾台" ,三立台湾台
+#EXTINF:-1 tvg-name="三立台湾" ,三立台湾
 https://ws.matchupstream.tuboshu.com/live/14314dceeeb189aa277de93b102e455f.flv
-#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
+#EXTINF:-1 tvg-name="民视台湾" ,民视台湾
 http://cdn.elibei.com/pull/index/pinyin/twmstw
-#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
+#EXTINF:-1 tvg-name="民视台湾" ,民视台湾
 rtmp://59.124.75.157/sat/md051
-#EXTINF:-1 tvg-name="民视第一台" ,民视第一台
+#EXTINF:-1 tvg-name="民视第一" ,民视第一
 http://cdn.elibei.com/pull/index/pinyin/twmsdy
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
@@ -247,8 +249,6 @@ rtmp://59.124.75.156/sat/tv721
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
 rtmp://59.124.75.157/sat/tv761
-#EXTINF:-1 tvg-name="东森新闻·" ,东森新闻·
-http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 http://cdn.elibei.com/pull/index/pinyin/twtsxw
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
