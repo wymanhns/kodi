@@ -232,7 +232,7 @@ http://cdn.elibei.com/pull/index/pinyin/twsllive
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/1c374d816920a6b0cd4367ded99c8327.flv
+https://ws.matchupstream.tuboshu.com/live/84204a3abb5a3560213c5c59d581d0a0.flv
 #EXTINF:-1 tvg-name="民视台湾" ,民视台湾
 http://cdn.elibei.com/pull/index/pinyin/twmstw
 #EXTINF:-1 tvg-name="民视台湾" ,民视台湾
@@ -241,6 +241,8 @@ rtmp://59.124.75.157/sat/md051
 http://cdn.elibei.com/pull/index/pinyin/twmsdy
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 tvg-name="纬来体育" ,纬来体育
+https://v3948069e.live.126.net/live/cd8c9e243bc2b6ea7fd73f0111171393.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
