@@ -202,7 +202,7 @@ rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="公视" ,公视
-https://flv3948069e.live.126.net/live/52e2a61cba94ab078870f0b17b2d0352.flv
+https://ws.matchupstream.tuboshu.com/live/71957aaecae88d47a1946eff09ab4989.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
@@ -261,6 +261,8 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
+https://flv3948069e.live.126.net/live/217b85376ec3c8bf70362f430fc88d18.flv
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
