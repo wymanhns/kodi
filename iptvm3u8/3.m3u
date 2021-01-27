@@ -188,57 +188,47 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱二台" ,大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="民视" ,民视
-http://cdn.elibei.com/pull/index/pinyin/twms
+https://ws.matchupstream.tuboshu.com/live/9dac468bfe78b3f1280473d8b512f057.flv
 #EXTINF:-1 tvg-name="民视" ,民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-name="台视" ,台视
 rtmp://59.124.75.156/sat/tv071
+#EXTINF:-1 tvg-name="台视" ,台视
+https://v3948069e.live.126.net/live/5be3286c2f3ce1daf63fa8d9c6449d86.flv
+#EXTINF:-1 tvg-name="中视" ,中视
+https://v3948069e.live.126.net/live/655026ee39fc1e6366c4a9666de82e65.flv
 #EXTINF:-1 tvg-name="中视" ,中视
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="公视" ,公视
 https://flv3948069e.live.126.net/live/52e2a61cba94ab078870f0b17b2d0352.flv
-#EXTINF:-1 tvg-name="TVBS·综合台" ,TVBS·综合台
-http://cdn.elibei.com/pull/index/pinyin/twtvbs
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
-http://cdn.elibei.com/pull/index/pinyin/twtvbsxw
+https://flv3948069e.live.126.net/live/b542d0b10e3e58af414f1c8beea55350.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
-http://cdn.elibei.com/pull/index/pinyin/twhyxw
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
-http://cdn.elibei.com/pull/index/pinyin/twztxw
+https://ws.matchupstream.tuboshu.com/live/382bd59b07032207546332af87a72d6a.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-http://cdn.elibei.com/pull/index/pinyin/twdsxw
+https://ws.matchupstream.tuboshu.com/live/c3ce0b38ca2b6a4689ff4a2ac314990a.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
-http://cdn.elibei.com/pull/index/pinyin/twdscjxw
-#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
-#EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
-http://cdn.elibei.com/pull/index/pinyin/twslinews
 #EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
-http://cdn.elibei.com/pull/index/pinyin/twsllive
+https://ws.matchupstream.tuboshu.com/live/0c6b1b87bb356a86573506aa7e22ffc3.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/84204a3abb5a3560213c5c59d581d0a0.flv
-#EXTINF:-1 tvg-name="民视台湾" ,民视台湾
-http://cdn.elibei.com/pull/index/pinyin/twmstw
-#EXTINF:-1 tvg-name="民视台湾" ,民视台湾
-rtmp://59.124.75.157/sat/md051
-#EXTINF:-1 tvg-name="民视第一" ,民视第一
-http://cdn.elibei.com/pull/index/pinyin/twmsdy
+https://ws.matchupstream.tuboshu.com/live/8406c480f90601748f9c731d98f9bf3d.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
@@ -250,27 +240,25 @@ rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
 rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
-http://cdn.elibei.com/pull/index/pinyin/twtsxw
+https://ws.matchupstream.tuboshu.com/live/ba87e3f31d509cd6bf94ac88ba9ab316.flv
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
-http://cdn.elibei.com/pull/index/pinyin/twzsxw
+https://ws.matchupstream.tuboshu.com/live/aca96a3cc9db141286630c4603cb0c39.flv
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
-http://cdn.elibei.com/pull/index/pinyin/twhsxw
+https://ws.matchupstream.tuboshu.com/live/5ad063c6b9306cccc5d6cb8fd80c931b.flv
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-http://cdn.elibei.com/pull/index/pinyin/twmsxw
+https://ws.matchupstream.tuboshu.com/live/677a2bde85396762460d05102eaa0ffd.flv
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
-http://cdn.elibei.com/pull/index/pinyin/twyxw
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
