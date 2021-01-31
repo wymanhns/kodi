@@ -190,25 +190,25 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="民视" ,民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-name="民视" ,民视
-https://ws.matchupstream.tuboshu.com/live/d1a5544d89ad39e43ececacacb654571.flv
+https://ws.matchupstream.tuboshu.com/live/9a976564c75aa20cdb6da7a907c4ced4.flv
 #EXTINF:-1 tvg-name="台视" ,台视
 rtmp://59.124.75.156/sat/tv071
 #EXTINF:-1 tvg-name="台视" ,台视
-https://ws.matchupstream.tuboshu.com/live/8b6a700c5e80f686a99cb54474f5a9fe.flv
+https://ws.matchupstream.tuboshu.com/live/331143209c15ab5b8cfe940eb2f3eafb.flv
 #EXTINF:-1 tvg-name="中视" ,中视
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="中视" ,中视
-https://ws.matchupstream.tuboshu.com/live/79c14d58ed369eb4f6d8a3e0f5440fdc.flv
+https://ws.matchupstream.tuboshu.com/live/dad7f8be1b960da093dd45d7e50a3989.flv
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="华视" ,华视
-https://ws.matchupstream.tuboshu.com/live/e9d45b03013650650d8cd9f02e0952e0.flv
+https://ws.matchupstream.tuboshu.com/live/8a2713942dfcc43cded3afd6c7a78343.flv
+#EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
+https://ws.matchupstream.tuboshu.com/live/ca0672a59b19e94a794eca9eea1d10fb.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
-https://ws.matchupstream.tuboshu.com/live/2fb56b6cd75f902eaf6d8e04d7805bbe.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
-https://ws.matchupstream.tuboshu.com/live/096f0a60c4f8f680baeff93dd369adb0.flv
+https://ws.matchupstream.tuboshu.com/live/a5491241bb5fad9e891314ec8e07793a.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
@@ -222,13 +222,11 @@ https://ws.matchupstream.tuboshu.com/live/171807fee829f64a80c7d4e77449b971.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
-https://ws.matchupstream.tuboshu.com/live/5940e199c4d8956a1f2c2c921e040d86.flv
-#EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
-https://ws.matchupstream.tuboshu.com/live/e12b12843590f52d3622683b9c416590.flv
-#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
+https://ws.matchupstream.tuboshu.com/live/8f45bc53ad9b7885a702d73e280980e5.flv
 #EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
@@ -236,11 +234,11 @@ https://ws.matchupstream.tuboshu.com/live/138f1aabefce05ac859c8ed3c7052e45.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/d2a5a398d0bb95aa3dba952096f756ed.flv
+https://ws.matchupstream.tuboshu.com/live/5f0882447a5640f747bf022cca45c71e.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
-https://ws.matchupstream.tuboshu.com/live/719ac175a0f1bc2b770d7f366156e3b5.flv
+https://ws.matchupstream.tuboshu.com/live/d89fac779e559a96e1be491aa66f4508.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
@@ -270,7 +268,7 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
-https://flv3948069e.live.126.net/live/03b33528e6422fb3323811e42e355a82.flv
+https://flv3948069e.live.126.net/live/4f9caa404d488c926e1383f71797a19d.flv
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
