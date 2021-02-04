@@ -196,6 +196,8 @@ rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
+https://ws.matchupstream.tuboshu.com/live/7c6e58a2edbec5c5817a66d0146d4797.flv
+#EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 https://ws.matchupstream.tuboshu.com/live/bebe131be203f8ae53a08fc01a1a5da5.flv
@@ -222,7 +224,7 @@ https://ws.matchupstream.tuboshu.com/live/535d659affe0b3dc43dd6ffa074eb2f8.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/f98a154af007ec9f1a71b904e5989cc7.flv
+https://ws.matchupstream.tuboshu.com/live/85740df2b208310b5c86fb16cb9e508f.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
@@ -254,7 +256,7 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
-https://flv3948069e.live.126.net/live/8fd789b4822b42a8a1b8170752f17875.flv
+https://flv3948069e.live.126.net/live/e19e9a1d040e1489ab8e398e1e8bdf0c.flv
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
