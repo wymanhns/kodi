@@ -158,11 +158,11 @@ rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
-https://ws.matchupstream.tuboshu.com/live/7c6e58a2edbec5c5817a66d0146d4797.flv
+https://ws.matchupstream.tuboshu.com/live/956de910d92ef44ec07f2e1ed7165903.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
-https://ws.matchupstream.tuboshu.com/live/bebe131be203f8ae53a08fc01a1a5da5.flv
+https://ws.matchupstream.tuboshu.com/live/d40bbb605a89b9a0a9c92e4cf15e7400.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
@@ -172,25 +172,27 @@ https://ws.matchupstream.tuboshu.com/live/f681cbbbaa1ea7a0ae096c9ba2122a21.flv
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
 https://ws.matchupstream.tuboshu.com/live/36d8b52a200181712f727f3335f8015b.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-https://ws.matchupstream.tuboshu.com/live/1fff7a9d24ab0f9c2d1869f3b9e39d10.flv
+https://ws.matchupstream.tuboshu.com/live/1e5cc840d119ac45b9ac4c2689a1d1b5.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
+https://ws.matchupstream.tuboshu.com/live/8dfc287a17d214a1eee14d3c4378c892.flv
+#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
-https://ws.matchupstream.tuboshu.com/live/535d659affe0b3dc43dd6ffa074eb2f8.flv
+https://ws.matchupstream.tuboshu.com/live/f51d26d924da90f470b625e241135828.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/85740df2b208310b5c86fb16cb9e508f.flv
+https://ws.matchupstream.tuboshu.com/live/8509fa29805bd8a66ef12093a96f6f7c.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
-https://ws.matchupstream.tuboshu.com/live/008d0396ae4d318e88d0804e4df41e10.flv
+https://ws.matchupstream.tuboshu.com/live/5982d9242e7e9df043aedad9aa959149.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
@@ -198,19 +200,19 @@ rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
 rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
-https://ws.matchupstream.tuboshu.com/live/6f509c90c2af7f3cfec3852af4c74da0.flv
+https://ws.matchupstream.tuboshu.com/live/7cc8d3b1fe79b42566f3a469b5af4a30.flv
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
-https://ws.matchupstream.tuboshu.com/live/87775ed8278af8df94e1a10a14251221.flv
+https://ws.matchupstream.tuboshu.com/live/5cb09a84b7b071d3f6c25c597c7fe220.flv
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
-https://ws.matchupstream.tuboshu.com/live/e03d12815e96a424799eb6aaabd655db.flv
+https://ws.matchupstream.tuboshu.com/live/a83cb7621820dff109d86d9c04cc4545.flv
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-https://ws.matchupstream.tuboshu.com/live/25c9c177691078c72dbc8ec378f3e943.flv
+https://ws.matchupstream.tuboshu.com/live/88e9460d5f12244e45698143c4b15065.flv
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
@@ -220,7 +222,7 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
-https://flv3948069e.live.126.net/live/e19e9a1d040e1489ab8e398e1e8bdf0c.flv
+https://flv3948069e.live.126.net/live/ad3652443a73176ebfc4c717f491c7f7.flv
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
