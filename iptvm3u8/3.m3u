@@ -168,11 +168,11 @@ rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
-https://ws.matchupstream.tuboshu.com/live/22883a216656a727c39a3b12bddbbc03.flv
+https://ws.matchupstream.tuboshu.com/live/3ff85802c163f9d2da31982787b533bb.flv
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
 https://ws.matchupstream.tuboshu.com/live/d181abf44656437c0924834b9a77c8cb.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-https://ws.matchupstream.tuboshu.com/live/35498a8c0c75a8fedc958486fc3acdb5.flv
+https://ws.matchupstream.tuboshu.com/live/86eec3cf202c4e1a65412a78408399cb.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
@@ -184,7 +184,7 @@ rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
-https://ws.matchupstream.tuboshu.com/live/d75820cb00487786896df9ec8ea91a82.flv
+https://ws.matchupstream.tuboshu.com/live/2b3a8372bdedbcf0b3fd309706d1b7cf.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
@@ -200,19 +200,19 @@ rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
 rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
-https://ws.matchupstream.tuboshu.com/live/29fbeb09fe0d0bea869bf28e04906abf.flv
+https://ws.matchupstream.tuboshu.com/live/2a8c3d12bae2edfaad2da975c5c0d0d5.flv
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
-https://ws.matchupstream.tuboshu.com/live/d2071a6b2c9887309dcdb439de8fbf45.flv
+https://ws.matchupstream.tuboshu.com/live/bf7ac7448fb550e7d782ec0b3f594415.flv
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
-https://ws.matchupstream.tuboshu.com/live/db3eb65dd1c0ca012b93096272ad964e.flv
+https://ws.matchupstream.tuboshu.com/live/b34084c831a2d4790f801dd554985979.flv
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-https://ws.matchupstream.tuboshu.com/live/ac9ccde571c326899f06f97485d2c850.flv
+https://ws.matchupstream.tuboshu.com/live/ff541dc45869e3db3fc857f0e5f593d5.flv
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
