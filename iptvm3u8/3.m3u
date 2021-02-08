@@ -157,6 +157,10 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
+#EXTINF:-1 tvg-name="公视" ,公视
+https://ws.matchupstream.tuboshu.com/live/a1d88312edb708e04d7f0c51050cdf9b.flv
+#EXTINF:-1 tvg-name="TVBS·综合台" ,TVBS·综合台
+https://ws.matchupstream.tuboshu.com/live/96ca70ad8f78ddc388983a883625e7a7.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 https://ws.matchupstream.tuboshu.com/live/bd863d709ba29af6179767e2157269f1.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
@@ -188,13 +192,15 @@ https://ws.matchupstream.tuboshu.com/live/2b3a8372bdedbcf0b3fd309706d1b7cf.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/8509fa29805bd8a66ef12093a96f6f7c.flv
+https://ws.matchupstream.tuboshu.com/live/7ebed40b9b50f91dad2ef28ad37fce04.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 https://ws.matchupstream.tuboshu.com/live/6e6ef8d5bdc742ca9ed4450a704cfb70.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
+#EXTINF:-1 tvg-name="纬来日本" ,纬来日本
+https://ws.matchupstream.tuboshu.com/live/6151669c8e46646008dd329343ee873f.flv
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
@@ -219,10 +225,14 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-name="民视第一台" ,民视第一台
+https://ws.matchupstream.tuboshu.com/live/bed39514fe337f235cc7b3f52dad0873.flv
+#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
+https://ws.matchupstream.tuboshu.com/live/33216e6ad0e5f9a65365f007a5553130.flv
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
-https://flv3948069e.live.126.net/live/ad3652443a73176ebfc4c717f491c7f7.flv
+https://flv3948069e.live.126.net/live/129f91c6a10f403dda9ea0cf19b6d8fe.flv
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
