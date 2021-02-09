@@ -200,9 +200,7 @@ http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海·欢笑剧场" ,上海·欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-name="上海·东方影视" ,上海·东方影视
-http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="上海·上海外语" ,上海·上海外语
-http://140.207.241.2:8080/live/program/live/wypdhd/2300000/mnf.m3u8
+http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海·上海外语" ,上海·上海外语
 http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-name="南方卫视" ,南方卫视
