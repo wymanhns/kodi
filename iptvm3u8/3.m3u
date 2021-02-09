@@ -6,15 +6,21 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://101.71.255.229:6610/zjhs/2/10136/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="北京卫视" ,北京卫视
+http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="北京卫视" ,北京卫视
 http://121.31.30.87:8085/ysten-business/live/hdbeijingstv/1.m3u8
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+http://183.207.255.190/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://121.31.30.87:8085/ysten-business/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
-http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://101.71.255.229:6610/zjhs/2/10139/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="上海卫视" ,上海卫视
+http://117.169.120.160:8080/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
+http://117.169.120.160:8080/live/chongqingstv/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 http://101.71.255.229:6610/zjhs/2/10142/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
@@ -22,17 +28,21 @@ http://121.31.30.87:8085/ysten-business/live/chongqingstv/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
 http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
+http://183.207.255.190/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="天津卫视" ,天津卫视
 http://121.31.30.87:8085/ysten-business/live/hdtianjinstv/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
-http://39.135.135.53/PLTV/88888888/224/3221225665/index.m3u8
+http://117.169.120.160:8080/live/hdtianjinstv/1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" ,新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://117.169.120.160:8080/live/hdzhejiangstv/1.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
 http://121.31.30.87:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+http://183.207.255.190/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" ,浙江卫视
+http://117.169.120.160:8080/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1 tvg-name="福建卫视" ,福建卫视
+http://183.207.255.190/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="福建卫视" ,福建卫视
 http://121.31.30.87:8085/ysten-business/live/dongnanstv/1.m3u8
 #EXTINF:-1 tvg-name="福建卫视" ,福建卫视
@@ -48,21 +58,27 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
 http://101.71.255.229:6610/zjhs/2/10138/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+http://183.207.255.190/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
 http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" ,江苏卫视
+rtsp://183.252.176.54/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
 http://117.169.120.160:8080/live/hdjiangxistv/1.m3u8
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
 http://101.71.255.229:6610/zjhs/2/10145/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="江西卫视" ,江西卫视
 http://121.31.30.87:8085/ysten-business/live/jiangxistv/1.m3u8
+#EXTINF:-1 tvg-name="江西卫视" ,江西卫视
+http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
 http://183.207.255.190/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
 http://101.71.255.229:6610/zjhs/2/10140/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
+http://117.169.120.160:8080/live/hdhunanstv/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" ,湖南卫视
-http://39.134.176.148/PLTV/88888888/224/3221226553/index.m3u8
+http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" ,青海卫视
 http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="青海卫视" ,青海卫视
@@ -82,11 +98,13 @@ http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226223/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
-http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
 http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
+http://183.207.255.190/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" ,安徽卫视
+http://117.169.120.160:8080/live/anhuistv/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" ,山东卫视
-http://183.207.255.190/live/program/live/sdwshd/2300000/mnf.m3u8
+http://183.207.255.190/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="山东卫视" ,山东卫视
 http://101.71.255.229:6610/zjhs/2/10147/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="山东卫视" ,山东卫视
@@ -96,15 +114,17 @@ http://39.134.65.162/PLTV/88888888/224/3221225584/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" ,甘肃卫视
 http://117.156.28.119/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://117.169.120.160:8080/live/hdguangdongstv/1.m3u8
+http://183.207.255.190/live/program/live/gdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="广东卫视" ,广东卫视
 http://101.71.255.229:6610/zjhs/2/10143/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="广东卫视" ,广东卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+http://117.169.120.160:8080/live/hdguangdongstv/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" ,广西卫视
 http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
 http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+http://183.207.255.190/live/program/live/szwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
 http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
@@ -112,7 +132,7 @@ http://117.169.120.160:8080/live/hdshenzhenstv/1.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" ,康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
-http://117.169.120.160:8080/live/hdhubeistv/1.m3u8
+http://183.207.255.190/live/program/live/hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
 http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
@@ -127,6 +147,10 @@ http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
 http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+http://183.207.255.190/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" ,辽宁卫视
+http://117.169.120.160:8080/live/liaoningstv/1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" ,吉林卫视
 http://101.71.255.229:6610/zjhs/2/10149/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="吉林卫视" ,吉林卫视
@@ -137,6 +161,8 @@ http://stream3.hljtv.com/hljws2/sd/live.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
 http://101.71.255.229:6610/zjhs/2/10151/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="黑龙江卫视" ,黑龙江卫视
+http://117.169.120.160:8080/live/hdheilongjiangstv/1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" ,海南卫视
 rtsp://183.252.166.199:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 #EXTINF:-1 tvg-name="海南卫视" ,海南卫视
