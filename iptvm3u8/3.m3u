@@ -20,15 +20,13 @@ http://101.71.255.229:6610/zjhs/2/10139/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-name="上海卫视" ,上海卫视
 http://117.169.120.160:8080/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
-http://183.207.248.71/cntv/live1/n-chongqingstv/n-chongqingstv
+http://183.207.248.71/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 http://101.71.255.229:6610/zjhs/2/10142/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
 http://121.31.30.87:8085/ysten-business/live/chongqingstv/1.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" ,重庆卫视
-http://183.207.248.71/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
 http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="天津卫视" ,天津卫视
