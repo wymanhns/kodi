@@ -84,6 +84,10 @@ def ReadtData(var):  # 讀入大視界資源
       f.close()
       '''
   html = unquote(bytes.decode(base64.b64decode(html))) #解編碼
+
+  Mylist=['2.m3u',html]
+  WriteFile1(Mylist)   # 寫入檔案
+
   html = html.split('\n\n');  
   groupname=[]
   titlea=[]
