@@ -223,10 +223,6 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-name="公视" ,公视
-https://ws.matchupstream.tuboshu.com/live/a1d88312edb708e04d7f0c51050cdf9b.flv
-#EXTINF:-1 tvg-name="TVBS·综合台" ,TVBS·综合台
-https://ws.matchupstream.tuboshu.com/live/96ca70ad8f78ddc388983a883625e7a7.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 https://ws.matchupstream.tuboshu.com/live/bd863d709ba29af6179767e2157269f1.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
@@ -246,19 +242,21 @@ https://ws.matchupstream.tuboshu.com/live/86eec3cf202c4e1a65412a78408399cb.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
+https://ws.matchupstream.tuboshu.com/live/cfcf147ea8507965f94ccd1d44ca53bc.flv
+#EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 https://ws.matchupstream.tuboshu.com/live/ff7c87d22f090f2e734a6f5acc3e53e5.flv
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
-#EXTINF:-1 tvg-name="三立财经新闻·" ,三立财经新闻·
-http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 https://ws.matchupstream.tuboshu.com/live/2b3a8372bdedbcf0b3fd309706d1b7cf.flv
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
 https://ws.matchupstream.tuboshu.com/live/4106ac374229523c85d7fa834b9e47dd.flv
+#EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
+https://ws.matchupstream.tuboshu.com/live/f637e05243fc75b73dcdb19a38e78421.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
@@ -291,10 +289,6 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-name="民视第一台" ,民视第一台
-https://ws.matchupstream.tuboshu.com/live/bed39514fe337f235cc7b3f52dad0873.flv
-#EXTINF:-1 tvg-name="民视台湾台" ,民视台湾台
-https://ws.matchupstream.tuboshu.com/live/33216e6ad0e5f9a65365f007a5553130.flv
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 https://ws.matchupstream.tuboshu.com/live/a9bb4aef1130d269972e7244f987bf85.flv
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
