@@ -231,8 +231,6 @@ rtmp://59.124.75.157/sat/tv421
 https://ws.matchupstream.tuboshu.com/live/0b02576813e23ac4f7213bce5b978fb8.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
-#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
-https://ws.matchupstream.tuboshu.com/live/3ff85802c163f9d2da31982787b533bb.flv
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
 https://ws.matchupstream.tuboshu.com/live/5ab172d329172e2ebbd87a4eff1567dd.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
@@ -248,7 +246,7 @@ rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 https://ws.matchupstream.tuboshu.com/live/b287e5374b9b96623b6efa3928a4eb9a.flv
 #EXTINF:-1 tvg-name="三立台湾" ,三立台湾
-https://ws.matchupstream.tuboshu.com/live/7939e3e5b6bcfb14314cf939ada6d266.flv
+https://ws.matchupstream.tuboshu.com/live/5bdf28e366f3cdf7f7d902f466d874ea.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 https://ws.matchupstream.tuboshu.com/live/f637e05243fc75b73dcdb19a38e78421.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
@@ -278,7 +276,7 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="壹新闻台·" ,壹新闻台·
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
-https://flv3948069e.live.126.net/live/680903b46887d501e3e0e25116af262b.flv
+https://flv3948069e.live.126.net/live/8a4fe1c66d6f48b119332b49e950cc53.flv
 #EXTINF:-1 tvg-name="官方反馈QQ群：" ,官方反馈QQ群：
 http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 #EXTINF:-1 tvg-name="①群233575667" ,①群233575667
