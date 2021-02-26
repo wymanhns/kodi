@@ -81,6 +81,7 @@ CCTV·4K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/i
 NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6781.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/81d697e476bbc9af07f2f7073625afbd.flv#http://livetv.dnsfor.me/channel.18.m3u8
 TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/3604e939f84c8caafa6d425dfcf521f8.flv
@@ -183,14 +184,16 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 广东·佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 广东·佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
 广东·佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
+广东·蛇口综合,http://218.17.99.211:82/hls/d4encs75.m3u8
 广东·惠州一台,http://livehuiz.chinamcache.com/live/zb01.m3u8
 广东·惠州二台,http://livehuiz.chinamcache.com/live/zb02.m3u8
 广东·潮州综合,http://live.zscz0768.com/live/zhpd.m3u8#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
 广东·潮州公共,http://live.zscz0768.com/live/ggpd.m3u8#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
 广东·开平综合,http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.m3u8
 广东·开平生活,http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1435.m3u8
-广东·揭阳综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
-广东·揭阳公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+广东·阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+广东·阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+广东·揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 湖南·湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTQwYjA5ZDgyZTE4Y2VkZDI4ZDcxYjg4NWU0ZmY5NGFkJmVzPTE2MDk1MjIzNTkmdXVpZD1jYmIzOGRiOTUxZTJhY2EzYmU3MzkyYmE5N2FmYjJmOC02NzQ3NDY0YyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSJMPP360.m3u8
 湖南·娄底综合,http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 湖南·湘西综合,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
