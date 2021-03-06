@@ -236,11 +236,11 @@ rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
-https://ws.matchupstream.tuboshu.com/live/561e2391ec7a2600a287481f144703af.flv
+https://ws.matchupstream.tuboshu.com/live/6fc5ee3f0649dcb19a7bfabf1e33eba4.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
-https://ws.matchupstream.tuboshu.com/live/77347cfcf508cc4815a9f182d5b08d4e.flv
+https://ws.matchupstream.tuboshu.com/live/c2b1b2049922dc5e897e4ab8e2c2e890.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
@@ -248,25 +248,25 @@ https://ws.matchupstream.tuboshu.com/live/175752e384dd3a14010790a31f137fad.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
 https://ws.matchupstream.tuboshu.com/live/c3a7f03af97fd6d739d00c70df9c0cc1.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
-https://ws.matchupstream.tuboshu.com/live/78cd37604d2b4c1cf4837442635ccc4f.flv
+https://ws.matchupstream.tuboshu.com/live/3f9231c9186141129d028f4836776c7e.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
-https://ws.matchupstream.tuboshu.com/live/12359ed21c0a288117c8733b4f51178e.flv
+https://ws.matchupstream.tuboshu.com/live/d5d7774c8bcca7321bf5156f63955c9f.flv
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
 https://ws.matchupstream.tuboshu.com/live/288beccdaf1a16e53aa483ea78bbdae1.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
-https://ws.matchupstream.tuboshu.com/live/b3f7b4bd6220e6083e02b46f7d4f7dc0.flv
+https://ws.matchupstream.tuboshu.com/live/ffb209ef7935b3678eede6440d2c1377.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
-https://ws.matchupstream.tuboshu.com/live/c15051aeb7bc2e67ffcff276459b8a87.flv
+https://ws.matchupstream.tuboshu.com/live/9c7cbd0f5edca87e62d448b68ab3a5f6.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="纬来日本" ,纬来日本
-https://ws.matchupstream.tuboshu.com/live/342ca5e18d8923a14085e071dd4663bf.flv
+https://ws.matchupstream.tuboshu.com/live/66342b261cf278b42903f2eca8b509d4.flv
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
@@ -274,7 +274,7 @@ rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 https://ws.matchupstream.tuboshu.com/live/42b81bb67995014b2c66b5fd90bfa1ef.flv
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
-https://ws.matchupstream.tuboshu.com/live/68720107ecd61fa7842f40d95f2ca517.flv
+https://ws.matchupstream.tuboshu.com/live/88bd327cf714c672733ae305c2543ea6.flv
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
 https://ws.matchupstream.tuboshu.com/live/15cc6184c759c04f2d1e9592d447a741.flv
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
