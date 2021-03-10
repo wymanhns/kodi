@@ -236,7 +236,7 @@ rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
-https://ws.matchupstream.tuboshu.com/live/6fc5ee3f0649dcb19a7bfabf1e33eba4.flv
+https://ws.matchupstream.tuboshu.com/live/cbf7675af8fe19639ccde8c2c32b3251.flv
 #EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
@@ -244,9 +244,9 @@ https://ws.matchupstream.tuboshu.com/live/c2b1b2049922dc5e897e4ab8e2c2e890.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
-https://ws.matchupstream.tuboshu.com/live/175752e384dd3a14010790a31f137fad.flv
+https://ws.matchupstream.tuboshu.com/live/3ce8260cfd7654fe35e53bda39520e12.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-https://ws.matchupstream.tuboshu.com/live/c3a7f03af97fd6d739d00c70df9c0cc1.flv
+https://ws.matchupstream.tuboshu.com/live/3c264411e2eb9bcd9bff629fa524e95a.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
 https://ws.matchupstream.tuboshu.com/live/3f9231c9186141129d028f4836776c7e.flv
 #EXTINF:-1 tvg-name="东森超视" ,东森超视
@@ -256,7 +256,7 @@ https://ws.matchupstream.tuboshu.com/live/d5d7774c8bcca7321bf5156f63955c9f.flv
 #EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="三立直播新闻·" ,三立直播新闻·
-https://ws.matchupstream.tuboshu.com/live/288beccdaf1a16e53aa483ea78bbdae1.flv
+https://ws.matchupstream.tuboshu.com/live/f3a6a4e6e1795d08fcc2a61c89d4ab5b.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
 https://ws.matchupstream.tuboshu.com/live/ffb209ef7935b3678eede6440d2c1377.flv
 #EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
@@ -266,19 +266,19 @@ https://ws.matchupstream.tuboshu.com/live/9c7cbd0f5edca87e62d448b68ab3a5f6.flv
 #EXTINF:-1 tvg-name="纬来体育" ,纬来体育
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="纬来日本" ,纬来日本
-https://ws.matchupstream.tuboshu.com/live/66342b261cf278b42903f2eca8b509d4.flv
+https://ws.matchupstream.tuboshu.com/live/2d377e14525467080118a7675b5e8539.flv
 #EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
 rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
-https://ws.matchupstream.tuboshu.com/live/42b81bb67995014b2c66b5fd90bfa1ef.flv
+https://ws.matchupstream.tuboshu.com/live/f9bac21da04beac06326a7b95623677e.flv
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·
-https://ws.matchupstream.tuboshu.com/live/88bd327cf714c672733ae305c2543ea6.flv
+https://ws.matchupstream.tuboshu.com/live/3e7e608472b581816ffe038b72a78c40.flv
 #EXTINF:-1 tvg-name="华视新闻·" ,华视新闻·
-https://ws.matchupstream.tuboshu.com/live/15cc6184c759c04f2d1e9592d447a741.flv
+https://ws.matchupstream.tuboshu.com/live/0853493f5dceefea7a50495cf542dcf7.flv
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-https://ws.matchupstream.tuboshu.com/live/193ce64df9f779f96605dec89a099286.flv
+https://ws.matchupstream.tuboshu.com/live/896b0740c89bdb8d105ead403a088f06.flv
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
