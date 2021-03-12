@@ -205,6 +205,8 @@ http://play.zhtctv.cn/portal/btv.m3u8
 https://hhytv.ningxiahuangheyun.com/live/nxws1M.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" ,宁夏卫视
 http://itv.ahau.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 tvg-name="山西卫视" ,山西卫视
+http://livehh.sxrtv.com/q8RVWgs/1000/n1sh84V.m3u8
 #EXTINF:-1 tvg-name="上海·哈哈炫动" ,上海·哈哈炫动
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海·欢笑剧场" ,上海·欢笑剧场
