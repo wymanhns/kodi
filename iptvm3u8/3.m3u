@@ -245,8 +245,6 @@ rtmp://59.124.75.157/sat/tv421
 https://ws.matchupstream.tuboshu.com/live/c2b1b2049922dc5e897e4ab8e2c2e890.flv
 #EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
 rtmp://59.124.75.156/sat/tv551
-#EXTINF:-1 tvg-name="环宇新闻" ,环宇新闻
-https://flv3948069e.live.126.net/live/0ae33d061157f0b71cb85fc57a4e4523.flv
 #EXTINF:-1 tvg-name="中天新闻" ,中天新闻
 https://flv3948069e.live.126.net/live/3603b79bd2e49209a83eea48860a68cb.flv
 #EXTINF:-1 tvg-name="东森新闻" ,东森新闻

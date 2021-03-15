@@ -87,6 +87,7 @@ TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/234aa612263699e731978d7
 TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/770949b04b89fe045f65517fac0e5c19.flv
 TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/cd2299277f94bc5c7013a5263bed6171.flv
 TVB·财经台,https://flv3948069e.live.126.net/live/e816ab33b492b12c85147bf0d3cf62e7.flv
+TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB·J2,https://ws.matchupstream.tuboshu.com/live/a3e30adb8f673ded1f038eaf3f46ae89.flv
 VIU·TV,https://ws.matchupstream.tuboshu.com/live/dd13dee14a8ef1aa69730b17d78896f8.flv#http://livetv.dnsfor.me/channel.20.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
@@ -107,7 +108,6 @@ VIU·TV,https://ws.matchupstream.tuboshu.com/live/dd13dee14a8ef1aa69730b17d78896
 华视,rtmp://59.124.75.156/sat/tv111
 TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/cbf7675af8fe19639ccde8c2c32b3251.flv#rtmp://59.124.75.157/sat/tv421
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/c2b1b2049922dc5e897e4ab8e2c2e890.flv#rtmp://59.124.75.156/sat/tv551
-环宇新闻,https://flv3948069e.live.126.net/live/0ae33d061157f0b71cb85fc57a4e4523.flv
 中天新闻,https://flv3948069e.live.126.net/live/3603b79bd2e49209a83eea48860a68cb.flv
 东森新闻,https://flv3948069e.live.126.net/live/1ee552eacfe90327c7cfad4ddf2613af.flv
 东森超视,https://ws.matchupstream.tuboshu.com/live/3f9231c9186141129d028f4836776c7e.flv#rtmp://59.124.75.156/sat/tv771
@@ -270,12 +270,15 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 
 ○亚洲○,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-泰国·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-韩国·KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+日本·NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+泰国·TVB电视剧台,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+新马·FOX家庭电影,http://z1.ubtvfans.com/live/383/4bed36466c7c237dc11d00b904598bc3/index.m3u8
+新马·ONE亚洲频道,http://z1.ubtvfans.com/live/1349/df965c70afddea57ed013a3c91c365a0/index.m3u8
 泰国·CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 韩国·TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8#http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+韩国·KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国·SBS KNN,http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
 韩国·SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
 韩国·SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
@@ -292,8 +295,13 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 韩国·EBS_E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 韩国·日常电视,http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
 韩国·国防电视,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+新马·Astro BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+新马·Astro 全佳台,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+新马·Astro 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+新马·Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 迪拜卫视,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+柬埔寨·SEA TV,http://96.9.77.79:1935/live/SEATV/playlist.m3u8
 
 ○欧美○,#genre#
 英国·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
