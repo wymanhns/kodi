@@ -204,9 +204,9 @@ http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" ,宁夏卫视
 https://hhytv.ningxiahuangheyun.com/live/nxws1M.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" ,宁夏卫视
-http://itv.ahau.edu.cn/hls/nxtv.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226528/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" ,山西卫视
-http://livehh.sxrtv.com/q8RVWgs/1000/n1sh84V.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
 #EXTINF:-1 tvg-name="上海·哈哈炫动" ,上海·哈哈炫动
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海·欢笑剧场" ,上海·欢笑剧场
@@ -229,6 +229,8 @@ http://39.134.24.202/PLTV/88888888/224/3221226005/index.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱二台" ,大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="大爱海外" ,大爱海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 tvg-name="民视" ,民视
 https://flv3948069e.live.126.net/live/9b25086f4599dca3c655b1fb329a6def.flv
 #EXTINF:-1 tvg-name="民视" ,民视
@@ -277,10 +279,10 @@ https://flv3948069e.live.126.net/live/5a63d057b99b9bbecc136dd15e111390.flv
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1 tvg-name="纬来日本" ,纬来日本
 https://flv3948069e.live.126.net/live/9cb0735d141b75b334caf51fe959ad52.flv
-#EXTINF:-1 tvg-name="爱尔达体育一" ,爱尔达体育一
-rtmp://59.124.75.157/sat/md011
-#EXTINF:-1 tvg-name="MoMo·综合台" ,MoMo·综合台
-rtmp://59.124.75.157/sat/tv761
+#EXTINF:-1 tvg-name="GoodTV·综合台" ,GoodTV·综合台
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-name="GoodTV·卡通台" ,GoodTV·卡通台
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 #EXTINF:-1 tvg-name="台视新闻·" ,台视新闻·
 https://flv3948069e.live.126.net/live/c4a16634303574881da5bc76ccbe3577.flv
 #EXTINF:-1 tvg-name="中视新闻·" ,中视新闻·

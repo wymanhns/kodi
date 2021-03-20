@@ -61,8 +61,8 @@ CCTV·4K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/i
 海南卫视,rtsp://183.252.166.199:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil#http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8#http://ivi.bupt.edu.cn/hls/lyhd.m3u8#http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 三沙卫视,http://ivi.bupt.edu.cn/hls/sstv.m3u8
 中华特产,http://play.zhtctv.cn/portal/btv.m3u8
-宁夏卫视,https://hhytv.ningxiahuangheyun.com/live/nxws1M.m3u8#http://itv.ahau.edu.cn/hls/nxtv.m3u8
-山西卫视,http://livehh.sxrtv.com/q8RVWgs/1000/n1sh84V.m3u8
+宁夏卫视,https://hhytv.ningxiahuangheyun.com/live/nxws1M.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226528/index.m3u8
+山西卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
 上海·哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 上海·欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 上海·东方影视,http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
@@ -94,6 +94,7 @@ VIU·TV,https://ws.matchupstream.tuboshu.com/live/7ddf4475b45fe4f4dfd3d26af10305
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 有线603,https://ws.matchupstream.tuboshu.com/live/b77a48db6b829f09bb63216ab7311ffc.flv
 开放电视,https://flv3948069e.live.126.net/live/30396d34f08af0df302d632d6bdfcd6c.flv
 港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
@@ -102,6 +103,7 @@ VIU·TV,https://ws.matchupstream.tuboshu.com/live/7ddf4475b45fe4f4dfd3d26af10305
 ○台湾○,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 民视,https://flv3948069e.live.126.net/live/9b25086f4599dca3c655b1fb329a6def.flv#rtmp://59.124.75.157/sat/tv051
 台视,https://flv3948069e.live.126.net/live/c4ebbfe391de699e9ec2a8f8c26144d3.flv#rtmp://59.124.75.156/sat/tv071
 中视,https://flv3948069e.live.126.net/live/1f9e1461e46f1778e7ff7efc46fdec75.flv#rtmp://59.124.75.157/sat/tv091
@@ -116,8 +118,8 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/a9e3a0d954dd5c05f804d5d5fa
 纬来育乐,https://flv3948069e.live.126.net/live/a40e4bad88d87d56615749ee1c07accb.flv#rtmp://59.124.75.157/sat/tv701
 纬来体育,https://flv3948069e.live.126.net/live/5a63d057b99b9bbecc136dd15e111390.flv#rtmp://59.124.75.156/sat/tv721
 纬来日本,https://flv3948069e.live.126.net/live/9cb0735d141b75b334caf51fe959ad52.flv
-爱尔达体育一,rtmp://59.124.75.157/sat/md011
-MoMo·综合台,rtmp://59.124.75.157/sat/tv761
+GoodTV·综合台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+GoodTV·卡通台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 台视新闻·,https://flv3948069e.live.126.net/live/c4a16634303574881da5bc76ccbe3577.flv
 中视新闻·,https://flv3948069e.live.126.net/live/07ebed7dfe759343db88a2994d327f8f.flv
 华视新闻·,https://flv3948069e.live.126.net/live/ffb02f0321c2132a544ed41bd6ae9206.flv
@@ -181,12 +183,14 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 浙江·杭州综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8#http://player.200877926.top/1786/zj/hangzhoum3u8.php?id=hztv1
 浙江·杭州明珠,http://player.200877926.top/1786/zj/hangzhoum3u8.php?id=hztv2#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
 浙江·舟山旅游,http://live.wifizs.cn/qdly/sd/live.m3u8
+广东·珠江频道,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东·番禺电视,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 广东·佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
 广东·佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 广东·佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
 广东·佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
 广东·蛇口综合,http://218.17.99.211:82/hls/d4encs75.m3u8
+广东·广州综合,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东·惠州一台,http://livehuiz.chinamcache.com/live/zb01.m3u8
 广东·惠州二台,http://livehuiz.chinamcache.com/live/zb02.m3u8
 广东·潮州综合,http://live.zscz0768.com/live/zhpd.m3u8#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
@@ -269,13 +273,12 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 甘肃·兰州公共,http://39.134.39.38/PLTV/88888888/224/3221226244/index.m3u8
 
 ○亚洲○,#genre#
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 日本·NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本·NHK国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 泰国·TVB电视剧台,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-新马·FOX家庭电影,http://z1.ubtvfans.com/live/383/4bed36466c7c237dc11d00b904598bc3/index.m3u8
-新马·ONE亚洲频道,http://z1.ubtvfans.com/live/1349/df965c70afddea57ed013a3c91c365a0/index.m3u8
 泰国·CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 韩国·TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8#http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
 韩国·KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -301,7 +304,10 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 新马·Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 迪拜卫视,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-柬埔寨·SEA TV,http://96.9.77.79:1935/live/SEATV/playlist.m3u8
+蒙古·MNB综合台,http://103.14.38.107:1935/live/mnb.stream/playlist.m3u8
+蒙古·MNB新闻台,http://103.14.38.107:1935/live/mn2.stream/playlist.m3u8
+印尼·RCTI,https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7.m3u8
+印尼·TIC印尼频道,https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
 ○欧美○,#genre#
 英国·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -310,6 +316,7 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 美国·彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 法国新闻,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 俄罗斯·红星电视,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 俄罗斯·第一频道,https://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
 加拿大·CME财经一号,http://69.57.222.151:8082/45/stream.m3u8
@@ -342,69 +349,6 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 驱魔道长,https://v3.dious.cc/20210114/MTPQpmkT/1000kb/hls/index.m3u8
 妖怪都市,https://v3.dious.cc/20210114/EFtROXdh/1000kb/hls/index.m3u8
 
-◎嗨歌◎_221,#genre#
-小娟 - 爱的路上千万里DJ,http://f4.mc.0sm.com/2020/05/85EBA01722FE4288-39b2d1a796a22934.mp4
-陈瑞 - 念旧的人最容易掉眼泪DJ,http://f4.mc.0sm.com/2020/05/85EBA0CEE81B31A4-1baa4d268cff43e8.mp4
-东方晴儿 - 再见吧我最爱的你DJ,http://f4.mc.0sm.com/2020/05/85EBA23598969885-22d535bf9bec4087.mp4
-东方晴儿 - 格局DJ,http://f4.mc.0sm.com/2020/05/85EBA0998A344C5B-852f67f6218a40ff.mp4
-欧阳尚尚 - 爱情主演DJ,http://f4.mc.0sm.com/2020/05/85EBA1D2694D27D2-08345a8e2fc275dd.mp4
-黄嘉雯 - 伤心的人醉茫茫DJ,http://f4.mc.0sm.com/2020/05/85EBA26D8A7E9047-d53e38bb95be75a1.mp4
-黄嘉雯 - 你会遇见更好的人DJ,http://f4.mc.0sm.com/2020/05/85EB8D69C438AE0F-bc932c1153a886a9.mp4
-杨梓 - 被情伤过的女人,http://f4.mc.0sm.com/2020/05/85EBD5C15C2E8083-9f77103a9b57d61e.mp4
-黄嘉雯 - 情歌里的你DJ,http://f4.mc.0sm.com/2020/05/85EBA1E37AFF8F91-c04dd24eaf333f05.mp4
-于文文 - 体面DJ,http://f4.mc.0sm.com/2020/05/85EBD4284B55C9CC-974cf22ed602cd43.mp4
-周诗雅 - 爱的热浪DJ,http://f4.mc.0sm.com/2020/05/85EBA09F986F450F-8caf1d920e826a9f.mp4
-黄嘉雯 - 爱很简单,http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
-天翔 - 一晃就老了DJ,http://f4.mc.0sm.com/2020/05/85EBA1FEF03FABB2-9d7e1d6258b74e8d.mp4
-唐古 - 我又想你了DJ,http://f4.mc.0sm.com/2020/05/85EBA229423174B4-65fc6846726f1d55.mp4
-唐古 - 突然好想念DJ,http://f4.mc.0sm.com/2020/05/85EBBC1F51EBED16-2db54257225272bb.mp4
-杭娇 - 忘了我的爱DJ,http://f4.mc.0sm.com/2020/05/85EBA63CF241A6B9-7d50125163c67596.mp4
-大壮 - 差一步,http://f4.mc.0sm.com/2020/05/85EBD5D718C11A66-5ebd2af607deac54.mp4
-安琪 - 曾经被爱DJ,http://f4.mc.0sm.com/2020/05/85EBA02D34C99655-c58cd0a4db990344.mp4
-寂悸 - 潮湿的心DJ,http://f4.mc.0sm.com/2020/05/85EBD3451C7CE232-9737c83a31307feb.mp4
-天蠍丹 - 你的世界到底有了谁DJ,http://f4.mc.0sm.com/2020/05/85EBA03E59B834B6-fc9669bf53618b70.mp4
-苏谭谭 - 爱过了也伤过了,http://f4.mc.0sm.com/2020/05/85EBD603BB70D122-e001718a30ed9e0b.mp4
-黄嘉雯 - 凡人歌,http://f4.mc.0sm.com/2020/05/85EBD5B015E4A0DC-37aaa783ff55b4b2.mp4
-孙耀威 - 爱的故事上集DJ,http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
-孙艺琪 - 苍天不负有情人DJ,http://f4.mc.0sm.com/2020/05/85EBBC18A4572172-ad31a37506ffcdd8.mp4
-孙艺琪 - 酒醉的蝴蝶DJ,http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
-崔伟立VS孙艺琪 - 情火DJ,http://f4.mc.0sm.com/2020/05/85EBD35E3398044F-5adcd15e073da509.mp4
-崔伟立 - 你是我永远的痛DJ,http://f4.mc.0sm.com/2020/05/85EBA1C6BCA45177-1cc518ece18519b6.mp4
-杭娇 - 忘了我的爱,http://f4.mc.0sm.com/2020/05/85EBD5E3A39D7C94-51775db9243562f8.mp4
-杭娇 - 离别两依依,http://f4.mc.0sm.com/2020/05/85EBD5EADF24437A-605be537b8070bed.mp4
-张文绮 - 三分钟热度DJ,http://f4.mc.0sm.com/2020/05/85EBD42F90F37AB6-8ee96ae1e65d096c.mp4
-李文静 - 别说你已不在乎DJ,http://f4.mc.0sm.com/2020/05/85EBA23E35EC296B-3ab156ad91388302.mp4
-杨妹儿 - 孤单为伴DJ,http://f4.mc.0sm.com/2020/05/85EBD244F65463AA-b24f3805fde1bef8.mp4
-白小白 - 我们终究是错过,http://f4.mc.0sm.com/2020/05/85EBD5A8B1F31283-ae93883110d317c4.mp4
-彭丽嘉 - 爱着你宠着你DJ,http://f4.mc.0sm.com/2020/05/85EBBC2B7DB6E9AF-1828a99c14f9645a.mp4
-徐倩 - 今夜我一个人醉DJ,http://f4.mc.0sm.com/2020/05/85EBA2479521B139-279ea1a1b5ae6b72.mp4
-暴林 - 殇雪DJ,http://f4.mc.0sm.com/2020/05/85EBBC11E2AC64C9-cffa4d466a597734.mp4
-浪哥 - 下辈子也要找到你DJ,http://f4.mc.0sm.com/2020/05/85EBA644C4A93437-5d4bc11d534316d1.mp4
-湖北清 - 受伤的刺猬DJ,http://f4.mc.0sm.com/2020/05/85EBA03300421935-ea63536032e88d3a.mp4
-王奕心 - 我的唇吻不到我爱的人DJ,http://f4.mc.0sm.com/2020/05/85EBBC248761C1C9-9b1c585be707a47a.mp4
-王思佳 - 哦哦哦DJ,http://f4.mc.0sm.com/2020/05/85EBD36C3E6C7F2B-6c69e0a546b28bea.mp4
-唐古 - 说给男人听,http://f4.mc.0sm.com/2020/05/85EBD5B8F873CAB0-054f332037f9eb84.mp4
-程响 - 新娘不是我DJ,http://f4.mc.0sm.com/2020/05/85EBA0B78F4EBDC2-ecd94d30b2029abb.mp4
-粤语 - 因为爱你DJ,http://f4.mc.0sm.com/2020/05/85EBD4372D09397A-32cf485c3acee58d.mp4
-花姐 - 夜之光DJ,http://f4.mc.0sm.com/2020/05/85EBA0E7254A4A44-06d2d2548afc346c.mp4
-花姐 - 狂浪DJ一版,http://f4.mc.0sm.com/2020/05/85EBD26F12805DAC-90a7132ed2a5fece.mp4
-花姐 - 狂狼DJ二版,http://f4.mc.0sm.com/2020/05/85EBA2825E4F0877-d6eb41d6794dab14.mp4
-菲儿 - 嗒嘀嗒DJ,http://f4.mc.0sm.com/2020/05/85EBA0687F92E79D-3f32ac92644c9184.mp4
-菲儿 - 自由飞翔DJ,http://f4.mc.0sm.com/2020/05/85EBA1A0393FAD9D-60c96d80836b6159.mp4
-郭玲 - 拥抱你离去DJ,http://f4.mc.0sm.com/2020/05/85EBA1D93D5C194C-c39d2ce38ca8061a.mp4
-郭玲 - 痴情的只有我一个DJ,http://f4.mc.0sm.com/2020/05/85EBA087C4724205-dc9cf9bd845315f8.mp4
-郭玲 - 踢了他DJ,http://f4.mc.0sm.com/2020/05/85EBA047A301752D-3a921b26ba921652.mp4
-蓝琪儿 - 不浪漫的罪DJ,http://f4.mc.0sm.com/2020/05/85EBA07CBEC266FD-d4c4ce2a7d23da18.mp4
-蓝琪儿 - 寂寞爱上了眼泪DJ,http://f4.mc.0sm.com/2020/05/85EBA27641DCC985-6a2c784d8abf3aa3.mp4
-越南语 - 失恋阵线联盟DJ,http://f4.mc.0sm.com/2020/05/85EBD25AD52E657D-646e75270ab801bd.mp4
-郑伊涵 - 公虾米DJ,http://f4.mc.0sm.com/2020/05/85EBD350A05904D6-76fa52fb9eaf4eae.mp4
-郑茜匀 - 爱一回伤一回DJ,http://f4.mc.0sm.com/2020/05/85EBA05110B32564-430819c567c76b46.mp4
-徐誉滕 - 等一分钟,http://f4.mc.0sm.com/2020/05/85EBD5CEF75BBF49-3b51b7a917302136.mp4
-王程明 - 今生最爱,http://f4.mc.0sm.com/2020/05/85EBD5C8F84AFF31-682358d6a86bd657.mp4
-魏新雨 - 为你祈祷DJ,http://f4.mc.0sm.com/2020/05/85EBD43D4484F3AC-8e9a6a5e0f48e8bf.mp4
-龚玥菲 - 夜上海DJ,http://f4.mc.0sm.com/2020/05/85EBA637DF3FF127-b03e2f1e2cce21c8.mp4
-六哲 - 谁会记得,http://f4.mc.0sm.com/2020/05/85EBD5F2800A6F60-4e2ebe77256aa75e.mp4
-
 ◎私人◎_221,#genre#
 白洁巨乳大美人,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/202102/吮吸美乳HEYZO-2396（巨乳）/吮吸美乳HEYZO-2396（巨乳）.m3u8
 慈禧的秘密生活,https://v6.szjal.cn/20201207/2NhOxPRR/index.m3u8
@@ -432,6 +376,7 @@ CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 种鬼,https://163.com.moreleo.com/changpian/m3u8/jingdiansanji/202006/种鬼（国产）/种鬼（国产）.m3u8
 喜欢肉棒回归,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/202006/因为喜欢肉棒回归（69）/因为喜欢肉棒回归（69）.m3u8
 女大学生最喜欢精液,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/202006/女大学生最喜欢精液~061620_001-1PON（巨乳）/女大学生最喜欢精液~061620_001-1PON（巨乳）.m3u8
+苗条美女大鸡巴包围,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/201911/日本AV美女被大鸡巴包围（3P）/日本AV美女被大鸡巴包围（3P）.m3u8
 宮崎由麻红裙子自慰,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/201911/宮崎由麻红裙子,液体自慰（短裙,自慰,润滑油）/宮崎由麻红裙子,液体自慰（短裙,自慰,润滑油）.m3u8
 不道德妻子的淫秽,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/202009/不能告诉丈夫的不道德妻子的淫秽HEYZO-2320（69）/不能告诉丈夫的不道德妻子的淫秽HEYZO-2320（69）.m3u8
 连续射精给美丽女孩,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/202009/连续射精给在浴衣中看起来不错的纯日式美丽女孩080620-001-CARIB（3P）/连续射精给在浴衣中看起来不错的纯日式美丽女孩080620-001-CARIB（3P）.m3u8
