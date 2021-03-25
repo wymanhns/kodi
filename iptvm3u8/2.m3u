@@ -67,20 +67,15 @@ CCTV·兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
 
 港澳频道,#genre#
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://livetv.dnsfor.me/channel.21.m3u8
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://livetv.dnsfor.me/channel.16.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-有线新闻,http://livetv.dnsfor.me/channel.5.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
 星空体育,rtmp://58.200.131.2:1935/livetv/starsports
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 TVB·翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1#http://livetv.dnsfor.me/channel.18.m3u8
 TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-TVB·J2,http://z1.ubtvfans.com/live/392/53f7f177a2b4fadeab049021c0966eb3/index.m3u8
-#http://livetv.dnsfor.me/channel.19.m3u8
-VIU·TV,http://livetv.dnsfor.me/channel.20.m3u8
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
@@ -89,11 +84,11 @@ VIU·TV,http://livetv.dnsfor.me/channel.20.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://livetv.dnsfor.me/channel.9.m3u8
+开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-NOW·新闻台,http://livetv.dnsfor.me/channel.4.m3u8
-港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
-港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
+卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
+港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 
 台湾频道,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -118,7 +113,7 @@ TVBS·新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#rtmp://59.124.75.156/sat
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 民视新闻·,http://210.61.56.23/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 壹新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-官方反馈QQ群：,http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
+『官方交流QQ群』：,http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
 ①群233575667,http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
 ②群460178919,http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
 
@@ -394,9 +389,9 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/214aac625811ee602172677e31
 华视新闻·,https://flv3948069e.live.126.net/live/69f6f42b3d657d2a70f99a78bb550948.flv
 民视新闻·,https://flv3948069e.live.126.net/live/76e2241b6ad96ae4e86874edab5b3f43.flv
 壹新闻台·,https://flv3948069e.live.126.net/live/61bbd83a3fcf24c4fa524a298e3e8b87.flv
-此分类容易串台,http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
-不小心就变成人,http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
-不易公共场合看,http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
+『此分类容易串台』,http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
+『不小心就变18+』,http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
+『不易公共场合看』,http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
 
 ·私人会所·_221,#genre#
 白洁巨乳大美人,https://163.com.moreleo.com/changpian/m3u8/yazhouwuma/202102/吮吸美乳HEYZO-2396（巨乳）/吮吸美乳HEYZO-2396（巨乳）.m3u8
