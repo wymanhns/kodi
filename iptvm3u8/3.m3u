@@ -235,6 +235,14 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-name="华视" ,华视
 rtmp://59.124.75.156/sat/tv111
+#EXTINF:-1 tvg-name="卫视国际电影" ,卫视国际电影
+http://xiaojun.cyou/7108live/iptv/test/?m3u8=gz2&id=twwsgjdy
+#EXTINF:-1 tvg-name="卫视国际电影" ,卫视国际电影
+http://116.171.245.2:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTQtNiZubl9haz0wMWQzMWMxMTQ2MTc2MDkwNTkxZTJmNWVjNDk2ZjA5ZTNhJm50dGw9MSZucGlwcz0xMC4yMS4xNi4xMjE6NTEwMCZuY21zaWQ9MTEwMTMxMSZuZ3M9NjA2Y2IwMmIwMDA1MjdjMjEwNTg5MmNlNGMwYjdiNmUmbm5kPWd6Z2QuaW50ZXJuZXQmbnNkPWd6Z2QuaW50ZXJuZXQmbmZ0PXRzMm0zdTgmbm5fdXNlcl9pZD0xNTgyNTM5MjAzMzM4dkhndW9tYUlTc2ImbmR0PXN0YiZuZHY9Mi4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuYWw9MDEyYmIwNmM2MDA2MDdhZmUyOTY1NzNjOTlmNjQ2YjY2Nzc3ZjY1ZDJkZDA5OA
+#EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
+http://xiaojun.cyou/7108live/iptv/test/?m3u8=gz2&id=twhbo
+#EXTINF:-1 tvg-name="HBO·亚洲" ,HBO·亚洲
+http://116.171.246.14:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTQtMiZubl9haz0wMTdmMjRiOGZhZTIwYThhOWIwMTJiZTI1MTY1YmVmOGIyJm50dGw9MSZucGlwcz0xMC4yMS4xNi4xMjE6NTEwMCZuY21zaWQ9MTEwMTI2Jm5ncz02MDZjYjE0MDAwMDE2ZjYxODBiYjlmYWQ5YmQ5ZTU1YyZubmQ9Z3pnZC5pbnRlcm5ldCZuc2Q9Z3pnZC5pbnRlcm5ldCZuZnQ9dHMybTN1OCZubl91c2VyX2lkPTE1ODI1MzkyMDMzMzh2SGd1b21hSVNzYiZuZHQ9c3RiJm5kdj0yLjAuMC4wLjAuU0MtR1pHRC1BUEFELjAuMF9SZWxlYXNlJm5zdD1pcHR2Jm5hbD0wMTQwYjE2YzYwMDYwNzRlN2U1ZTMwNjA5MDc4Y2NjMGE2ZGRjNzZkMTNhMjk4/232-10-4-2.m3u8
 #EXTINF:-1 tvg-name="GoodTV·综合台" ,GoodTV·综合台
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-name="GoodTV·卡通台" ,GoodTV·卡通台
