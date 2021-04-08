@@ -100,7 +100,7 @@ http://yntvpullhls.ynradio.com/live/yunnanweishi/playlist.m3u8
 #EXTINF:-1 tvg-name="云南卫视" ,云南卫视
 http://39.130.215.168:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-name="云南卫视" ,云南卫视
-http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
 rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
 #EXTINF:-1 tvg-name="贵州卫视" ,贵州卫视
@@ -149,6 +149,8 @@ http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225824/1.m3u8
 http://39.130.215.168:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
 #EXTINF:-1 tvg-name="广西卫视" ,广西卫视
 http://itv.ahau.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
+https://sztv-live.cutv.com/AxeFRth/500/327hxsF.m3u8?dsjtv&2358884561
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" ,深圳卫视
@@ -270,9 +272,13 @@ http://itv.ahau.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
 rtmp://58.200.131.2:1935/livetv/chchd
 #EXTINF:-1 tvg-name="足球频道" ,足球频道
+http://ivi.bupt.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1 tvg-name="足球频道" ,足球频道
 rtmp://58.200.131.2:1935/livetv/zqhd
 #EXTINF:-1 tvg-name="珠江频道" ,珠江频道
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="珠江频道" ,珠江频道
+http://39.135.32.29:6610/000000001000/1000000004000011655/1.m3u8?
 #EXTINF:-1 tvg-name="珠江频道" ,珠江频道
 http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-name="南方卫视" ,南方卫视
@@ -285,14 +291,24 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
 http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8
 #EXTINF:-1 tvg-name="南方卫视" ,南方卫视
 http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
+#EXTINF:-1 tvg-name="南国都市" ,南国都市
+http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1 tvg-name="广州影视" ,广州影视
+http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzys
+#EXTINF:-1 tvg-name="广州竞赛" ,广州竞赛
+http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzjs
+#EXTINF:-1 tvg-name="深圳电视剧" ,深圳电视剧
+https://sztv-live.cutv.com/4azbkoY/500/j1rhasb.m3u8?dsjtv&key=2358884561
+#EXTINF:-1 tvg-name="深圳娱乐" ,深圳娱乐
+https://sztv-live.cutv.com/1q4iPng/500/s3ifqs0.m3u8?dsjtv&key=2358884561
+#EXTINF:-1 tvg-name="深圳公共" ,深圳公共
+https://sztv-live.cutv.com/2q76Sw2/500/q4keqs6.m3u8?dsjtv&key=2358884561
+#EXTINF:-1 tvg-name="深圳都市" ,深圳都市
+https://sztv-live.cutv.com/ZwxzUXr/500/kujwszk.m3u8?dsjtv&key=2358884561
 #EXTINF:-1 tvg-name="都市剧场" ,都市剧场
 http://183.207.248.71/gitv/live1/G_DUSHIJC/G_DUSHIJC
 #EXTINF:-1 tvg-name="都市剧场" ,都市剧场
 http://39.134.186.42/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" ,家庭剧场
-rtmp://58.200.131.2:1935/livetv/jtjchd
-#EXTINF:-1 tvg-name="家庭影院" ,家庭影院
-rtmp://58.200.131.2:1935/livetv/jtyyhd
 #EXTINF:-1 tvg-name="佛山综合" ,佛山综合
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
 #EXTINF:-1 tvg-name="佛山影视" ,佛山影视
