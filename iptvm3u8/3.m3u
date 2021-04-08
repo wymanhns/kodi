@@ -221,61 +221,95 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
 rtmp://58.200.131.2:1935/livetv/sxrtv
 #EXTINF:-1 tvg-name="陕西卫视" ,陕西卫视
 rtmp://58.200.131.2:1935/livetv/sxtv
-#EXTINF:-1 tvg-name="大爱一台" ,大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-name="大爱二台" ,大爱二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="大爱海外" ,大爱海外
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-name="民视" ,民视
-rtmp://59.124.75.157/sat/tv051
-#EXTINF:-1 tvg-name="台视" ,台视
-rtmp://59.124.75.156/sat/tv071
-#EXTINF:-1 tvg-name="中视" ,中视
-rtmp://59.124.75.157/sat/tv091
-#EXTINF:-1 tvg-name="华视" ,华视
-rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-name="GoodTV·综合台" ,GoodTV·综合台
-https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-name="GoodTV·卡通台" ,GoodTV·卡通台
-https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-name="中天新闻" ,中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-name="东森新闻" ,东森新闻
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-name="东森超视" ,东森超视
-rtmp://59.124.75.156/sat/tv771
-#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻" ,东森财经新闻
-rtmp://59.124.75.157/sat/tv571
-#EXTINF:-1 tvg-name="三立直播新闻" ,三立直播新闻
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-name="纬来育乐" ,纬来育乐
-rtmp://59.124.75.157/sat/tv701
-#EXTINF:-1 tvg-name="纬来体育" ,纬来体育
-rtmp://59.124.75.156/sat/tv721
-#EXTINF:-1 tvg-name="TVBS·欢乐台" ,TVBS·欢乐台
-rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-name="TVBS·新闻台" ,TVBS·新闻台
-rtmp://59.124.75.156/sat/tv551
-#EXTINF:-1 tvg-name="台视新闻" ,台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-name="华视新闻" ,华视新闻
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-name="民视新闻·" ,民视新闻·
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-name="壹新闻台" ,壹新闻台
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-name="『官方交流QQ群』：" ,『官方交流QQ群』：
-http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
-#EXTINF:-1 tvg-name="①群233575667" ,①群233575667
-http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
-#EXTINF:-1 tvg-name="②群460178919" ,②群460178919
-http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
+#EXTINF:-1 tvg-name="中华特产" ,中华特产
+http://play.zhtctv.cn/portal/btv.m3u8
+#EXTINF:-1 tvg-name="福州综合" ,福州综合
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-name="福州影视" ,福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-name="福州少儿" ,福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" ,哈哈炫动
+http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="广东文化" ,广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 tvg-name="广东综艺" ,广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" ,欢笑剧场
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" ,欢笑剧场
+http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
+#EXTINF:-1 tvg-name="福建综合" ,福建综合
+http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
+#EXTINF:-1 tvg-name="厦门一台" ,厦门一台
+https://live1.kxm.xmtv.cn/xm3/playlist.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" ,卡酷少儿
+rtmp://58.200.131.2:1935/livetv/btv10hd
+#EXTINF:-1 tvg-name="上海外语" ,上海外语
+http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="龙岩综合" ,龙岩综合
+http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+#EXTINF:-1 tvg-name="龙岩公共" ,龙岩公共
+http://live.lytv.net.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="CNC·中文频道" ,CNC·中文频道
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-name="CNC·英文频道" ,CNC·英文频道
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-name="CHC·动作电影" ,CHC·动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-name="CHC·动作电影" ,CHC·动作电影
+rtmp://58.200.131.2:1935/livetv/chcatv
+#EXTINF:-1 tvg-name="CHC·家庭影院" ,CHC·家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-name="CHC·家庭影院" ,CHC·家庭影院
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
+http://itv.ahau.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
+rtmp://58.200.131.2:1935/livetv/chchd
+#EXTINF:-1 tvg-name="足球频道" ,足球频道
+rtmp://58.200.131.2:1935/livetv/zqhd
+#EXTINF:-1 tvg-name="珠江频道" ,珠江频道
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="珠江频道" ,珠江频道
+http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-name="南方卫视" ,南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 tvg-name="南方卫视" ,南方卫视
+http://39.134.24.202/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 tvg-name="南方卫视" ,南方卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:-1 tvg-name="南方卫视" ,南方卫视
+http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8
+#EXTINF:-1 tvg-name="南方卫视" ,南方卫视
+http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
+#EXTINF:-1 tvg-name="都市剧场" ,都市剧场
+http://183.207.248.71/gitv/live1/G_DUSHIJC/G_DUSHIJC
+#EXTINF:-1 tvg-name="都市剧场" ,都市剧场
+http://39.134.186.42/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" ,家庭剧场
+rtmp://58.200.131.2:1935/livetv/jtjchd
+#EXTINF:-1 tvg-name="家庭影院" ,家庭影院
+rtmp://58.200.131.2:1935/livetv/jtyyhd
+#EXTINF:-1 tvg-name="佛山综合" ,佛山综合
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
+#EXTINF:-1 tvg-name="佛山影视" ,佛山影视
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+#EXTINF:-1 tvg-name="东方影视" ,东方影视
+http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="高尔夫台" ,高尔夫台
+http://szlive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" ,快乐垂钓
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古综合" ,内蒙古综合
+http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古娱乐" ,内蒙古娱乐
+http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古少儿" ,内蒙古少儿
+http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
+#EXTINF:-1 tvg-name="爱上4K" ,爱上4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
+#EXTINF:-1 tvg-name="爱上4K" ,爱上4K
+http://39.134.24.202/PLTV/88888888/224/3221226005/index.m3u8
