@@ -241,40 +241,16 @@ http://nclive.grtn.cn/4K/sd/live.m3u8
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" ,欢笑剧场
 http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
-#EXTINF:-1 tvg-name="福建综合" ,福建综合
-http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
-#EXTINF:-1 tvg-name="厦门一台" ,厦门一台
-https://live1.kxm.xmtv.cn/xm3/playlist.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" ,卡酷少儿
 rtmp://58.200.131.2:1935/livetv/btv10hd
 #EXTINF:-1 tvg-name="上海外语" ,上海外语
 http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-name="龙岩综合" ,龙岩综合
-http://live.lytv.net.cn/zhpwd/hd/live.m3u8
-#EXTINF:-1 tvg-name="龙岩公共" ,龙岩公共
-http://live.lytv.net.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="清华大学" ,清华大学
+https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-name="CNC·中文频道" ,CNC·中文频道
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-name="CNC·英文频道" ,CNC·英文频道
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-name="CHC·动作电影" ,CHC·动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 tvg-name="CHC·动作电影" ,CHC·动作电影
-rtmp://58.200.131.2:1935/livetv/chcatv
-#EXTINF:-1 tvg-name="CHC·家庭影院" ,CHC·家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 tvg-name="CHC·家庭影院" ,CHC·家庭影院
-rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
-http://itv.ahau.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
-rtmp://58.200.131.2:1935/livetv/chchd
-#EXTINF:-1 tvg-name="足球频道" ,足球频道
-http://ivi.bupt.edu.cn/hls/zqhd.m3u8
-#EXTINF:-1 tvg-name="足球频道" ,足球频道
-rtmp://58.200.131.2:1935/livetv/zqhd
 #EXTINF:-1 tvg-name="珠江频道" ,珠江频道
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="珠江频道" ,珠江频道
@@ -325,7 +301,31 @@ http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" ,内蒙古少儿
 http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
+#EXTINF:-1 tvg-name="足球频道" ,足球频道
+http://ivi.bupt.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1 tvg-name="足球频道" ,足球频道
+rtmp://58.200.131.2:1935/livetv/zqhd
+#EXTINF:-1 tvg-name="新疆体育" ,新疆体育
+http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+#EXTINF:-1 tvg-name="山东体育" ,山东体育
+http://livealone302.iqilu.com/iqilu/typd.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁" ,山东齐鲁
+http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 #EXTINF:-1 tvg-name="爱上4K" ,爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 #EXTINF:-1 tvg-name="爱上4K" ,爱上4K
 http://39.134.24.202/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 tvg-name="CHC·动作电影" ,CHC·动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-name="CHC·动作电影" ,CHC·动作电影
+rtmp://58.200.131.2:1935/livetv/chcatv
+#EXTINF:-1 tvg-name="CHC·家庭影院" ,CHC·家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-name="CHC·家庭影院" ,CHC·家庭影院
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
+http://itv.ahau.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="CHC·高清电影" ,CHC·高清电影
+rtmp://58.200.131.2:1935/livetv/chchd

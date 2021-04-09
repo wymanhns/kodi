@@ -102,18 +102,11 @@ TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东综艺,http://nclive.grtn.cn/4K/sd/live.m3u8
 欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8#http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
-福建综合,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
-厦门一台,https://live1.kxm.xmtv.cn/xm3/playlist.m3u8
 卡酷少儿,rtmp://58.200.131.2:1935/livetv/btv10hd
 上海外语,http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
-龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
-龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC·英文频道,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-CHC·动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
-CHC·家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#rtmp://58.200.131.2:1935/livetv/chctv
-CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://itv.ahau.edu.cn/hls/chchd.m3u8#rtmp://58.200.131.2:1935/livetv/chchd
-足球频道,http://ivi.bupt.edu.cn/hls/zqhd.m3u8#rtmp://58.200.131.2:1935/livetv/zqhd
 珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8#http://39.135.32.29:6610/000000001000/1000000004000011655/1.m3u8?#http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8#http://39.134.24.202/PLTV/88888888/224/3221225871/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8#http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
 南国都市,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
@@ -132,7 +125,14 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 内蒙古综合,http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
 内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
+足球频道,http://ivi.bupt.edu.cn/hls/zqhd.m3u8#rtmp://58.200.131.2:1935/livetv/zqhd
+新疆体育,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8#http://39.134.24.202/PLTV/88888888/224/3221226005/index.m3u8
+CHC·动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
+CHC·家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#rtmp://58.200.131.2:1935/livetv/chctv
+CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://itv.ahau.edu.cn/hls/chchd.m3u8#rtmp://58.200.131.2:1935/livetv/chchd
 
 地方电视,#genre#
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
@@ -150,12 +150,13 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 内蒙古经济,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
 内蒙古蒙语,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
 内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-福建综合,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
 福建·福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福建·福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 福建·福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 福建·福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-福建·厦门一台,https://live1.kxm.xmtv.cn/xm3/playlist.m3u8
+福建·厦门一台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
+福建·厦门二台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
+福建·厦门三台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
 福建·龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
 福建·龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 福建·晋江电视,http://stream.jinjiang.tv/1/sd/live.m3u8?_upt=7738cbdd1569250965
@@ -173,6 +174,7 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 卡酷少儿,rtmp://58.200.131.2:1935/livetv/btv10hd
 浙江·柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
 浙江·柯桥时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
@@ -212,6 +214,7 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 广东·揭阳综合,http://pili-playback.liveyulin.sobeycache.com/stjy2020/zhpd.m3u8
 广东·揭阳公共,http://pili-playback.liveyulin.sobeycache.com/stjy2020/ggpd.m3u8
 广东·嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
+湖南·湖南教育,http://pull.hnedutv.com/live/hnedutv0406.m3u8
 湖南·娄底综合,http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 湖南·湘西综合,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
 湖南·湘西公共,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1381.m3u8
@@ -220,6 +223,9 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 四川旅游台,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 四川经济台,http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv3/1.m3u8#http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
 四川公共台,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+四川·成都综合,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=1
+四川·成都公共,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=5
+四川·成都影视,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=45
 四川·峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
 四川·巴中综合,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
 四川·巴中公共,https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
@@ -259,6 +265,10 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 陕西·西安白鸽台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 陕西·西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西·西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
+山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东·德州综合,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 山东·德州公共,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
 甘肃影视,http://39.134.39.38/PLTV/88888888/224/3221226287/index.m3u8
@@ -328,6 +338,7 @@ CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/
 英国·NewsMax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 英国·Racing运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 Kral流行音乐,http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+美国中文电视,https://ts.sinovision.net/livestream.m3u8
 
 ·港台流畅·_122,#genre#
 此分类不适合,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
