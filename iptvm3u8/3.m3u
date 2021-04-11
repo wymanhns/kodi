@@ -232,9 +232,11 @@ rtmp://58.200.131.2:1935/livetv/nxtv
 #EXTINF:-1 tvg-name="山西卫视" ,山西卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" ,山西卫视
+http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 tvg-name="山西卫视" ,山西卫视
 rtmp://58.200.131.2:1935/livetv/sxrtv
 #EXTINF:-1 tvg-name="陕西卫视" ,陕西卫视
-rtmp://58.200.131.2:1935/livetv/sxtv
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 tvg-name="中华特产" ,中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-name="福州综合" ,福州综合
@@ -300,9 +302,9 @@ http://szlive.grtn.cn/grfpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" ,快乐垂钓
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-name="深圳都市" ,深圳都市
-https://sztv-live.cutv.com/ZwxzUXr/500/puZ7x0U.m3u8?
+https://sztv-live.cutv.com/ZwxzUXr/500/tujwszk.m3u8?
 #EXTINF:-1 tvg-name="深圳电视剧" ,深圳电视剧
-https://sztv-live.cutv.com/4azbkoY/500/e1rb7z0.m3u8?
+https://sztv-live.cutv.com/4azbkoY/500/w2rhasb.m3u8?
 #EXTINF:-1 tvg-name="内蒙古综合" ,内蒙古综合
 http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 #EXTINF:-1 tvg-name="内蒙古娱乐" ,内蒙古娱乐
