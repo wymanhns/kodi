@@ -53,7 +53,7 @@ CCTV·兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
 深圳卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/1.m3u8#http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/szwshd/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
 康巴卫视,http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 湖北卫视,http://183.207.255.190/live/program/live/hbwshd/4000000/mnf.m3u8#http://cm.wshls.homecdn.com/live/1bd65.m3u8#http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8#http://101.71.255.229:6610/zjhs/2/10154/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-河北卫视,http://39.135.138.6:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls#http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/index.m3u8#http://39.135.138.6:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls#http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 河南卫视,http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 辽宁卫视,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8#http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8#http://183.207.255.190/live/program/live/lnwshd/4000000/mnf.m3u8
 吉林卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil#http://101.71.255.229:6610/zjhs/2/10149/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -65,8 +65,8 @@ CCTV·兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
 陕西卫视,http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 
 港澳频道,#genre#
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -88,8 +88,8 @@ TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
 港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://cdn.hkdtmb.com/hls/31/index.m3u8
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://cdn.hkdtmb.com/hls/32/index.m3u8
-官方反馈QQ群,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
-QQ群·460178919,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
+官方反馈QQ客服,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+QQ·2358884561,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
 
 杂类频道,#genre#
 中华特产,http://play.zhtctv.cn/portal/btv.m3u8
@@ -116,8 +116,8 @@ CNC·英文频道,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 东方影视,http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
 高尔夫台,http://szlive.grtn.cn/grfpd/sd/live.m3u8
 快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
-深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/jujwgzk.m3u8?
-深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/m2rhagb.m3u8?
+深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/81uZwx0.m3u8?
+深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/b3r4wz0.m3u8?
 内蒙古综合,http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
 内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
@@ -340,8 +340,8 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/6af769241a2e9c8a2d8de1282e
 壹新闻台,https://flv3948069e.live.126.net/live/1f7e0abb871601f8f995cf3a9b5dc870.flv
 港视31台,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
 港视32台,https://flv3948069e.live.126.net/live/56a6e993c7e573508a1c15a68b627b9e.flv
-官方反馈QQ群,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
-QQ群·460178919,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
+官方反馈QQ客服,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+QQ·2358884561,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
 
 ·港台联通·_122,#genre#
 联通用户专享,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
@@ -379,6 +379,7 @@ TVBS·欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=
 TVBS·新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
 中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=26678625696
 中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=596516751720
+中天新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=685885312106
 东风卫视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=5352167571120
 年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
 东森新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=518675711720
@@ -424,8 +425,8 @@ FOX·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=0
 FOX·电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
 非凡新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=034186757117
 非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
-官方反馈QQ群,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
-QQ群·460178919,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
+官方反馈QQ客服,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+QQ·2358884561,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
 
 ·音乐嗨歌·_122,#genre#
 DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654
@@ -593,5 +594,5 @@ PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037
 关于软件,#genre#
 大视界TV：,http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
 严禁商业用途,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
-官方反馈QQ群,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
-QQ群·460178919,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
+官方反馈QQ客服,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+QQ·2358884561,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142

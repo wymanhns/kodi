@@ -180,6 +180,8 @@ http://101.71.255.229:6610/zjhs/2/10154/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-name="湖北卫视" ,湖北卫视
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 tvg-name="河北卫视" ,河北卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" ,河北卫视
 http://39.135.138.6:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="河北卫视" ,河北卫视
 http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -302,9 +304,9 @@ http://szlive.grtn.cn/grfpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" ,快乐垂钓
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-name="深圳都市" ,深圳都市
-https://sztv-live.cutv.com/ZwxzUXr/500/jujwgzk.m3u8?
+https://sztv-live.cutv.com/ZwxzUXr/500/81uZwx0.m3u8?
 #EXTINF:-1 tvg-name="深圳电视剧" ,深圳电视剧
-https://sztv-live.cutv.com/4azbkoY/500/m2rhagb.m3u8?
+https://sztv-live.cutv.com/4azbkoY/500/b3r4wz0.m3u8?
 #EXTINF:-1 tvg-name="内蒙古综合" ,内蒙古综合
 http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 #EXTINF:-1 tvg-name="内蒙古娱乐" ,内蒙古娱乐
