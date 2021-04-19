@@ -65,9 +65,9 @@ CCTV·兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
 陕西卫视,http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 
 港澳频道,#genre#
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
@@ -103,6 +103,8 @@ TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC·英文频道,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8#http://39.135.32.29:6610/000000001000/1000000004000011655/1.m3u8?#http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8#http://39.134.24.202/PLTV/88888888/224/3221225871/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8#http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
 南国都市,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
@@ -114,15 +116,13 @@ CNC·英文频道,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 东方影视,http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
 高尔夫台,http://szlive.grtn.cn/grfpd/sd/live.m3u8
 快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
-深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/d1uZ5x0.m3u8?
-深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/g3r45z0.m3u8?
+深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/81uZvx0.m3u8?
+深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/b3rovz0.m3u8?
 内蒙古综合,http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
 内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
 足球频道,http://ivi.bupt.edu.cn/hls/zqhd.m3u8#rtmp://58.200.131.2:1935/livetv/zqhd
 新疆体育,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
-山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 齐影视港剧,http://hls.haokan.bdstatic.com/haokan/stream_bduid_1831830486_0.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8#http://39.134.24.202/PLTV/88888888/224/3221226005/index.m3u8
 CHC·动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
@@ -308,11 +308,11 @@ Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m
 有线18台,https://flv3948069e.live.126.net/live/7d63fa88fa16d284faf2094ae146569b.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/93aaefb8e62672359446da184fc01e03.flv
 动物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219
-美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=18671811039
+地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=68805448583
 TVB·翡翠台,https://flv3948069e.live.126.net/live/6ce476152dd42bff21e07556132f41e4.flv
 TVB·明珠台,https://flv3948069e.live.126.net/live/d3bfab2ad940b8f1738a06aeedfce3ef.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/c41270bd7b4d2d9c5875da53224f723f.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/0140a09dbca77e066ee88e5e5533bf81.flv
+TVB·新闻台,https://flv3948069e.live.126.net/live/c41270bd7b4d2d9c5875da53224f723f.flv#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+TVB·财经台,https://flv3948069e.live.126.net/live/0140a09dbca77e066ee88e5e5533bf81.flv#http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
 TVB·星河台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=51867571109
 TVB·J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=06556580346
 港视31台,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
@@ -346,8 +346,11 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/d1bbb3a66667959630d2e71a70
 卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
 八大戏剧台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=6675628003266
 TVB·翡翠台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=86358849095
-TVB·明珠台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=64480647552
+TVB·明珠台(联通),http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=64480647552
 TVB·新闻台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1005&key=65805614862
+FOX·电影台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=2864862140
+HBO·亚洲台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=0659645632
+新8视界,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=318026946625
 
 ·音乐嗨歌·_122,#genre#
 DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654
@@ -515,3 +518,8 @@ PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037
 关于软件,#genre#
 大视界TV：,http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
 严禁商业用途,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+给生活多一点发现,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+关注淘宝支持软件,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+不强求消费求关注,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+关注淘宝店铺,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+店名:大视界杂货铺子,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
