@@ -123,8 +123,8 @@ CCTV·兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
 广东文化台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 南方卫视,http://39.134.24.202/PLTV/88888888/224/3221225871/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8#http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8#http://39.135.138.6:6610/PLTV/88888888/224/3221226203/2/index.m3u8?fmt=ts2hls
 珠江频道,http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/s1ujw4n.m3u8
-深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/v3rha4b.m3u8
+深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/a3uZtx0.m3u8
+深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/d5r4tz0.m3u8
 深圳龙岗,http://liveplay.sznews.com/66_norecord_live/357.m3u8
 深圳东部,http://liveplay.sznews.com/66_norecord_live/343.m3u8
 深圳众创,http://liveplay.sznews.com/66_norecord_live/341.m3u8
@@ -394,15 +394,15 @@ Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m
 大视界TV,http://189.ly93.cc/M7JJbmIr2Ynu/1151225457404910
 
 ·港台电视·_122,#genre#
-有线新闻,https://flv3948069e.live.126.net/live/c67cb2a47fa0d8f710273d3822a1000c.flv
+有线新闻,https://flv3948069e.live.126.net/live/1095c9f8251d3ac4d7e0bad8832a92c5.flv
 动物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219
-TVB·翡翠台,https://flv3948069e.live.126.net/live/492c56b13bee670777d55d94b8eb9b06.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/aef8fd34f50df5d826d8c89c78a24698.flv
 TVB·明珠台,https://flv3948069e.live.126.net/live/43b07e42d0f8acf13fa7342604193b6a.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/267dcc60806e7def07828fc4e00f4843.flv#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+TVB·新闻台,https://flv3948069e.live.126.net/live/267dcc60806e7def07828fc4e00f4843.flv#http://pullhls3948069e.live.126.net/live/hkwxxw_MTYxOTQ1NTg2NQ/playlist.m3u8#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 TVB·财经台,https://flv3948069e.live.126.net/live/dc25e8f3290b266db5154e7d68de6feb.flv#http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
 TVB·J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=06556580346
 港视32台,https://flv3948069e.live.126.net/live/464976f86038fa2cbaf5bc3b045e504b.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/5adaed901d1629dc07c34bdfe59ae8e7.flv
+NOW·新闻台,https://flv3948069e.live.126.net/live/5adaed901d1629dc07c34bdfe59ae8e7.flv#http://pullhls3948069e.live.126.net/live/hknowxw_MTYxOTQ2MDE4Ng/playlist.m3u8
 VIU·综合,https://flv3948069e.live.126.net/live/44e6ff2354da99047462a36873c6ef61.flv#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
 环宇亚洲旅游,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=DSJTV&yzly
 龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
