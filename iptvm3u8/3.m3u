@@ -237,8 +237,8 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
 http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-name="山西卫视" ,山西卫视
 rtmp://58.200.131.2:1935/livetv/sxrtv
-#EXTINF:-1 tvg-name="陕西卫视" ,陕西卫视
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" ,兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="中华特产" ,中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-name="生态环境" ,生态环境
