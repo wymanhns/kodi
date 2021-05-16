@@ -2,9 +2,13 @@ name: Python application
 
 on:
   push:
-  schedule:
-    - cron: "* */4 * * *"
-
+#  schedule:
+#    - cron: "* */4 * * *"
+  
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    
 jobs:
   build: 
 
